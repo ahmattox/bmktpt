@@ -1,0 +1,10 @@
+.container {
+  display: grid;
+  gap: 3em;
+}
+
+.divider {
+  background-color: var(--text-color);
+  width: 3em;
+  height: 3px;
+}

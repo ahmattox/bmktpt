@@ -1,0 +1,11 @@
+.container {
+  padding: 2em;
+  display: grid;
+  gap: 0.5em;
+}
+
+.title {
+  font-weight: bold;
+  font-size: 2em;
+  letter-spacing: 0.05em;
+}

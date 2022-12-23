@@ -1,0 +1,106 @@
+- name: Regular Cube
+  owner: Anthony Mattox
+  category: cube
+  description: Low powered cube similar to a masters set.
+  link: https://cubecobra.com/cube/overview/regular
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/a/d/ad8b8518-c09e-4cb7-95b2-08e4e370d89c.jpg?1562803091
+- name: Irregular Cube
+  owner: Anthony Mattox
+  category: cube
+  description:
+    Low powered cube with time-spiral like themes and a module of ‘rare’ cards.
+  link: https://cubecobra.com/cube/overview/irregular-cube
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/c/3/c35aa7a8-5579-46b7-83ef-f5ecc2b31847.jpg?1562936285
+- name: Turbo Cube
+  owner: Anthony Mattox
+  category: cube
+  description: All spells and activated abilities cost {2} less to cast.
+  link: https://cubecobra.com/cube/overview/turbo
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/b/fb988572-1e1d-4b1d-8dc7-78bda966554e.jpg?1562942414
+- name: Bun Magic Cube
+  owner: Andy Mangold
+  category: cube
+  description:
+    High powered fair cube, pushing aggro, midrange, and control strategies.
+  link: https://cubecobra.com/cube/overview/andymangold
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/a/ba69864e-aee2-4b9f-821c-8b4a1c05c2ac.jpg?1562271905
+- name: Degenerate Micro Cube
+  owner: Andy Mangold
+  category: cube
+  description:
+    15 card decks, no loss to mill, feature Magic’s most broken archetypes.
+  link: https://cubecobra.com/cube/overview/degenerate-micro-cube
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/7/2/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9.jpg?1562778128
+- name: Reading Rainbow
+  owner: Daniel
+  category: cube
+  description:
+    Only multicolored spells. Players begin the game with a Pillar of the Paruns
+    in play.
+  link: https://cubecobra.com/cube/overview/allgoldcube
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/3/236dcb39-b81e-4ae2-b153-01be0577ed93.jpg?1593274108
+- name: Breya Cube
+  owner: James
+  category: cube
+  description: Artifact and enchantment focused with no green cards.
+  link: https://cubecobra.com/cube/overview/breyacube
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/e/dec79304-65fb-4064-ba39-85d04fd91574.jpg?1561758238
+- name: Storm Cube
+  owner: Ankit
+  category: cube
+  description: Everyone’s playing storm.
+  link: https://cubecobra.com/cube/overview/2pmbe
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/f/3/f3d62dbd-63db-4ac9-950f-9852627f23f2.jpg?1562946525
+- name: Baby’s First Cube
+  owner: Hillary
+  category: cube
+  description: A mid power level Cube.
+  link: https://cubecobra.com/cube/overview/1p4o7
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/5/a/5a3df85a-21c8-45fc-a7fc-f9fed1e735f0.jpg?1562274065
+- name: Binder Cube
+  owner: Sal
+  category: cube
+  description: A mid power level Cube.
+  link: https://cubecobra.com/cube/overview/bindercube
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/d/2/d25b13a4-6282-4426-8b01-9550f7d52d16.jpg?1562945077
+- name: Vintage Cube (No p9)
+  owner: Jay
+  category: cube
+  description: Classic vintage cube in the MTGO style.
+  link: https://cubecobra.com/cube/overview/12o6
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/2/2/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c.jpg?1562875845
+- name: Peasant+ Cube
+  owner: Allison
+  category: cube
+  description: Peasant cube with the addition of rare lands.
+  link: https://cubecobra.com/cube/overview/releasetheallicinspeasantcube
+  imageURL: https://cards.scryfall.io/art_crop/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229
+- name: Dimir Cube
+  owner: Yitzi
+  category: cube
+  description: A cube stripped down to only blue and black cards.
+  link: https://cubecobra.com/cube/overview/dimir
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/9/a/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf.jpg?1598917967
+- name: Kitchen Table Cube
+  owner: Aran
+  category: cube
+  link: https://cubecobra.com/cube/overview/kitchen-table-cube
+  imageURL: https://cards.scryfall.io/art_crop/front/3/4/34044cf5-79ed-479c-abdc-3718ec193dd3.jpg?1562784678
+- name: Mono-Color Beginner Decks
+  owner: Andy Mangold
+  category: other
+  description: A set of 5 mono-color decks.
+  link: https://cubecobra.com/cube/overview/mono-color-beginner-decks
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/b/1/b1d0beb4-c3dd-4bb1-b49b-a48b2d4ad38d.jpg?1562932521
+- name: Battle Box
+  owner: Anthony Mattox
+  category: other
+  description: Players draw from a shared deck and have free lands.
+  link: https://cubecobra.com/cube/overview/60f5fab79e954b050e0ae497
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/3/1/31a500e6-01f5-4a3a-8839-68b9b515e919.jpg?1594735061
+- name: Jeskai Control Battle Box
+  owner: Andy Mangold
+  category: other
+  description: A color restricted Battle Box replicating an iconic mirror match.
+  link: https://cubecobra.com/cube/overview/jeskai-control-bb
+  imageURL: https://c1.scryfall.com/file/scryfall-cards/art_crop/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302

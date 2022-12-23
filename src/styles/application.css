@@ -1,0 +1,25 @@
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+
+  --text-color: #290b1b;
+  --background-color: #e9f0f3;
+}
+
+body {
+  background-color: var(--background-color);
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+p {
+  line-height: 1.4em;
+}
+
+p a,
+li a {
+  text-decoration: underline;
+}

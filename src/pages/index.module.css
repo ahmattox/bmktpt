@@ -1,0 +1,45 @@
+em {
+  font-weight: bold;
+}
+
+.intro {
+  margin: 0 0 2em;
+  max-width: 40em;
+}
+
+.intro p {
+  font-size: 2em;
+  line-height: 1.4em;
+  margin-bottom: 0.75em;
+}
+
+.intro a {
+  text-decoration: underline;
+}
+
+.link1 {
+  color: #ab60c3;
+}
+
+.link2 {
+  color: #d26b3a;
+}
+
+.link3 {
+  color: #30b09b;
+}
+
+.link4 {
+  color: #b03074;
+}
+
+.resources {
+  margin: 0 0 2em;
+}
+
+.events {
+  margin: 0 0 2em;
+}
+
+.secondaryHeading {
+}

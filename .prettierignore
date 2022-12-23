@@ -1,0 +1,9 @@
+.cache
+package.json
+package-lock.json
+public
+plugins/**/lib
+
+# Formatting is broken in footnotes in this file. Likely this will be fixed in a
+# future version of MDX and this should be removed.
+src/data/podcast-notes/017-how-and-why-to-build-a-cube.md
