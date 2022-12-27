@@ -1,6 +1,7 @@
 import type { GatsbyConfig } from 'gatsby'
 
 const config: GatsbyConfig = {
+  pathPrefix: '/bmktpt',
   siteMetadata: {
     title: `BMKTPT`,
     siteUrl: 'http://bmktpt.com'
