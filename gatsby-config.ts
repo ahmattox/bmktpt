@@ -2,7 +2,8 @@ import type { GatsbyConfig } from 'gatsby'
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    title: `BMKTPT`
+    title: `BMKTPT`,
+    siteUrl: 'http://bmktpt.com'
   },
   graphqlTypegen: true,
   plugins: [
@@ -10,12 +11,6 @@ const config: GatsbyConfig = {
     'gatsby-plugin-sass',
     'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap',
-    // {
-    //   resolve: 'gatsby-plugin-manifest',
-    //   options: {
-    //     icon: 'src/images/icon.png'
-    //   }
-    // },
     'gatsby-plugin-mdx',
     'gatsby-transformer-yaml',
     {
