@@ -32,9 +32,10 @@ async function main() {
 
     if (id != null) {
       const ccCube = await fetchCube(id)
+
       cubesWithImages.push({
         ...cube,
-        imageURL: ccCube.image_uri
+        imageURL: ccCube.image?.uri
       })
     } else {
       cubesWithImages.push(cube)

@@ -28,9 +28,12 @@ export interface CubeCobraCube {
   shortID: string
   name: string
   owner: string
-  image_uri: string
-  image_name: string
-  image_artist: string
+  image: {
+    uri: string
+    artist: string
+    id: string
+    imageName: string
+  }
   description: string
   owner_name: string
   date_updated: string
