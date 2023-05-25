@@ -2,7 +2,8 @@ html {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 16px;
 
-  --text-color: #290b1b;
+  --text-color: #392731;
+  --light-text-color: #756d72;
   --background-color: #e9f0f3;
 }
 

@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+}
+
+.heading {
+  font-size: 1.5em;
+  font-weight: bold;
+  background-color: var(--background-color);
+  z-index: 1;
+  position: relative;
+  display: inline;
+  padding-right: 0.5em;
+}
+
+.rule {
+  background-color: var(--text-color);
+  width: 100%;
+  max-width: 39em;
+  height: 3px;
+  position: absolute;
+  top: 50%;
+  left: 0;
+}

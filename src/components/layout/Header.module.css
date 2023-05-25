@@ -1,6 +1,11 @@
 .container {
   padding: 2em;
   display: grid;
+  gap: 2em;
+}
+
+.titleContainer {
+  display: grid;
   gap: 0.5em;
 }
 
@@ -8,4 +13,8 @@
   font-weight: bold;
   font-size: 2em;
   letter-spacing: 0.05em;
+}
+
+.subtitle {
+  color: #756d72;
 }

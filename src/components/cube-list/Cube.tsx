@@ -11,6 +11,7 @@ interface Props {
     description: string
     category: string
     imageURL?: string
+    color: string
   }
 }
 
@@ -20,6 +21,10 @@ export const Cube: React.FC<Props> = (props) => {
   return (
     <a href={cube.link} key={cube.id} className={styles.container}>
       <img src={cube.imageURL} alt="" className={styles.backgroundImage} />
+      <div
+        className={styles.backgroundOverlay}
+        style={{ backgroundColor: cube.color }}
+      />
 
       <img src={cube.imageURL} alt="" className={styles.image} />
       <div className={styles.details}>
