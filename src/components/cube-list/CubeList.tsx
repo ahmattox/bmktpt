@@ -1,6 +1,7 @@
 import * as styles from './CubeList.module.css'
 
 import React from 'react'
+
 import { Cube } from './Cube'
 
 interface Props {
@@ -21,8 +22,8 @@ export const CubeList: React.FC<Props> = (props) => {
 
   return (
     <div className={styles.container}>
-      {cubes.map((cube) => (
-        <Cube cube={cube} />
+      {cubes.map((cube, index) => (
+        <Cube cube={cube} key={index} />
       ))}
     </div>
   )

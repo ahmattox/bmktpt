@@ -6,23 +6,27 @@ import { Link } from 'gatsby'
 
 import { discordServerLink } from 'config.js'
 
-import Layout from 'src/components/layout/Layout'
+import Layout from 'components/layout/Layout'
 
 const IndexPage: React.FC = () => {
   return (
     <Layout>
       <div className={styles.intro}>
         <p>
-          The <strong>Bun [or Baltimore] Magic Kitchen Table Pro Tour</strong>{' '}
-          is an informal Magic: the Gathering playgroup in Baltimore, MD, mostly
-          in the Hampden, Old Goucher, and Remington neighborhoods.
+          The <strong>Baltimore [Bun] Magic Kitchen Table Pro Tour</strong> is
+          an informal Magic: the Gathering playgroup in Baltimore, MD, mostly in
+          the Hampden, Old Goucher, and Remington neighborhoods.
         </p>
 
         <p>
           Come hang out in our{' '}
           <a
             href={discordServerLink}
-            className={classNames(styles.bigLink, styles.link1)}
+            className={classNames(
+              styles.bigLink,
+              styles.link1,
+              styles.external
+            )}
           >
             Discord
           </a>{' '}
@@ -33,7 +37,11 @@ const IndexPage: React.FC = () => {
           We play often at{' '}
           <a
             href="https://www.nolandbaltimore.com"
-            className={classNames(styles.bigLink, styles.link2)}
+            className={classNames(
+              styles.bigLink,
+              styles.link2,
+              styles.external
+            )}
           >
             No Land Beyond
           </a>
@@ -44,7 +52,11 @@ const IndexPage: React.FC = () => {
           We play a lot of{' '}
           <a
             href="http://luckypaper.co/what-is-a-cube/"
-            className={classNames(styles.bigLink, styles.link3)}
+            className={classNames(
+              styles.bigLink,
+              styles.link3,
+              styles.external
+            )}
           >
             Cube
           </a>
@@ -65,7 +77,11 @@ const IndexPage: React.FC = () => {
           night at 6:30 at{' '}
           <a
             href="https://www.nolandbaltimore.com"
-            className={classNames(styles.bigLink, styles.link2)}
+            className={classNames(
+              styles.bigLink,
+              styles.link2,
+              styles.external
+            )}
           >
             NLB
           </a>{' '}
@@ -73,6 +89,18 @@ const IndexPage: React.FC = () => {
         </p>
       </div>
     </Layout>
+  )
+}
+
+export const Head = () => {
+  return (
+    <>
+      <title>BMKTPT</title>
+      <meta
+        name="description"
+        content="The Baltimore [Bun] Magic Kitchen Table Pro Tour is an informal Magic: the Gathering playgroup in Baltimore, MD. We play a lot of Cube."
+      />
+    </>
   )
 }
 

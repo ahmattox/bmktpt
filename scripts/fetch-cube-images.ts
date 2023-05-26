@@ -1,28 +1,18 @@
-#!/usr/bin/env ts-node
-
 import fs from 'fs'
 import path from 'path'
 import yaml from 'yaml'
-import { format } from 'prettier'
+import prettier from 'prettier'
 
 import { cubeIDFromLink, fetchCube } from './utils/cube-cobra'
 
 async function main() {
-  const source = path.resolve(__dirname, '../src/data/cubes.yml')
+  const cubesPath = path.resolve(__dirname, '../src/data/cubes.yml')
 
   const cubes: {
-    name: string
-    owner: string
-    category: string
-    description: string
     link: string
-  }[] = yaml.parse(fs.readFileSync(source).toString())
+  }[] = yaml.parse(fs.readFileSync(cubesPath).toString())
 
   const cubesWithImages: {
-    name: string
-    owner: string
-    category: string
-    description: string
     link: string
     imageURL?: string
   }[] = []
@@ -42,9 +32,14 @@ async function main() {
     }
   }
 
+  const prettierOptions = await prettier.resolveConfig(cubesPath)
+
   fs.writeFileSync(
-    source,
-    format(yaml.stringify(cubesWithImages), { filepath: source })
+    cubesPath,
+    prettier.format(yaml.stringify(cubesWithImages).replace(/\n-/g, '\n\n-'), {
+      ...prettierOptions,
+      filepath: cubesPath
+    })
   )
 }
 

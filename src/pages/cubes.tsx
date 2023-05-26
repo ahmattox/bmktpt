@@ -32,4 +32,16 @@ export const query = graphql`
   }
 `
 
+export const Head = () => {
+  return (
+    <>
+      <title>BMKTPT - Cube Menu</title>
+      <meta
+        name="description"
+        content="Paper Cubes in the Baltimore Magic Kitchen Table Pro Tour Community"
+      />
+    </>
+  )
+}
+
 export default CubesPage

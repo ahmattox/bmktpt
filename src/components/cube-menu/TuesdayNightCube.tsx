@@ -1,7 +1,6 @@
 import * as styles from './TuesdayNightCube.module.css'
 
 import React, { useState } from 'react'
-import classNames from 'classnames'
 
 import { discordServerLink } from 'config.js'
 
@@ -11,21 +10,10 @@ export const TuesdayNightCube: React.FC = () => {
   return (
     <div className={styles.container}>
       <p>
-        We draft{' '}
-        <a
-          href="http://luckypaper.co/what-is-a-cube/"
-          className={classNames(styles.bigLink, styles.link3)}
-        >
-          Cube
-        </a>{' '}
-        every Tuesday night at 6:30pm at{' '}
-        <a
-          href="https://www.nolandbaltimore.com"
-          className={classNames(styles.bigLink, styles.link2)}
-        >
-          No Land Beyond
-        </a>
-        . All players are welcome.
+        We draft <a href="http://luckypaper.co/what-is-a-cube/">Cube</a> every
+        Tuesday night at 6:30pm at{' '}
+        <a href="https://www.nolandbaltimore.com">No Land Beyond</a>. All
+        players are welcome.
       </p>
 
       {showDetails ? (
@@ -43,15 +31,10 @@ export const TuesdayNightCube: React.FC = () => {
           </p>
 
           <p>
-            <a
-              href={discordServerLink}
-              className={classNames(styles.bigLink, styles.link1)}
-            >
-              The Discord
-            </a>{' '}
-            (message me for an invite) is the best place to stay in touch. We
-            informally organize which Cubes we'll draft there as well as share
-            decklists for each Cube and talk about Magic and more.
+            <a href={discordServerLink}>The Discord</a> (message me for an
+            invite) is the best place to stay in touch. We informally organize
+            which Cubes we&rsquo;ll draft there as well as share deck lists for
+            each Cube and talk about Magic and more.
           </p>
 
           <button
@@ -67,7 +50,7 @@ export const TuesdayNightCube: React.FC = () => {
             className={styles.button}
             onClick={() => setShowDetails(true)}
           >
-            Event Details
+            Event Details &darr;
           </button>
         </>
       )}

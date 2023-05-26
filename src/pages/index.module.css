@@ -17,12 +17,34 @@
   margin-bottom: 0.75em;
 }
 
+.intro p sup {
+  vertical-align: super;
+  text-decoration: none;
+  font-size: 0.5em;
+}
+
 .bigLink {
   text-decoration: underline;
+  position: relative;
 }
 
 .bigLink:hover {
   text-shadow: 0 1px 2px rgba(136, 117, 127, 0.3);
+  text-decoration-thickness: 0.13em;
+}
+
+.bigLink.external {
+  margin-right: 0.5em;
+}
+
+.bigLink.external::after {
+  content: '→';
+  position: absolute;
+  top: -0.25em;
+  right: -1em;
+  font-weight: black;
+  transform: rotate(-45deg);
+  font-size: 0.75em;
 }
 
 .link1 {

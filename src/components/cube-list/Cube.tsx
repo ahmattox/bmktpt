@@ -20,13 +20,23 @@ export const Cube: React.FC<Props> = (props) => {
 
   return (
     <a href={cube.link} key={cube.id} className={styles.container}>
-      <img src={cube.imageURL} alt="" className={styles.backgroundImage} />
+      <img
+        src={cube.imageURL}
+        alt=""
+        className={styles.backgroundImage}
+        role="presentation"
+      />
       <div
         className={styles.backgroundOverlay}
         style={{ backgroundColor: cube.color }}
       />
 
-      <img src={cube.imageURL} alt="" className={styles.image} />
+      <img
+        src={cube.imageURL}
+        alt=""
+        className={styles.image}
+        role="presentation"
+      />
       <div className={styles.details}>
         <div className={styles.name}>{cube.name}</div>
         <div className={styles.owner}>{cube.owner}</div>

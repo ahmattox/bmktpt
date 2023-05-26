@@ -1,7 +1,6 @@
 import type { GatsbyConfig } from 'gatsby'
 
 const config: GatsbyConfig = {
-  pathPrefix: '/bmktpt',
   siteMetadata: {
     title: `BMKTPT`,
     siteUrl: 'http://bmktpt.com'
@@ -9,8 +8,6 @@ const config: GatsbyConfig = {
   graphqlTypegen: true,
   plugins: [
     'gatsby-plugin-root-import',
-    'gatsby-plugin-sass',
-    'gatsby-plugin-react-helmet',
     'gatsby-plugin-sitemap',
     'gatsby-plugin-mdx',
     'gatsby-transformer-yaml',

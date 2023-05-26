@@ -9,6 +9,30 @@ html {
   --background-color: #e9f0f3;
 }
 
+@media screen and (max-width: 600px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  html {
+    font-size: 14px;
+  }
+}
+
+@media screen and (max-width: 450px) {
+  html {
+    font-size: 13px;
+  }
+}
+
+@media screen and (max-width: 400px) {
+  html {
+    font-size: 12px;
+  }
+}
+
 body {
   background-color: var(--background-color);
 }
