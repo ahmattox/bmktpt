@@ -15,7 +15,7 @@ const IndexPage: React.FC = () => {
         <p>
           The <strong>Bun [or Baltimore] Magic Kitchen Table Pro Tour</strong>{' '}
           is an informal Magic: the Gathering playgroup in Baltimore, MD, mostly
-          in the Charles Village and Station North neighborhoods.
+          in the Hampden, Old Goucher, and Remington neighborhoods.
         </p>
 
         <p>
