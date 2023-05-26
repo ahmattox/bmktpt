@@ -44,6 +44,17 @@
   imageURL: https://cards.scryfall.io/art_crop/front/7/2/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9.jpg?1562778128
   color: '#AF4977'
 
+- name: Neoclassical Cube
+  owner: Andy Mangold
+  category: cube
+  description:
+    The Neoclassical Cube is my attempt to capture and celebrate the spirit of
+    the early days of Magic. It is a synergistic, wide power band environment
+    that pursues the archetypes and play patterns of pre-modern.
+  link: https://cubecobra.com/cube/overview/neoclassical
+  imageURL: https://cards.scryfall.io/art_crop/front/5/2/52bf69ca-b974-4620-8483-b0ba33db26a5.jpg?1562911827
+  color: '#DE965C'
+
 - name: Reading Rainbow
   owner: Daniel
   category: cube
@@ -93,9 +104,8 @@
 - name: Binder Cube
   owner: Sal
   category: cube
-  description: >
+  description: |
     Just because you dumped out your binder doesn't mean you have a cube...
-
     Or does it?
   link: https://cubecobra.com/cube/overview/bindercube
   imageURL: https://cards.scryfall.io/art_crop/front/d/2/d25b13a4-6282-4426-8b01-9550f7d52d16.jpg?1562945077
