@@ -49,9 +49,9 @@ export const TuesdayNightCube: React.FC = () => {
             >
               The Discord
             </a>{' '}
-            is the best place to stay in touch. We informally organize which
-            Cubes we'll draft there as well as share decklists for each Cube and
-            talk about Magic and more.
+            (message me for an invite) is the best place to stay in touch. We
+            informally organize which Cubes we'll draft there as well as share
+            decklists for each Cube and talk about Magic and more.
           </p>
 
           <button

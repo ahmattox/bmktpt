@@ -25,8 +25,8 @@ const IndexPage: React.FC = () => {
             className={classNames(styles.bigLink, styles.link1)}
           >
             Discord
-          </a>
-          .
+          </a>{' '}
+          (message me for an invite).
         </p>
 
         <p>
