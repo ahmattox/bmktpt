@@ -26,6 +26,12 @@ export const TuesdayNightCube: React.FC = () => {
           </p>
 
           <p>
+            While you&rsquo;re here, be sure to support our great LGS! Buy a
+            drink, Magic supplies, or game pass so they can keep the literal
+            lights on.
+          </p>
+
+          <p>
             We have <em>a lot</em> of cubes in the group, so be prepared to
             tackle something different every week.
           </p>

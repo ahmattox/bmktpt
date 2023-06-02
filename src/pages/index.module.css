@@ -34,17 +34,6 @@
 }
 
 .bigLink.external {
-  margin-right: 0.5em;
-}
-
-.bigLink.external::after {
-  content: '→';
-  position: absolute;
-  top: -0.25em;
-  right: -1em;
-  font-weight: black;
-  transform: rotate(-45deg);
-  font-size: 0.75em;
 }
 
 .link1 {
