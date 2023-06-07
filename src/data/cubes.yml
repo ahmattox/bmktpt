@@ -265,3 +265,13 @@
   link: https://cubecobra.com/cube/overview/42d61463-7431-4b0d-a315-87b6496abc91
   imageURL: https://cards.scryfall.io/art_crop/front/2/2/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c.jpg?1562875845
   color: '#E8D36A'
+
+- name: Standard Peasant Cube
+  owner: Dean
+  category: cube
+  description:
+    Peasant standard cube including only common and uncommon cards from standard
+    legal sets. Originally designed "Zac the Crafter".
+  link: http://cubecobra.com/cube/overview/078ff41e-593c-4aed-809e-4f8efdf63cf8
+  imageURL: https://cards.scryfall.io/art_crop/front/7/f/7f2642cd-e3cc-4aab-8c00-4987284509b3.jpg?1682205924
+  color: '#C1405D'
