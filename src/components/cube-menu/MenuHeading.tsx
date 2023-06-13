@@ -3,7 +3,7 @@ import * as styles from './MenuHeading.module.css'
 import React from 'react'
 
 interface Props {
-  children: string
+  children: React.ReactNode
 }
 
 export const MenuHeading: React.FC<Props> = (props) => {

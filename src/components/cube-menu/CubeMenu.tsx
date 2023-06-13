@@ -29,13 +29,17 @@ export const CubeMenu: React.FC<Props> = (props) => {
       <TuesdayNightCube />
 
       <div className={styles.list}>
-        <MenuHeading>BMKTPT Cube Menu</MenuHeading>
+        <MenuHeading>
+          BMKTPT Cube Menu - {groups.cubes.length} Lists
+        </MenuHeading>
 
         <CubeList cubes={groups.cubes} />
       </div>
 
       <div className={styles.list}>
-        <MenuHeading>Other Cuboid Formats</MenuHeading>
+        <MenuHeading>
+          Other Cuboid Formats - {groups.other.length} Lists
+        </MenuHeading>
 
         <CubeList cubes={groups.other} />
       </div>
