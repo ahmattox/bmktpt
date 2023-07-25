@@ -234,7 +234,7 @@
   description:
     Designed to be played with 2 or 4 players. High powered, very synergistic,
     and full of  infinite combos.
-  link: https://cubecobra.com/cube/overview/ivpm
+  link: https://cubecobra.com/cube/overview/arto
   imageURL: https://cards.scryfall.io/art_crop/front/c/3/c32b5b2e-dabf-4672-b476-4873781f636e.jpg?1626096405
   color: '#D9322C'
 
@@ -263,7 +263,7 @@
     Mid power cube (compared to a powered one and a peasant one) focused on
     interaction, mildly flexible archetypes, and play decisions.
   link: https://cubecobra.com/cube/overview/42d61463-7431-4b0d-a315-87b6496abc91
-  imageURL: https://cards.scryfall.io/art_crop/front/2/2/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c.jpg?1562875845
+  imageURL: https://cards.scryfall.io/art_crop/front/3/9/3941e799-a254-423e-90bb-091dbe56ca6a.jpg?1562053745
   color: '#E8D36A'
 
 - name: Standard Peasant Cube
@@ -273,7 +273,7 @@
     Peasant standard cube including only common and uncommon cards from standard
     legal sets. Originally designed "Zac the Crafter".
   link: http://cubecobra.com/cube/overview/078ff41e-593c-4aed-809e-4f8efdf63cf8
-  imageURL: https://cards.scryfall.io/art_crop/front/7/f/7f2642cd-e3cc-4aab-8c00-4987284509b3.jpg?1682205924
+  imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1682203531
   color: '#C1405D'
 
 - name: Eon Hube
@@ -309,3 +309,11 @@
   link: https://cubecobra.com/cube/overview/5f066698c0970d580f442975
   color: '#355A51'
   imageURL: https://cards.scryfall.io/art_crop/front/b/c/bcc764b0-3046-4bde-b424-c0f4e1a6169b.jpg?1562803426
+
+- name: Unstable P.L.U.S.
+  owner: Nate
+  category: cube
+  description: Set cube to replicate Unstable retail draft with a little extra!
+  link: https://cubecobra.com/cube/overview/unstableplus
+  color: '#B2B07A'
+  imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1611976597

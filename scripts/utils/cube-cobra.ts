@@ -145,6 +145,7 @@ export interface CubeCobraCube {
 }
 
 export async function fetchCube(cubeID: string): Promise<CubeCobraCube> {
+  console.log(`Fetching Cube: ${cubeID}`)
   const url = `${apiURL}/cubeJSON/${cubeID}`
 
   const response = await fetch(url)
