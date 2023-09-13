@@ -266,6 +266,16 @@
   imageURL: https://cards.scryfall.io/art_crop/front/3/9/3941e799-a254-423e-90bb-091dbe56ca6a.jpg?1562053745
   color: '#E8D36A'
 
+- name: The Ark
+  owner: Alex W
+  category: cube
+  description:
+    A cube in development with two cards from every* set, plus a land from each
+    expansion.
+  link: https://cubecobra.com/cube/overview/TheArk
+  imageURL: https://cards.scryfall.io/art_crop/front/9/5/9598b346-a47d-4c4c-9571-156824e86b9c.jpg?1562922771
+  color: '#4B7DAA'
+
 - name: Standard Peasant Cube
   owner: Dean
   category: cube
@@ -276,13 +286,13 @@
   imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1682203531
   color: '#C1405D'
 
-- name: Eon Hube
+- name: The Naked Cube
   owner: Nate
   category: cube
   description: No shuffling, tokens, counters or double faced cards. Simple.
   link: https://cubecobra.com/cube/overview/e141833f-7090-4c2d-b28c-1a1210e3d45c
   color: '#375096'
-  imageURL: https://cards.scryfall.io/art_crop/front/d/5/d5d6b270-b4c9-489d-9322-7c8ddc0ca0ac.jpg?1562879962
+  imageURL: https://cards.scryfall.io/art_crop/front/f/e/fe07e496-5070-4116-a91a-a3bbe19c12af.jpg?1562942896
 
 - name: Khans of Tarkir Set Cube
   owner: Nate
@@ -308,7 +318,7 @@
   description: A clone of the MTGO Vintage Cube.
   link: https://cubecobra.com/cube/overview/5f066698c0970d580f442975
   color: '#355A51'
-  imageURL: https://cards.scryfall.io/art_crop/front/b/c/bcc764b0-3046-4bde-b424-c0f4e1a6169b.jpg?1562803426
+  imageURL: https://cards.scryfall.io/art_crop/front/5/8/58c9e9a7-e170-4361-b7d5-22fc0771c489.jpg?1562911386
 
 - name: Unstable P.L.U.S.
   owner: Nate
@@ -316,4 +326,4 @@
   description: Set cube to replicate Unstable retail draft with a little extra!
   link: https://cubecobra.com/cube/overview/unstableplus
   color: '#B2B07A'
-  imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1611976597
+  imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1690725283
