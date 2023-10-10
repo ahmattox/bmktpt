@@ -286,6 +286,17 @@
   imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1682203531
   color: '#C1405D'
 
+- name: The Synergy Fun House
+  owner: Dean
+  category: cube
+  description:
+    Spike and Johnny are the same person. There are combos and stuff.  Dean
+    sucks at drafting his own cube. Sundial of the infinite is one of my
+    favorite cards and I never made it work in modern.
+  link: http://cubecobra.com/cube/overview/synergyfunhouse
+  imageURL: https://cards.scryfall.io/art_crop/front/c/9/c973bce5-77d7-43f7-a559-25acb80d876a.jpg?1673917454
+  color: '#C1405D'
+
 - name: The Naked Cube
   owner: Nate
   category: cube
