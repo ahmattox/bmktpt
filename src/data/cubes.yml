@@ -119,12 +119,12 @@
   imageURL: https://cards.scryfall.io/art_crop/front/2/2/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c.jpg?1562875845
   color: '#E8D36A'
 
-- name: Peasant+ Cube
+- name: Rally The Peasants
   owner: Allison
   category: cube
   description: Peasant cube with the addition of rare lands.
-  link: https://cubecobra.com/cube/overview/releasetheallicinspeasantcube
-  imageURL: https://cards.scryfall.io/art_crop/front/a/2/a2a86ee7-f953-4fa2-8f28-a0c28afd733b.jpg?1571320229
+  link: https://cubecobra.com/cube/overview/RallyThePeasants
+  imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d33e2f5-c2f5-4e69-924f-c8c9ed1ae1a7.jpg?1562636844
   color: '#3D3F54'
 
 - name: Reduce, Reuse, Recycle
