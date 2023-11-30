@@ -27,6 +27,7 @@ export const query = graphql`
         category
         imageURL
         color
+        defunct
       }
     }
   }

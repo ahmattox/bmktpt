@@ -38,6 +38,7 @@ type CubesYaml = Node & {
   readonly category: Maybe<Scalars['String']>;
   readonly children: ReadonlyArray<Node>;
   readonly color: Maybe<Scalars['String']>;
+  readonly defunct: Maybe<Scalars['Boolean']>;
   readonly description: Maybe<Scalars['String']>;
   readonly id: Scalars['ID'];
   readonly imageURL: Maybe<Scalars['String']>;
@@ -97,6 +98,7 @@ type CubesYamlFieldSelector = {
   readonly category: InputMaybe<FieldSelectorEnum>;
   readonly children: InputMaybe<NodeFieldSelector>;
   readonly color: InputMaybe<FieldSelectorEnum>;
+  readonly defunct: InputMaybe<FieldSelectorEnum>;
   readonly description: InputMaybe<FieldSelectorEnum>;
   readonly id: InputMaybe<FieldSelectorEnum>;
   readonly imageURL: InputMaybe<FieldSelectorEnum>;
@@ -111,6 +113,7 @@ type CubesYamlFilterInput = {
   readonly category: InputMaybe<StringQueryOperatorInput>;
   readonly children: InputMaybe<NodeFilterListInput>;
   readonly color: InputMaybe<StringQueryOperatorInput>;
+  readonly defunct: InputMaybe<BooleanQueryOperatorInput>;
   readonly description: InputMaybe<StringQueryOperatorInput>;
   readonly id: InputMaybe<StringQueryOperatorInput>;
   readonly imageURL: InputMaybe<StringQueryOperatorInput>;
@@ -170,6 +173,7 @@ type CubesYamlSortInput = {
   readonly category: InputMaybe<SortOrderEnum>;
   readonly children: InputMaybe<NodeSortInput>;
   readonly color: InputMaybe<SortOrderEnum>;
+  readonly defunct: InputMaybe<SortOrderEnum>;
   readonly description: InputMaybe<SortOrderEnum>;
   readonly id: InputMaybe<SortOrderEnum>;
   readonly imageURL: InputMaybe<SortOrderEnum>;
@@ -1161,6 +1165,7 @@ type Query_cubesYamlArgs = {
   category: InputMaybe<StringQueryOperatorInput>;
   children: InputMaybe<NodeFilterListInput>;
   color: InputMaybe<StringQueryOperatorInput>;
+  defunct: InputMaybe<BooleanQueryOperatorInput>;
   description: InputMaybe<StringQueryOperatorInput>;
   id: InputMaybe<StringQueryOperatorInput>;
   imageURL: InputMaybe<StringQueryOperatorInput>;
@@ -2119,7 +2124,7 @@ type StringQueryOperatorInput = {
 type CubesPageQueryVariables = Exact<{ [key: string]: never; }>;
 
 
-type CubesPageQuery = { readonly allCubesYaml: { readonly cubes: ReadonlyArray<{ readonly link: string | null, readonly name: string | null, readonly owner: string | null, readonly id: string, readonly description: string | null, readonly category: string | null, readonly imageURL: string | null, readonly color: string | null }> } };
+type CubesPageQuery = { readonly allCubesYaml: { readonly cubes: ReadonlyArray<{ readonly link: string | null, readonly name: string | null, readonly owner: string | null, readonly id: string, readonly description: string | null, readonly category: string | null, readonly imageURL: string | null, readonly color: string | null, readonly defunct: boolean | null }> } };
 
 
 }

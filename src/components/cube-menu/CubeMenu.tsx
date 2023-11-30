@@ -16,7 +16,10 @@ export const CubeMenu: React.FC<Props> = (props) => {
   const { cubes } = props
 
   const groups = useMemo(() => {
-    const grouped = groupBy(cubes, (c) => c.category)
+    const grouped = groupBy(
+      cubes.filter((cube) => cube.defunct !== true),
+      (c) => c.category
+    )
 
     return {
       cubes: grouped['cube'],

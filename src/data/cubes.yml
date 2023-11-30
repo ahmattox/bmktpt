@@ -265,6 +265,7 @@
   link: https://cubecobra.com/cube/overview/42d61463-7431-4b0d-a315-87b6496abc91
   imageURL: https://cards.scryfall.io/art_crop/front/3/9/3941e799-a254-423e-90bb-091dbe56ca6a.jpg?1562053745
   color: '#E8D36A'
+  defunct: true
 
 - name: The Ark
   owner: Alex W
