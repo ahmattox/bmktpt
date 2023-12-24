@@ -16,5 +16,24 @@
 }
 
 .subtitle {
-  color: #756d72;
+  color: var(--light-text-color);
+}
+
+.navigation {
+}
+
+.links {
+  display: flex;
+  gap: 1em;
+}
+
+.linkItem {
+}
+
+.link {
+  text-decoration: none;
+}
+
+.activeLink {
+  text-decoration: underline;
 }

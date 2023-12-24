@@ -15,6 +15,38 @@ export const Header: React.FC = () => {
           Baltimore [Bun] Magic Kitchen Table Pro Tour
         </div>
       </div>
+
+      <nav className={styles.navigation}>
+        <ul className={styles.links}>
+          <li className={styles.linkItem}>
+            <Link
+              to="/"
+              className={styles.link}
+              activeClassName={styles.activeLink}
+            >
+              About
+            </Link>
+          </li>
+          <li className={styles.linkItem}>
+            <Link
+              to="/cubes/"
+              className={styles.link}
+              activeClassName={styles.activeLink}
+            >
+              Cubes
+            </Link>
+          </li>
+          <li className={styles.linkItem}>
+            <Link
+              to="/holiday-chaos-2023/"
+              className={styles.link}
+              activeClassName={styles.activeLink}
+            >
+              Holiday Chaos Draft
+            </Link>
+          </li>
+        </ul>
+      </nav>
     </div>
   )
 }

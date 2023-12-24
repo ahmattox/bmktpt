@@ -1,0 +1,69 @@
+.container {
+  border: solid 2px var(--text-color);
+  padding: 2em;
+  display: grid;
+  gap: 2em;
+  max-width: 1000px;
+  margin: 0 auto 4em;
+}
+
+.container a {
+  text-decoration: underline;
+}
+
+.heading {
+  margin-bottom: 1em;
+  padding-bottom: 1.5em;
+  text-align: center;
+  font-weight: bold;
+  font-size: 2em;
+  line-height: 1.5em;
+  border-bottom: solid 2px var(--text-color);
+}
+
+.heading1 {
+}
+
+.heading2 {
+}
+
+.heading3 {
+  font-size: 2em;
+  line-height: 1em;
+  text-transform: uppercase;
+}
+
+.details {
+  display: grid;
+  gap: 2em;
+}
+
+@media screen and (min-width: 800px) {
+  .details {
+    grid-template-columns: 1fr 1fr;
+  }
+}
+
+.detailsSection {
+  display: grid;
+  gap: 0.5em;
+}
+
+.secondaryHeading {
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 1.25em;
+}
+
+.secondaryInfo {
+  color: var(--light-text-color);
+}
+
+.eventCode {
+  font-weight: bold;
+  font-size: 2em;
+  background-color: #2cc9b9;
+  display: inline-block;
+  padding: 0.5em;
+  border-radius: 4px;
+}
