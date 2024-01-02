@@ -9,7 +9,9 @@ export const HolidayChaosPage: React.FC = () => {
     <Layout>
       <div className={styles.container}>
         <h1 className={styles.heading}>
-          <div className={styles.heading1}>2023 BMKTPT Magic the Gathering</div>
+          <div className={styles.heading1}>
+            2023/2024 BMKTPT Magic the Gathering
+          </div>
           <div className={styles.heading2}>Annual Holiday</div>
           <div className={styles.heading3}>Chaos Draft!!!</div>
         </h1>
