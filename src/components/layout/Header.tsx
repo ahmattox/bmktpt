@@ -36,15 +36,6 @@ export const Header: React.FC = () => {
               Cubes
             </Link>
           </li>
-          <li className={styles.linkItem}>
-            <Link
-              to="/holiday-chaos-2023/"
-              className={styles.link}
-              activeClassName={styles.activeLink}
-            >
-              Holiday Chaos Draft
-            </Link>
-          </li>
         </ul>
       </nav>
     </div>
