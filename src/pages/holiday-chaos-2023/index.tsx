@@ -65,7 +65,8 @@ export const HolidayChaosPage: React.FC = () => {
         <div className={styles.detailsSection}>
           <h2 className={styles.secondaryHeading}>Draft Details</h2>
           <p>
-            Following BMKTPT tradition, we'll draft in <em>one big pod!</em>
+            Following BMKTPT tradition, we&rsquo;ll draft in{' '}
+            <em>one big pod!</em>
           </p>
           <p>
             A chaos draft works like a normal booster draft but with mixed up
