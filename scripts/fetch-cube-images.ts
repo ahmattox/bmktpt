@@ -36,10 +36,13 @@ async function main() {
 
   fs.writeFileSync(
     cubesPath,
-    prettier.format(yaml.stringify(cubesWithImages).replace(/\n-/g, '\n\n-'), {
-      ...prettierOptions,
-      filepath: cubesPath
-    })
+    await prettier.format(
+      yaml.stringify(cubesWithImages).replace(/\n-/g, '\n\n-'),
+      {
+        ...prettierOptions,
+        filepath: cubesPath
+      }
+    )
   )
 }
 
