@@ -277,6 +277,17 @@
   color: '#E8D36A'
   defunct: true
 
+- name: The Oldest School
+  owner: Alex W
+  category: cube
+  description:
+    The cube is based around the idea of making very old school creatures
+    playable and powerful. The cube does stay away from certain old school
+    tropes though.
+  link: https://cubecobra.com/cube/overview/oldestschool
+  imageURL: https://cards.scryfall.io/art_crop/front/5/e/5e64822a-6817-4e1e-8155-3e95f8e3763f.jpg?1559591621
+  color: '#4C6D88'
+
 - name: The Ark
   owner: Alex W
   category: cube
