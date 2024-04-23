@@ -228,15 +228,15 @@
   color: '#C9644A'
   description: All spells cost 2 mana or less.
 
-- name: Lyserg's 360 Legacy+ Cube
+- name: The Compost Cube
   owner: Julien
   category: cube
   description:
-    Powered down Legacy Cube cutting the strongest staples that may have
-    uninteresting gameplay.
-  link: https://cubecobra.com/cube/overview/t4c
-  imageURL: https://cards.scryfall.io/art_crop/front/e/e/ee8e9928-d9b2-4570-adb8-44b34115decd.jpg?1665822990
-  color: '#5B496C'
+    A cube that leans in significantly into graveyard synergies, is slightly
+    powered down, and contains only a handful of artifacts.
+  link: https://cubecobra.com/cube/list/compost
+  imageURL: https://cards.scryfall.io/art_crop/front/1/3/13c5a1ce-932a-4b3d-8b86-ed920e646afc.jpg?1593092623
+  color: '#7C9432'
 
 - name: Lyserg's Artifact 180 Cube
   owner: Julien
