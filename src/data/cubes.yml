@@ -351,7 +351,7 @@
   description: A clone of the MTGO Vintage Cube.
   link: https://cubecobra.com/cube/overview/5f066698c0970d580f442975
   color: '#ED8B44'
-  imageURL: https://cards.scryfall.io/art_crop/front/7/2/7215460e-8c06-47d0-94e5-d1832d0218af.jpg?1688215133
+  imageURL: https://cards.scryfall.io/art_crop/front/f/d/fd1442b4-da59-4042-835f-143c8dcaa73b.jpg?1715680593
 
 - name: Unstable P.L.U.S.
   owner: Nate
@@ -396,3 +396,13 @@
   link: https://cubecobra.com/cube/overview/monodece
   color: '#E2A05B'
   imageURL: https://cards.scryfall.io/art_crop/front/e/a/eac8649b-b892-4854-8422-fd117ccac39a.jpg?1562867353
+
+- name: Jank Rare
+  owner: Andrew
+  category: cube
+  description:
+    Budget, multicolor forward jank. Most cards are rares or mythics under a
+    dollar.
+  link: https://www.cubecobra.com/cube/overview/jankrare
+  color: '#863974'
+  imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d171b46-69e7-4e39-b3b2-97ed022cd933.jpg?1593092710
