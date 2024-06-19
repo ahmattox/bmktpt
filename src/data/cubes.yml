@@ -74,7 +74,7 @@
   color: '#944B15'
 
 - name: Breya Cube
-  owner: James
+  owner: James J
   category: cube
   description: Artifact and enchantment focused with no green cards.
   link: https://cubecobra.com/cube/overview/breyacube
@@ -82,7 +82,7 @@
   color: '#AB63AF'
 
 - name: Forgiveness Cube
-  owner: James
+  owner: James J
   description:
     Takes many of the design principles from The Breya Cube and adds in green to
     explore the intersection of its "pillars".
@@ -416,3 +416,13 @@
   link: https://cubecobra.com/cube/overview/1ebea7ea-235c-44b5-9be0-eacaaca47cea
   color: '#71A055'
   imageURL: https://cards.scryfall.io/art_crop/front/7/4/74881c8f-f21d-4901-90cf-2ae8d0f46c3d.jpg?1696636926
+
+- name: Micro Pauper Cube
+  owner: James
+  category: cube
+  description:
+    A vintage legality, pauper cube designed to be approachable to new players
+    and interesting to seasoned veterans.
+  link: https://cubecobra.com/cube/overview/62b5653883be610fb3f9f5cc
+  color: '#71A055'
+  imageURL: https://cards.scryfall.io/art_crop/front/c/0/c0c8057f-b45b-4f67-90cd-c808b5e9cbfa.jpg?1562933718
