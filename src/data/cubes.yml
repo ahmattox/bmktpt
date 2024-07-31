@@ -266,6 +266,15 @@
   imageURL: https://cards.scryfall.io/art_crop/front/b/b/bb9ad57f-cca2-4717-a951-cbe3c7782efe.jpg?1576381637
   color: '#B0422B'
 
+- name: Virtually French Cube
+  owner: Max
+  category: cube
+  description:
+    The core gameplay of magic is just already great, lets celebrate the basics.
+  link: https://cubecobra.com/cube/overview/honhonhon
+  imageURL: https://cards.scryfall.io/art_crop/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736
+  color: '#B0422B'
+
 - name: The Starter Cube
   owner: Luis
   category: cube
@@ -345,13 +354,15 @@
   color: '#62B84C'
   imageURL: https://cards.scryfall.io/art_crop/front/f/3/f323c3bb-cece-4035-b1a7-c4817cf7a08c.jpg?1562861841
 
-- name: MTGO Vintage May2023
+- name: Wizard Poker
   owner: Nate
   category: cube
-  description: A clone of the MTGO Vintage Cube.
-  link: https://cubecobra.com/cube/overview/5f066698c0970d580f442975
+  description:
+    A clone of the MTGO Vintage Cube with some small changes. Printed on playing
+    cards.
+  link: https://cubecobra.com/cube/overview/wizardpoker
   color: '#ED8B44'
-  imageURL: https://cards.scryfall.io/art_crop/front/f/d/fd1442b4-da59-4042-835f-143c8dcaa73b.jpg?1715680593
+  imageURL: https://cards.scryfall.io/art_crop/front/1/0/1016a750-2a18-4443-a600-957eb4026d3a.jpg?1712355556
 
 - name: Unstable P.L.U.S.
   owner: Nate
@@ -376,9 +387,9 @@
   description:
     An interactive, synergy driven environment based around Sram's key
     principal; vehicles, Equipment, and Auras.
-  link: https://cubecobra.com/cube/overview/92ab4226-7e98-4554-b67f-c87b6b8e3ca1
+  link: https://cubecobra.com/cube/overview/6d2adb48-cf4f-4a31-8260-bf2ccc07b498
   color: '#A2D3B5'
-  imageURL: https://cards.scryfall.io/art_crop/front/7/c/7c6d47b0-4c19-4c19-9e21-54cd87a5e34d.jpg?1576381430
+  imageURL: https://cards.scryfall.io/art_crop/front/7/b/7b8197b9-0cd1-4fa1-9668-d1b5f1759151.jpg?1562720243
 
 - name: Unnamed Power Cube
   owner: Justin
