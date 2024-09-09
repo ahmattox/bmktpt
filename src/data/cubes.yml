@@ -388,8 +388,8 @@
     An interactive, synergy driven environment based around Sram's key
     principal; vehicles, Equipment, and Auras.
   link: https://cubecobra.com/cube/overview/6d2adb48-cf4f-4a31-8260-bf2ccc07b498
-  color: '#A2D3B5'
-  imageURL: https://cards.scryfall.io/art_crop/front/7/b/7b8197b9-0cd1-4fa1-9668-d1b5f1759151.jpg?1562720243
+  color: '#763726'
+  imageURL: https://cards.scryfall.io/art_crop/front/3/e/3e565e38-43d5-482e-a911-ce525dfee74f.jpg?1624739675
 
 - name: Unnamed Power Cube
   owner: Justin
@@ -437,3 +437,11 @@
   link: https://cubecobra.com/cube/overview/62b5653883be610fb3f9f5cc
   color: '#71A055'
   imageURL: https://cards.scryfall.io/art_crop/front/c/0/c0c8057f-b45b-4f67-90cd-c808b5e9cbfa.jpg?1562933718
+
+- name: EDH Grixis Chaos
+  owner: Luna
+  category: cube
+  description: 3 color, multiplayer commander cube.
+  link: https://cubecobra.com/cube/overview/GrixChaos
+  color: '#4F97AB'
+  imageURL: https://cards.scryfall.io/art_crop/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740
