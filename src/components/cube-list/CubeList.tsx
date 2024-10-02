@@ -13,6 +13,7 @@ interface Props {
     description: string
     category: string
     imageURL?: string
+    imagePosition?: string
     color: string
   }[]
 }

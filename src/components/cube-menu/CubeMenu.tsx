@@ -49,11 +49,12 @@ export const CubeMenu: React.FC<Props> = (props) => {
 
       <div>
         <p>
-          In the area and want to add your Cube? Let me know{' '}
+          List managed by Anthony Mattox. In the playgroup and want to add your
+          Cube? Let me know{' '}
           <a href="https://discordapp.com/users/226747568866983938">
             on Discord
-          </a>{' '}
-          or <a href="https://twitter.com/ahmattox">Twitter</a>.
+          </a>
+          .
         </p>
       </div>
     </div>

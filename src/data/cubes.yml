@@ -7,6 +7,7 @@
   link: https://cubecobra.com/cube/overview/regular
   imageURL: https://cards.scryfall.io/art_crop/front/a/d/ad8b8518-c09e-4cb7-95b2-08e4e370d89c.jpg?1562803091
   color: '#5391A4'
+  imagePosition: 15%
 
 - name: Turbo Cube
   owner: Anthony Mattox
@@ -62,6 +63,7 @@
   link: https://cubecobra.com/cube/overview/100-ornithopters
   imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d784214-dc69-42d4-b897-995ca5751e13.jpg?1562551442
   color: '#FEBF00'
+  imagePosition: left
 
 - name: Reading Rainbow
   owner: Daniel
@@ -90,6 +92,7 @@
   link: https://cubecobra.com/cube/overview/forgiveness
   imageURL: https://cards.scryfall.io/art_crop/front/f/4/f406d477-720b-498c-9f45-1b687e555bcd.jpg?1631235164
   color: '#447848'
+  imagePosition: 60%
 
 - name: Storm Cube
   owner: Ankit
@@ -109,12 +112,11 @@
   imageURL: https://cards.scryfall.io/art_crop/front/5/a/5a3df85a-21c8-45fc-a7fc-f9fed1e735f0.jpg?1562274065
   color: '#096D65'
 
-- name: Binder Cube
+- name: Broadband Waterpark
   owner: Sal
   category: cube
   description: |
-    Just because you dumped out your binder doesn't mean you have a cube...
-    Or does it?
+    Broadband waterpark is splashy and has a wide power band. have fun!
   link: https://cubecobra.com/cube/overview/bindercube
   imageURL: https://cards.scryfall.io/art_crop/front/d/2/d25b13a4-6282-4426-8b01-9550f7d52d16.jpg?1562945077
   color: '#606A6A'
@@ -144,6 +146,7 @@
   link: https://cubecobra.com/cube/overview/ldri
   imageURL: https://cards.scryfall.io/art_crop/front/a/e/ae984b86-ac6d-45e2-9c8d-0b7ac50021a1.jpg?1562055926
   color: '#4468A8'
+  imagePosition: left
 
 - name: Dimir Cube
   owner: Yitzi
@@ -164,6 +167,7 @@
   link: https://cubecobra.com/cube/overview/kitchen-table-cube
   imageURL: https://cards.scryfall.io/art_crop/front/3/4/34044cf5-79ed-479c-abdc-3718ec193dd3.jpg?1562784678
   color: '#AB824F'
+  defunct: true
 
 - name: '"Small" Kitchen Table Cube'
   owner: Aran
@@ -173,6 +177,7 @@
   link: https://cubecobra.com/cube/overview/sktc
   imageURL: https://cards.scryfall.io/art_crop/front/c/d/cdaa22df-e071-4b2a-aa42-0334ff7bd662.jpg?1674907350
   color: '#5AB2B1'
+  defunct: true
 
 - name: Kamigawa Remastered
   owner: Aran
@@ -183,6 +188,7 @@
   link: https://cubecobra.com/cube/overview/kamigawa-remastered
   imageURL: https://cards.scryfall.io/art_crop/back/c/f/cfcc7dd5-c6ac-4e66-b197-c010dcfdb397.jpg?1657724823
   color: '#C29F3F'
+  defunct: true
 
 - name: Harm City Pool Cube
   owner: Aran & Patrick
@@ -265,6 +271,7 @@
   link: https://cubecobra.com/cube/overview/1bcan
   imageURL: https://cards.scryfall.io/art_crop/front/b/b/bb9ad57f-cca2-4717-a951-cbe3c7782efe.jpg?1576381637
   color: '#B0422B'
+  imagePosition: 35%
 
 - name: Virtually French Cube
   owner: Max
@@ -304,6 +311,7 @@
   link: https://cubecobra.com/cube/overview/oldestschool
   imageURL: https://cards.scryfall.io/art_crop/front/5/e/5e64822a-6817-4e1e-8155-3e95f8e3763f.jpg?1559591621
   color: '#4C6D88'
+  imagePosition: right
 
 - name: The Ark
   owner: Alex W
@@ -324,6 +332,7 @@
   link: http://cubecobra.com/cube/overview/078ff41e-593c-4aed-809e-4f8efdf63cf8
   imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1682203531
   color: '#C1405D'
+  imagePosition: 40%
 
 - name: The Synergy Fun House
   owner: Dean
@@ -345,14 +354,18 @@
   link: https://cubecobra.com/cube/overview/nofetchnonexus
   color: '#AC7A4E'
   imageURL: https://cards.scryfall.io/art_crop/front/2/5/25f0f6a2-b392-45e6-97c4-4f00016144d3.jpg?1562783827
+  imagePosition: 80%
 
-- name: The Simple Cube (Clone)
+- name: Nude Cube
   owner: Nate
   category: cube
-  description: Vintage cube originally designed by Dekkaru.
-  link: https://cubecobra.com/cube/overview/simplecubeclone
+  description:
+    Magic with no counters, tokens, double faced cards or shuffling. Designed by
+    @TheOinkinator.
+  link: https://cubecobra.com/cube/overview/nudecube
   color: '#62B84C'
   imageURL: https://cards.scryfall.io/art_crop/front/f/3/f323c3bb-cece-4035-b1a7-c4817cf7a08c.jpg?1562861841
+  imagePosition: left
 
 - name: Wizard Poker
   owner: Nate
@@ -371,6 +384,16 @@
   link: https://cubecobra.com/cube/overview/unstableplus
   color: '#B2B07A'
   imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1690725283
+
+- name: Giver Cube
+  owner: Nate
+  category: cube
+  description:
+    A harsh environment where colored mana, something you typically take for
+    granted, is a scarce resource. Designed by @TheOinkinator.
+  link: https://cubecobra.com/cube/overview/giver
+  color: '#828282'
+  imageURL: https://cards.scryfall.io/art_crop/front/d/4/d491c13c-43e3-4ca3-b888-4edd34dfe14a.jpg?1562937635
 
 - name: Sounds Tempting
   owner: Chris
@@ -417,6 +440,7 @@
   link: https://www.cubecobra.com/cube/overview/jankrare
   color: '#863974'
   imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d171b46-69e7-4e39-b3b2-97ed022cd933.jpg?1593092710
+  imagePosition: right
 
 - name: Bruh Dimension
   owner: Will
@@ -425,7 +449,7 @@
     A Cube built around cast-from-exile synergies such as suspend, foretell,
     madness, adventures, impulse draw, cascade, discover, and plot.
   link: https://cubecobra.com/cube/overview/1ebea7ea-235c-44b5-9be0-eacaaca47cea
-  color: '#71A055'
+  color: '#A5167A'
   imageURL: https://cards.scryfall.io/art_crop/front/7/4/74881c8f-f21d-4901-90cf-2ae8d0f46c3d.jpg?1696636926
 
 - name: Micro Pauper Cube
@@ -441,7 +465,15 @@
 - name: EDH Grixis Chaos
   owner: Luna
   category: cube
-  description: 3 color, multiplayer commander cube.
+  description: 3 color, multiplayer commander Cube showcasing Grixis themes.
   link: https://cubecobra.com/cube/overview/GrixChaos
   color: '#4F97AB'
   imageURL: https://cards.scryfall.io/art_crop/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740
+
+- name: Matt's Pauper Cube
+  owner: Matt
+  category: cube
+  description: A Classic, powerful pauper cube with fast fixing lands.
+  link: https://cubecobra.com/cube/overview/de033bbd-7184-4212-b1da-0f6277283b81
+  color: '#D1AC5D'
+  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1562546549

@@ -33,7 +33,7 @@ export const Header: React.FC = () => {
               className={styles.link}
               activeClassName={styles.activeLink}
             >
-              Cubes
+              Local Cube Menu
             </Link>
           </li>
         </ul>

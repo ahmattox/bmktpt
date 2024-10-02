@@ -11,6 +11,7 @@ interface Props {
     description: string
     category: string
     imageURL?: string
+    imagePosition?: string
     color: string
   }
 }
@@ -36,6 +37,11 @@ export const Cube: React.FC<Props> = (props) => {
         alt=""
         className={styles.image}
         role="presentation"
+        style={
+          cube.imagePosition != null
+            ? { objectPosition: cube.imagePosition }
+            : {}
+        }
       />
       <div className={styles.details}>
         <div className={styles.name}>{cube.name}</div>

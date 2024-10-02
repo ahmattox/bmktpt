@@ -19,21 +19,6 @@ const IndexPage: React.FC = () => {
         </p>
 
         <p>
-          Come hang out in our{' '}
-          <a
-            href={discordServerLink}
-            className={classNames(
-              styles.bigLink,
-              styles.link1,
-              styles.external
-            )}
-          >
-            Discord
-          </a>{' '}
-          (message me for an invite).
-        </p>
-
-        <p>
           We play often at{' '}
           <a
             href="https://www.nolandbaltimore.com"
@@ -86,6 +71,21 @@ const IndexPage: React.FC = () => {
             NLB
           </a>{' '}
           for a draft!
+        </p>
+
+        <p>
+          Come hang out in our{' '}
+          <a
+            href={discordServerLink}
+            className={classNames(
+              styles.bigLink,
+              styles.link1,
+              styles.external
+            )}
+          >
+            Discord
+          </a>{' '}
+          (message me for an invite).
         </p>
       </div>
     </Layout>
