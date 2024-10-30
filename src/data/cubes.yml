@@ -169,16 +169,6 @@
   color: '#AB824F'
   defunct: true
 
-- name: '"Small" Kitchen Table Cube'
-  owner: Aran
-  category: cube
-  description:
-    A pared down, slightly powered up version of Aran's Kitchen Table Cube.
-  link: https://cubecobra.com/cube/overview/sktc
-  imageURL: https://cards.scryfall.io/art_crop/front/c/d/cdaa22df-e071-4b2a-aa42-0334ff7bd662.jpg?1674907350
-  color: '#5AB2B1'
-  defunct: true
-
 - name: Kamigawa Remastered
   owner: Aran
   category: cube
@@ -189,16 +179,6 @@
   imageURL: https://cards.scryfall.io/art_crop/back/c/f/cfcc7dd5-c6ac-4e66-b197-c010dcfdb397.jpg?1657724823
   color: '#C29F3F'
   defunct: true
-
-- name: Harm City Pool Cube
-  owner: Aran & Patrick
-  category: cube
-  description:
-    Unsleeved & unfiltered - Printed on water-resistant plastic so you can throw
-    down with some power on a sunny day at the pool.
-  link: https://cubecobra.com/cube/overview/poolstorm
-  color: '#59727A'
-  imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab556986-a6f4-4445-b004-64b4bc189e55.jpg?1562821470
 
 - name: Mono-Color Beginner Decks
   owner: Andy Mangold
@@ -322,6 +302,15 @@
   link: https://cubecobra.com/cube/overview/TheArk
   imageURL: https://cards.scryfall.io/art_crop/front/9/5/9598b346-a47d-4c4c-9571-156824e86b9c.jpg?1562922771
   color: '#4B7DAA'
+
+- name: The Campaign
+  owner: Alex W
+  category: cube
+  description: A high fantasy themed cube full of knights and dragons.
+  link: https://cubecobra.com/cube/overview/Campaign
+  imageURL: https://cards.scryfall.io/art_crop/front/4/5/45804134-cc04-4587-9674-2c884964083d.jpg?1627707685
+  color: '#959C47'
+  imagePosition: 10%
 
 - name: Standard Peasant Cube
   owner: Dean
