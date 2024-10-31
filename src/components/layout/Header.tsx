@@ -2,6 +2,9 @@ import * as styles from './Header.module.css'
 
 import React from 'react'
 import { Link } from 'gatsby'
+import classNames from 'classnames'
+
+import { OffsiteIcon } from '../icons/OffsiteIcon'
 
 export const Header: React.FC = () => {
   return (
@@ -35,6 +38,24 @@ export const Header: React.FC = () => {
             >
               Local Cube Menu
             </Link>
+          </li>
+          {/* <li className={styles.linkItem}>
+            <Link
+              to="/holiday-chaos-2024/"
+              className={classNames(styles.link, styles.chaos)}
+              activeClassName={styles.activeLink}
+            >
+              Holiday Chaos Draft
+            </Link>
+          </li> */}
+          <li className={styles.linkItem}>
+            <a
+              href="http://thesaltbox.fun"
+              className={classNames(styles.link, styles.saltBox)}
+            >
+              The Salt Box
+              <OffsiteIcon />
+            </a>
           </li>
         </ul>
       </nav>

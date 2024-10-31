@@ -7,6 +7,7 @@ import { Link } from 'gatsby'
 import { discordServerLink } from 'config.js'
 
 import Layout from 'components/layout/Layout'
+import { OffsiteIcon } from 'src/components/icons/OffsiteIcon'
 
 const IndexPage: React.FC = () => {
   return (
@@ -29,6 +30,7 @@ const IndexPage: React.FC = () => {
             )}
           >
             No Land Beyond
+            <OffsiteIcon />
           </a>
           , a fantastic local game store and board game bar.
         </p>
@@ -44,6 +46,7 @@ const IndexPage: React.FC = () => {
             )}
           >
             Cube
+            <OffsiteIcon />
           </a>
           . Check out the menu of{' '}
           <Link
@@ -69,6 +72,7 @@ const IndexPage: React.FC = () => {
             )}
           >
             NLB
+            <OffsiteIcon />
           </a>{' '}
           for a draft!
         </p>
@@ -84,6 +88,7 @@ const IndexPage: React.FC = () => {
             )}
           >
             Discord
+            <OffsiteIcon />
           </a>{' '}
           (message me for an invite).
         </p>

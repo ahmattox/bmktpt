@@ -1,6 +1,4 @@
 .container {
-  border: solid 2px var(--text-color);
-  padding: 2em;
   display: grid;
   gap: 2em;
   max-width: 1000px;
@@ -12,13 +10,13 @@
 }
 
 .heading {
-  margin-bottom: 1em;
-  padding-bottom: 1.5em;
   text-align: center;
   font-weight: bold;
   font-size: 2em;
   line-height: 1.5em;
-  border-bottom: solid 2px var(--text-color);
+  padding: 2em;
+  border: solid 2px var(--text-color);
+  background-color: #e84799;
 }
 
 .heading1 {
@@ -31,15 +29,23 @@
   font-size: 2em;
   line-height: 1em;
   text-transform: uppercase;
+  margin-top: 0.25em;
 }
 
 .details {
+  padding: 2em;
+  display: grid;
+  gap: 3em;
+}
+
+.detailsRow {
   display: grid;
   gap: 2em;
+  align-items: start;
 }
 
 @media screen and (min-width: 800px) {
-  .details {
+  .detailsRow {
     grid-template-columns: 1fr 1fr;
   }
 }

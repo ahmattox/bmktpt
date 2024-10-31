@@ -3,6 +3,7 @@ import * as styles from './TuesdayNightCube.module.css'
 import React, { useState } from 'react'
 
 import { discordServerLink } from 'config.js'
+import { OffsiteIcon } from '../icons/OffsiteIcon'
 
 export const TuesdayNightCube: React.FC = () => {
   const [showDetails, setShowDetails] = useState(false)
@@ -10,10 +11,17 @@ export const TuesdayNightCube: React.FC = () => {
   return (
     <div className={styles.container}>
       <p>
-        We draft <a href="http://luckypaper.co/what-is-a-cube/">Cube</a> every
-        Tuesday night at 6:30pm at{' '}
-        <a href="https://www.nolandbaltimore.com">No Land Beyond</a>. All
-        players are welcome.
+        We draft{' '}
+        <a href="http://luckypaper.co/what-is-a-cube/">
+          Cube
+          <OffsiteIcon />
+        </a>{' '}
+        every Tuesday night at 6:30pm at{' '}
+        <a href="https://www.nolandbaltimore.com">
+          No Land Beyond
+          <OffsiteIcon />
+        </a>
+        . All players are welcome.
       </p>
 
       {showDetails ? (
@@ -37,10 +45,13 @@ export const TuesdayNightCube: React.FC = () => {
           </p>
 
           <p>
-            <a href={discordServerLink}>The Discord</a> (message me for an
-            invite) is the best place to stay in touch. We informally organize
-            which Cubes we&rsquo;ll draft there as well as share deck lists for
-            each Cube and talk about Magic and more.
+            <a href={discordServerLink}>
+              The Discord
+              <OffsiteIcon />
+            </a>{' '}
+            (message me for an invite) is the best place to stay in touch. We
+            informally organize which Cubes we&rsquo;ll draft there as well as
+            share deck lists for each Cube and talk about Magic and more.
           </p>
 
           <button
