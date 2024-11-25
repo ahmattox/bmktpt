@@ -345,15 +345,15 @@
   imageURL: https://cards.scryfall.io/art_crop/front/2/5/25f0f6a2-b392-45e6-97c4-4f00016144d3.jpg?1562783827
   imagePosition: 80%
 
-- name: Nude Cube
+- name: The Simple Cube
   owner: Nate
   category: cube
   description:
     Magic with no counters, tokens, double faced cards or shuffling. Designed by
     @TheOinkinator.
-  link: https://cubecobra.com/cube/overview/nudecube
+  link: https://cubecobra.com/cube/overview/protectionfromwordy
   color: '#62B84C'
-  imageURL: https://cards.scryfall.io/art_crop/front/f/3/f323c3bb-cece-4035-b1a7-c4817cf7a08c.jpg?1562861841
+  imageURL: https://cards.scryfall.io/art_crop/front/8/e/8ed908d6-6d06-4ccb-9577-37ef2d01c1a5.jpg?1562921516
   imagePosition: left
 
 - name: Wizard Poker
@@ -380,9 +380,9 @@
   description:
     A harsh environment where colored mana, something you typically take for
     granted, is a scarce resource. Designed by @TheOinkinator.
-  link: https://cubecobra.com/cube/overview/giver
+  link: https://cubecobra.com/cube/overview/taker
   color: '#828282'
-  imageURL: https://cards.scryfall.io/art_crop/front/d/4/d491c13c-43e3-4ca3-b888-4edd34dfe14a.jpg?1562937635
+  imageURL: https://cards.scryfall.io/art_crop/front/2/6/265d3d67-37de-4461-86d0-0f398b5e4169.jpg?1562636768
 
 - name: Sounds Tempting
   owner: Chris
@@ -466,3 +466,11 @@
   link: https://cubecobra.com/cube/overview/de033bbd-7184-4212-b1da-0f6277283b81
   color: '#D1AC5D'
   imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1562546549
+
+- name: The Red Terror
+  owner: Andrew
+  category: cube
+  description: WUBRG Ice-cream with extra Raspberry Swirl.
+  link: https://cubecobra.com/cube/overview/42e16b6b-3c37-484d-a50c-cf21087d97fd
+  color: '#CE403B'
+  imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab0ba385-1f68-4add-a5e6-9df53d84b66f.jpg?1674059119
