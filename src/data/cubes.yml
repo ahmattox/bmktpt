@@ -334,6 +334,15 @@
   imageURL: https://cards.scryfall.io/art_crop/front/c/9/c973bce5-77d7-43f7-a559-25acb80d876a.jpg?1673917454
   color: '#C1405D'
 
+- name: Big Goyfs Don't Scry
+  owner: Nate
+  category: cube
+  description:
+    How fast can you get Delirious? Goyfs are first picks in this cube.
+  link: https://cubecobra.com/cube/overview/goyfcore
+  color: '#694422'
+  imageURL: https://cards.scryfall.io/art_crop/front/6/2/6233d4c3-9407-41b0-92a9-5f90dfd6a584.jpg?1562630035
+
 - name: Khans of Tarkir Set Cube
   owner: Nate
   category: cube
@@ -354,7 +363,6 @@
   link: https://cubecobra.com/cube/overview/protectionfromwordy
   color: '#62B84C'
   imageURL: https://cards.scryfall.io/art_crop/front/8/e/8ed908d6-6d06-4ccb-9577-37ef2d01c1a5.jpg?1562921516
-  imagePosition: left
 
 - name: Wizard Poker
   owner: Nate
