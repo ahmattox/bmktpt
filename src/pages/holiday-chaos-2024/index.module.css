@@ -38,6 +38,12 @@
   gap: 3em;
 }
 
+.primaryDetails {
+  font-size: 1.5em;
+  display: grid;
+  gap: 1.5em;
+}
+
 .detailsRow {
   display: grid;
   gap: 2em;

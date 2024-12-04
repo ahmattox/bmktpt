@@ -17,14 +17,16 @@ export const HolidayChaos2024Page: React.FC = () => {
         </h1>
 
         <div className={styles.details}>
-          <div className={styles.detailsRow}>
+          <div className={styles.primaryDetails}>
             <div className={styles.detailsSection}>
-              <div>Bring 3 Different Draftable MTG Booster Packs</div>
-
               <div>Saturday, December 7, 2024 &bull; 6PM</div>
               <div className={styles.secondaryInfo}>
                 The shop opens at 5, drafting starts at 6
               </div>
+            </div>
+
+            <div>
+              <div>Bring 3 Different Draftable MTG Booster Packs</div>
             </div>
 
             <div className={styles.detailsSection}>

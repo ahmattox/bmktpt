@@ -39,7 +39,7 @@ export const Header: React.FC = () => {
               Local Cube Menu
             </Link>
           </li>
-          {/* <li className={styles.linkItem}>
+          <li className={styles.linkItem}>
             <Link
               to="/holiday-chaos-2024/"
               className={classNames(styles.link, styles.chaos)}
@@ -47,7 +47,7 @@ export const Header: React.FC = () => {
             >
               Holiday Chaos Draft
             </Link>
-          </li> */}
+          </li>
           <li className={styles.linkItem}>
             <a
               href="http://thesaltbox.fun"
