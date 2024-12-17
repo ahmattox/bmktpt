@@ -20,7 +20,7 @@ const IndexPage: React.FC = () => {
         </p>
 
         <p>
-          We play often at{' '}
+          We play regularly at{' '}
           <a
             href="https://www.nolandbaltimore.com"
             className={classNames(

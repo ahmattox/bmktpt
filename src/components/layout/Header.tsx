@@ -40,15 +40,6 @@ export const Header: React.FC = () => {
             </Link>
           </li>
           <li className={styles.linkItem}>
-            <Link
-              to="/holiday-chaos-2024/"
-              className={classNames(styles.link, styles.chaos)}
-              activeClassName={styles.activeLink}
-            >
-              Holiday Chaos Draft
-            </Link>
-          </li>
-          <li className={styles.linkItem}>
             <a
               href="http://thesaltbox.fun"
               className={classNames(styles.link, styles.saltBox)}

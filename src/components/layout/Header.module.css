@@ -24,7 +24,6 @@
 
 .links {
   display: flex;
-  gap: 0.5em;
   margin: 0 -0.75em;
   flex-wrap: wrap;
   row-gap: 1.5em;

@@ -24,19 +24,25 @@ export const TuesdayNightCube: React.FC = () => {
         . All players are welcome.
       </p>
 
+      <div className={styles.holidayNote}>
+        <h3>Holiday Schedule</h3>
+        <p>
+          NLB will be closed for the holidays December 24 and 31. See you in the
+          new year!
+        </p>
+      </div>
+
       {showDetails ? (
         <>
           <p>
-            We fire drafts promptly at 6:30. No sign ups are required. Just show
-            up before the draft. Arrive early if you can (or ping someone in the
-            discord) so we have a count of players are can organize pods and set
-            up drafts accordingly.
+            Drafts start promptly at 6:30. No sign ups are required. Arrive
+            early if you can (or ping someone in the discord) so we can organize
+            pods according to the number of players.
           </p>
 
           <p>
-            While you&rsquo;re here, be sure to support our great LGS! Buy a
-            drink, Magic supplies, or game pass so they can keep the literal
-            lights on.
+            Be sure to support our great LGS! Buy a drink, Magic supplies, or
+            game pass so they can keep the literal lights on.
           </p>
 
           <p>
@@ -45,13 +51,14 @@ export const TuesdayNightCube: React.FC = () => {
           </p>
 
           <p>
+            Join{' '}
             <a href={discordServerLink}>
               The Discord
               <OffsiteIcon />
             </a>{' '}
-            (message me for an invite) is the best place to stay in touch. We
-            informally organize which Cubes we&rsquo;ll draft there as well as
-            share deck lists for each Cube and talk about Magic and more.
+            (message me or ask someone at cube night for an invite) to stay in
+            touch. We informally organize which Cubes we&rsquo;ll draft there,
+            share deck lists, and talk about Magic and more.
           </p>
 
           <button
