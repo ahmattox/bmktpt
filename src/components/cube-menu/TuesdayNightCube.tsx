@@ -24,14 +24,6 @@ export const TuesdayNightCube: React.FC = () => {
         . All players are welcome.
       </p>
 
-      <div className={styles.holidayNote}>
-        <h3>Holiday Schedule</h3>
-        <p>
-          NLB will be closed for the holidays December 24 and 31. See you in the
-          new year!
-        </p>
-      </div>
-
       {showDetails ? (
         <>
           <p>
