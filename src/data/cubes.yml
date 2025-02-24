@@ -157,7 +157,7 @@
     A cube stripped down to only blue and black cards full of classic Dimir
     Themes.
   link: https://cubecobra.com/cube/overview/dimir
-  imageURL: https://cards.scryfall.io/art_crop/front/9/a/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf.jpg?1598917967
+  imageURL: https://cards.scryfall.io/art_crop/front/9/a/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf.jpg?1738105908
   color: '#3B3A8F'
 
 - name: Kitchen Table Cube
@@ -251,7 +251,7 @@
     Once upon a time, there was happy little cube that had all the cute things
     from draft's past.
   link: https://cubecobra.com/cube/overview/7e7e1cec-b9de-424d-a95c-db2f418dc649
-  imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1634347488
+  imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1739662006
   color: '#4073A5'
 
 - name: Recruited Revelry
@@ -321,9 +321,9 @@
   category: cube
   description: A high fantasy themed cube full of knights and dragons.
   link: https://cubecobra.com/cube/overview/Campaign
-  imageURL: https://cards.scryfall.io/art_crop/front/4/5/45804134-cc04-4587-9674-2c884964083d.jpg?1627707685
-  color: '#959C47'
-  imagePosition: 10%
+  imageURL: https://cards.scryfall.io/art_crop/front/1/1/1183d4d7-094b-4024-ab1d-23c458cb7e71.jpg?1726868808
+  color: '#DB4529'
+  imagePosition: 15%
 
 - name: Standard Peasant Cube
   owner: Dean
@@ -332,7 +332,7 @@
     Peasant standard cube including only common and uncommon cards from standard
     legal sets. Originally designed "Zac the Crafter".
   link: http://cubecobra.com/cube/overview/078ff41e-593c-4aed-809e-4f8efdf63cf8
-  imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1682203531
+  imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1739658148
   color: '#C1405D'
   imagePosition: 40%
   defunct: true
@@ -347,17 +347,6 @@
   link: http://cubecobra.com/cube/overview/synergyfunhouse
   imageURL: https://cards.scryfall.io/art_crop/front/c/9/c973bce5-77d7-43f7-a559-25acb80d876a.jpg?1673917454
   color: '#C1405D'
-  defunct: true
-
-- name: Second Hand Cube
-  owner: Nate
-  category: cube
-  description:
-    Instead of a mulligan, you look at two hands of 7 at the same time. Keep
-    one, the other mills over at the beginning of the game.
-  link: https://cubecobra.com/cube/overview/d523c7c5-50e3-4647-94ad-1a7ce6fe6634
-  color: '#2D87B4'
-  imageURL: https://cards.scryfall.io/art_crop/front/9/9/994fff9f-ded1-4741-b48a-e95fd88f9b3b.jpg?1681768795
   defunct: true
 
 - name: Khans of Tarkir Set Cube
@@ -424,7 +413,7 @@
   description:
     An interactive, synergy driven environment based around Sram's key
     principal; vehicles, Equipment, and Auras.
-  link: https://cubecobra.com/cube/overview/6d2adb48-cf4f-4a31-8260-bf2ccc07b498
+  link: https://cubecobra.com/cube/list/fa4c6d1f-ea49-4dfd-b249-c6e97cf65cf5
   color: '#763726'
   imageURL: https://cards.scryfall.io/art_crop/front/3/e/3e565e38-43d5-482e-a911-ce525dfee74f.jpg?1624739675
 
