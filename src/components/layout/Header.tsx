@@ -39,15 +39,18 @@ export const Header: React.FC = () => {
               Local Cube Menu
             </Link>
           </li>
-          <li className={styles.linkItem}>
-            <a
-              href="http://thesaltbox.fun"
-              className={classNames(styles.link, styles.saltBox)}
-            >
-              The Salt Box
-              <OffsiteIcon />
-            </a>
-          </li>
+
+          {false && (
+            <li className={styles.linkItem}>
+              <a
+                href="http://thesaltbox.fun"
+                className={classNames(styles.link, styles.saltBox)}
+              >
+                The Salt Box
+                <OffsiteIcon />
+              </a>
+            </li>
+          )}
         </ul>
       </nav>
     </div>

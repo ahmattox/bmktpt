@@ -62,8 +62,8 @@
   description: What if the only creatures were Ornithopters?
   link: https://cubecobra.com/cube/overview/100-ornithopters
   imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d784214-dc69-42d4-b897-995ca5751e13.jpg?1562551442
-  color: '#FEBF00'
   imagePosition: left
+  color: '#FEBF00'
 
 - name: Reading Rainbow
   owner: Daniel
@@ -91,8 +91,8 @@
   category: cube
   link: https://cubecobra.com/cube/overview/forgiveness
   imageURL: https://cards.scryfall.io/art_crop/front/f/4/f406d477-720b-498c-9f45-1b687e555bcd.jpg?1631235164
-  color: '#447848'
   imagePosition: 60%
+  color: '#447848'
 
 - name: Storm Cube
   owner: Ankit
@@ -254,6 +254,17 @@
   imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1739662006
   color: '#4073A5'
 
+- name: Out of the Dead Land
+  owner: Julien
+  category: cube
+  description:
+    Out of the Dead Land is an attempt to push the Desert Cube genre to its
+    conceptual limit and embrace the spiritual nature of the journey into the
+    wasteland.
+  link: hhttps://cubecobra.com/cube/overview/Deadland2
+  imageURL: https://cards.scryfall.io/art_crop/front/c/9/c9dbfc7c-164d-47b8-8f05-987864fca89b.jpg?1562721899
+  color: '#6C7B86'
+
 - name: Recruited Revelry
   owner: Max
   category: cube
@@ -395,8 +406,18 @@
     A harsh environment where colored mana, something you typically take for
     granted, is a scarce resource. Designed by @TheOinkinator.
   link: https://cubecobra.com/cube/overview/taker
-  color: '#828282'
   imageURL: https://cards.scryfall.io/art_crop/front/2/6/265d3d67-37de-4461-86d0-0f398b5e4169.jpg?1562636768
+  color: '#828282'
+
+- name: Between Two Dunes
+  owner: Nate
+  category: cube
+  description:
+    This un/common cube blends together 10 of 12 consecutive draft sets from NEO
+    to DSK.
+  link: https://cubecobra.com/cube/overview/betweentwodunes
+  imageURL: https://cards.scryfall.io/art_crop/front/e/4/e47bd2c5-e3db-4fde-a695-9e67a7e937be.jpg?1543675951
+  color: '#B3874D'
 
 - name: Sounds Tempting
   owner: Chris
@@ -404,8 +425,8 @@
   description:
     Lord of the Rings set Cube with added fixing and some light curation.
   link: https://cubecobra.com/cube/overview/004ff185-8e29-47cb-9668-a0dddeb97f96
-  color: '#BD6338'
   imageURL: https://cards.scryfall.io/art_crop/front/4/2/4218b57c-111d-478c-af38-fd6f971bd2d0.jpg?1695448759
+  color: '#BD6338'
 
 - name: Sram's Cabin Cube
   owner: Dave
@@ -414,8 +435,8 @@
     An interactive, synergy driven environment based around Sram's key
     principal; vehicles, Equipment, and Auras.
   link: https://cubecobra.com/cube/list/fa4c6d1f-ea49-4dfd-b249-c6e97cf65cf5
-  color: '#763726'
   imageURL: https://cards.scryfall.io/art_crop/front/3/e/3e565e38-43d5-482e-a911-ce525dfee74f.jpg?1624739675
+  color: '#763726'
 
 - name: Unnamed Power Cube
   owner: Justin
@@ -431,8 +452,8 @@
   category: cube
   description: Here we do bad things, powerfully.
   link: https://cubecobra.com/cube/overview/monodece
-  color: '#E2A05B'
   imageURL: https://cards.scryfall.io/art_crop/front/e/a/eac8649b-b892-4854-8422-fd117ccac39a.jpg?1562867353
+  color: '#E2A05B'
 
 - name: Jank Rare
   owner: Andrew
@@ -441,9 +462,9 @@
     Budget, multicolor forward jank. Most cards are rares or mythics under a
     dollar.
   link: https://www.cubecobra.com/cube/overview/jankrare
-  color: '#863974'
   imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d171b46-69e7-4e39-b3b2-97ed022cd933.jpg?1593092710
   imagePosition: right
+  color: '#863974'
 
 - name: Bruh Dimension
   owner: Will
@@ -462,16 +483,16 @@
     A vintage legality, pauper cube designed to be approachable to new players
     and interesting to seasoned veterans.
   link: https://cubecobra.com/cube/overview/62b5653883be610fb3f9f5cc
-  color: '#71A055'
   imageURL: https://cards.scryfall.io/art_crop/front/c/0/c0c8057f-b45b-4f67-90cd-c808b5e9cbfa.jpg?1562933718
+  color: '#71A055'
 
 - name: EDH Grixis Chaos
   owner: Luna
   category: cube
   description: 3 color, multiplayer commander Cube showcasing Grixis themes.
   link: https://cubecobra.com/cube/overview/GrixChaos
-  color: '#4F97AB'
   imageURL: https://cards.scryfall.io/art_crop/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740
+  color: '#4F97AB'
   defunct: true
 
 - name: Matt's Pauper Cube
@@ -479,13 +500,24 @@
   category: cube
   description: A Classic, powerful pauper cube with fast fixing lands.
   link: https://cubecobra.com/cube/overview/de033bbd-7184-4212-b1da-0f6277283b81
-  color: '#D1AC5D'
   imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1562546549
+  color: '#D1AC5D'
 
 - name: The Red Terror
   owner: Andrew
   category: cube
   description: WUBRG Ice-cream with extra Raspberry Swirl.
   link: https://cubecobra.com/cube/overview/42e16b6b-3c37-484d-a50c-cf21087d97fd
-  color: '#CE403B'
   imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab0ba385-1f68-4add-a5e6-9df53d84b66f.jpg?1674059119
+  color: '#CE403B'
+
+- name: Discount Human Companionship Cube
+  owner: Andrew
+  category: cube
+  description:
+    What some companionship but don't want to pay top dollar? Well come on down
+    and try out our discount mostly human companions! All creatures have the
+    companion mechanic.
+  link: https://cubecobra.com/cube/overview/PennyCompanion
+  imageURL: https://cards.scryfall.io/art_crop/front/8/8/8894949b-f190-461e-996a-cf2b39f08a5d.jpg?1561757514
+  color: '#C8602D'
