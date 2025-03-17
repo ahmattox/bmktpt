@@ -336,6 +336,14 @@
   color: '#DB4529'
   imagePosition: 15%
 
+- name: The Middle School
+  owner: Alex W
+  category: cube
+  description: Look at that little freak
+  link: https://cubecobra.com/cube/overview/itjusttakessometime
+  imageURL: https://cards.scryfall.io/art_crop/front/f/1/f1b45f8f-8f41-426d-b773-1e8cdfbff6f8.jpg?1562943588
+  color: '#4C6045'
+
 - name: Standard Peasant Cube
   owner: Dean
   category: cube
