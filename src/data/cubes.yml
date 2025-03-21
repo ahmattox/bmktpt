@@ -529,3 +529,20 @@
   link: https://cubecobra.com/cube/overview/PennyCompanion
   imageURL: https://cards.scryfall.io/art_crop/front/8/8/8894949b-f190-461e-996a-cf2b39f08a5d.jpg?1561757514
   color: '#C8602D'
+
+- name: Ice Cube
+  owner: Brendan
+  category: cube
+  description: Replicates the play of casual Magic around the Stronghold era.
+  link: https://cubecobra.com/cube/overview/w3tr
+  imageURL: https://cards.scryfall.io/art_crop/front/8/1/81b87a58-b20c-4f38-afa3-59d398195740.jpg?1562919062
+  color: '#617BAC'
+
+- name: RoboRosewater Masters
+  owner: Brendan
+  category: cube
+  description:
+    This is the fan-made "Spiral Chaos" cube built using AI-generated cards!
+  link: https://cubecobra.com/cube/overview/2kweb
+  imageURL: https://cards.scryfall.io/art_crop/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1559591491
+  color: '#C55845'
