@@ -546,3 +546,13 @@
   link: https://cubecobra.com/cube/overview/2kweb
   imageURL: https://cards.scryfall.io/art_crop/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1559591491
   color: '#C55845'
+
+- name: Orzhov Cube
+  owner: Kyle
+  category: cube
+  description:
+    A cube featuring all of the best black, white, and black white cards! No
+    other colors included. I guess you could call this a gray area!
+  link: https://cubecobra.com/cube/overview/2ymq9
+  imageURL: https://cards.scryfall.io/art_crop/front/5/e/5e07f522-df4d-4090-b53a-1934bd8542fb.jpg?1562609869
+  color: '#D7742D'
