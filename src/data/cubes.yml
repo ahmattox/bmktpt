@@ -6,8 +6,8 @@
     many small, overlapping themes.
   link: https://cubecobra.com/cube/overview/regular
   imageURL: https://cards.scryfall.io/art_crop/front/a/d/ad8b8518-c09e-4cb7-95b2-08e4e370d89c.jpg?1562803091
-  color: '#5391A4'
   imagePosition: 15%
+  color: '#5391A4'
 
 - name: Turbo Cube
   owner: Anthony Mattox
@@ -43,6 +43,7 @@
     15 card decks, no loss to mill, feature Magic’s most broken archetypes.
   link: https://cubecobra.com/cube/overview/degenerate-micro-cube
   imageURL: https://cards.scryfall.io/art_crop/front/7/2/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9.jpg?1562778128
+  imagePosition: 65%
   color: '#AF4977'
 
 - name: Neoclassical Cube
@@ -64,6 +65,17 @@
   imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d784214-dc69-42d4-b897-995ca5751e13.jpg?1562551442
   imagePosition: left
   color: '#FEBF00'
+
+- name: Sacred Geometry
+  owner: Andy Mangold
+  category: cube
+  description:
+    Sacred Geometry is a celebration of Magic's most elegant cards. Card choices
+    are driven primarily by sophistication of design, resulting in a broad power
+    level band and emergent archetypes and synergies.
+  link: https://cubecobra.com/cube/overview/sacred-geometry
+  imageURL: https://cards.scryfall.io/art_crop/front/1/a/1a2e41e3-919c-4bd3-9eea-adc0291f5f8a.jpg?1562544422
+  color: '#97CDCF'
 
 - name: Reading Rainbow
   owner: Daniel
@@ -147,8 +159,8 @@
   category: cube
   link: https://cubecobra.com/cube/overview/ldri
   imageURL: https://cards.scryfall.io/art_crop/front/a/e/ae984b86-ac6d-45e2-9c8d-0b7ac50021a1.jpg?1562055926
-  color: '#4468A8'
   imagePosition: left
+  color: '#4468A8'
 
 - name: Dimir Cube
   owner: Yitzi
@@ -273,8 +285,8 @@
     long game environment.
   link: https://cubecobra.com/cube/overview/1bcan
   imageURL: https://cards.scryfall.io/art_crop/front/b/b/bb9ad57f-cca2-4717-a951-cbe3c7782efe.jpg?1576381637
-  color: '#B0422B'
   imagePosition: 35%
+  color: '#B0422B'
   defunct: true
 
 - name: Virtually French Cube
@@ -314,8 +326,8 @@
     tropes though.
   link: https://cubecobra.com/cube/overview/oldestschool
   imageURL: https://cards.scryfall.io/art_crop/front/a/5/a594299e-fc3a-4d46-bd58-1a9cf7ddbdd7.jpg?1559591747
-  color: '#50793C'
   imagePosition: 30%
+  color: '#50793C'
 
 - name: The Ark
   owner: Alex W
@@ -333,8 +345,8 @@
   description: A high fantasy themed cube full of knights and dragons.
   link: https://cubecobra.com/cube/overview/Campaign
   imageURL: https://cards.scryfall.io/art_crop/front/1/1/1183d4d7-094b-4024-ab1d-23c458cb7e71.jpg?1726868808
-  color: '#DB4529'
   imagePosition: 15%
+  color: '#DB4529'
 
 - name: The Middle School
   owner: Alex W
@@ -352,8 +364,8 @@
     legal sets. Originally designed "Zac the Crafter".
   link: http://cubecobra.com/cube/overview/078ff41e-593c-4aed-809e-4f8efdf63cf8
   imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1739658148
-  color: '#C1405D'
   imagePosition: 40%
+  color: '#C1405D'
   defunct: true
 
 - name: The Synergy Fun House
@@ -375,9 +387,9 @@
     Redraft a classic limited format. The draft includes collated packs with
     some modifications to improve the experience.
   link: https://cubecobra.com/cube/overview/nofetchnonexus
-  color: '#AC7A4E'
   imageURL: https://cards.scryfall.io/art_crop/front/2/5/25f0f6a2-b392-45e6-97c4-4f00016144d3.jpg?1562783827
   imagePosition: 80%
+  color: '#AC7A4E'
 
 - name: The Simple Cube
   owner: Nate
@@ -386,8 +398,8 @@
     Magic with no counters, tokens, double faced cards or shuffling. Designed by
     @TheOinkinator.
   link: https://cubecobra.com/cube/overview/protectionfromwordy
-  color: '#62B84C'
   imageURL: https://cards.scryfall.io/art_crop/front/8/e/8ed908d6-6d06-4ccb-9577-37ef2d01c1a5.jpg?1562921516
+  color: '#62B84C'
 
 - name: Wizard Poker
   owner: Nate
@@ -396,16 +408,16 @@
     A clone of the MTGO Vintage Cube with some small changes. Printed on playing
     cards.
   link: https://cubecobra.com/cube/overview/wizardpoker
-  color: '#ED8B44'
   imageURL: https://cards.scryfall.io/art_crop/front/1/0/1016a750-2a18-4443-a600-957eb4026d3a.jpg?1712355556
+  color: '#ED8B44'
 
 - name: Unstable P.L.U.S.
   owner: Nate
   category: cube
   description: Set cube to replicate Unstable retail draft with a little extra!
   link: https://cubecobra.com/cube/overview/unstableplus
-  color: '#B2B07A'
   imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1690725283
+  color: '#B2B07A'
 
 - name: Giver Cube
   owner: Nate
@@ -452,8 +464,9 @@
   description:
     Full-powered vintage cube. Influenced by the MODO Vintage Cube and others.
   link: https://cubecobra.com/cube/overview/c1567f9b-e0b7-49da-9528-97f416666006
-  color: '#448E3A'
   imageURL: https://cards.scryfall.io/art_crop/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1559591477
+  imagePosition: 65%
+  color: '#448E3A'
 
 - name: Mono Decent
   owner: Morgan
@@ -481,8 +494,8 @@
     A Cube built around cast-from-exile synergies such as suspend, foretell,
     madness, adventures, impulse draw, cascade, discover, and plot.
   link: https://cubecobra.com/cube/overview/1ebea7ea-235c-44b5-9be0-eacaaca47cea
-  color: '#A5167A'
   imageURL: https://cards.scryfall.io/art_crop/front/7/4/74881c8f-f21d-4901-90cf-2ae8d0f46c3d.jpg?1696636926
+  color: '#A5167A'
 
 - name: Micro Pauper Cube
   owner: James
@@ -536,6 +549,7 @@
   description: Replicates the play of casual Magic around the Stronghold era.
   link: https://cubecobra.com/cube/overview/w3tr
   imageURL: https://cards.scryfall.io/art_crop/front/8/1/81b87a58-b20c-4f38-afa3-59d398195740.jpg?1562919062
+  imagePosition: 35%
   color: '#617BAC'
 
 - name: RoboRosewater Masters
@@ -556,3 +570,15 @@
   link: https://cubecobra.com/cube/overview/2ymq9
   imageURL: https://cards.scryfall.io/art_crop/front/5/e/5e07f522-df4d-4090-b53a-1934bd8542fb.jpg?1562609869
   color: '#D7742D'
+
+- name: Nooria's Cube
+  owner: Nooria
+  category: cube
+  description:
+    A pile of my favorite cards circa 2019-2020. High power band, plenty of
+    undersupported archetypes that might be traps or might work. Everything from
+    Doomsday + Oracle to Multani Yavimaya's Avatar + Ayala's influence.
+  link: https://cubecobra.com/cube/overview/ff0
+  imageURL: https://cards.scryfall.io/art_crop/front/f/8/f802ee1b-14d4-4ef3-84be-d9d959ec42d3.jpg?1562640140
+  imagePosition: 30%
+  color: '#5D2E5D'
