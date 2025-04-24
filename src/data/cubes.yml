@@ -351,7 +351,7 @@
 - name: The Middle School
   owner: Alex W
   category: cube
-  description: Look at that little freak
+  description: 👈 look at that little freak
   link: https://cubecobra.com/cube/overview/itjusttakessometime
   imageURL: https://cards.scryfall.io/art_crop/front/f/1/f1b45f8f-8f41-426d-b773-1e8cdfbff6f8.jpg?1562943588
   color: '#4C6045'
@@ -540,7 +540,8 @@
     and try out our discount mostly human companions! All creatures have the
     companion mechanic.
   link: https://cubecobra.com/cube/overview/PennyCompanion
-  imageURL: https://cards.scryfall.io/art_crop/front/8/8/8894949b-f190-461e-996a-cf2b39f08a5d.jpg?1561757514
+  imageURL: https://cards.scryfall.io/art_crop/front/b/0/b05031dc-f99c-49d3-9a20-3453587d8dea.jpg?1616400462
+  imagePosition: 75%
   color: '#C8602D'
 
 - name: Ice Cube
@@ -560,6 +561,15 @@
   link: https://cubecobra.com/cube/overview/2kweb
   imageURL: https://cards.scryfall.io/art_crop/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1559591491
   color: '#C55845'
+
+- name: Two Card Monty Hall
+  owner: Brendan
+  category: cube
+  description: All combos all the time, but not the one's you're familiar with.
+  link: https://cubecobra.com/cube/overview/a16b2d9a-4dc0-4bff-b83d-af9c2a034ac3
+  imageURL: https://cards.scryfall.io/art_crop/front/5/9/59418766-5567-4ec4-af1f-1cb2db2958d0.jpg?1562760146
+  imagePosition: 70%
+  color: '#D1762D'
 
 - name: Orzhov Cube
   owner: Kyle
@@ -582,3 +592,21 @@
   imageURL: https://cards.scryfall.io/art_crop/front/f/8/f802ee1b-14d4-4ef3-84be-d9d959ec42d3.jpg?1562640140
   imagePosition: 30%
   color: '#5D2E5D'
+
+- name: Island of Misfit Toys
+  owner: Michael
+  category: cube
+  description:
+    Powerful cards that aren't quite good enough for the "vintage cube" any
+    more.
+  link: https://cubecobra.com/cube/overview/misfittoys
+  imageURL: https://cards.scryfall.io/art_crop/front/0/4/04d0e3f2-04cb-4775-947e-3c92e61b8fac.jpg?1698988435
+  color: '#A3CEE8'
+
+- name: Oops, All Foils
+  owner: Vinny
+  category: cube
+  description: Completely foiled out peasant cube.
+  link: https://cubecobra.com/cube/overview/OopsAllFoils
+  imageURL: https://cards.scryfall.io/art_crop/front/c/3/c39d94fb-a092-4307-b99b-73fb97998cc2.jpg?1562936321
+  color: '#D9692D'
