@@ -23,6 +23,7 @@ export const CubeMenu: React.FC<Props> = (props) => {
 
     return {
       cubes: grouped['cube'],
+      moreCubes: grouped['rare-cube'],
       other: grouped['other']
     }
   }, [cubes])
@@ -33,10 +34,16 @@ export const CubeMenu: React.FC<Props> = (props) => {
 
       <div className={styles.list}>
         <MenuHeading>
-          BMKTPT Cube Menu - {groups.cubes.length} Lists
+          Cube Menu: The Regulars - {groups.cubes.length} Lists
         </MenuHeading>
 
         <CubeList cubes={groups.cubes} />
+      </div>
+
+      <div className={styles.list}>
+        <MenuHeading>Specials: Available Occasionally</MenuHeading>
+
+        <CubeList cubes={groups.moreCubes} />
       </div>
 
       <div className={styles.list}>

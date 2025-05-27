@@ -89,7 +89,7 @@
 
 - name: Breya Cube
   owner: James J
-  category: cube
+  category: rare-cube
   description: Artifact and enchantment focused with no green cards.
   link: https://cubecobra.com/cube/overview/breyacube
   imageURL: https://cards.scryfall.io/art_crop/front/d/e/dec79304-65fb-4064-ba39-85d04fd91574.jpg?1561758238
@@ -100,7 +100,7 @@
   description:
     Takes many of the design principles from The Breya Cube and adds in green to
     explore the intersection of its "pillars".
-  category: cube
+  category: rare-cube
   link: https://cubecobra.com/cube/overview/forgiveness
   imageURL: https://cards.scryfall.io/art_crop/front/f/4/f406d477-720b-498c-9f45-1b687e555bcd.jpg?1631235164
   imagePosition: 60%
@@ -108,7 +108,7 @@
 
 - name: Storm Cube
   owner: Ankit
-  category: cube
+  category: rare-cube
   description: Everyone’s playing storm.
   link: https://cubecobra.com/cube/overview/2pmbe
   imageURL: https://cards.scryfall.io/art_crop/front/f/3/f3d62dbd-63db-4ac9-950f-9852627f23f2.jpg?1562946525
@@ -117,7 +117,7 @@
 
 - name: Baby’s First Cube
   owner: Hillary
-  category: cube
+  category: rare-cube
   description:
     A mid power level Cube aimed at being accessible and full of bad-ass
     bitches.
@@ -136,16 +136,15 @@
 
 - name: Vintage Cube (No p9)
   owner: Jay
-  category: cube
+  category: rare-cube
   description: Classic vintage cube in the MTGO style, but without the power 9.
   link: https://cubecobra.com/cube/overview/12o6
   imageURL: https://cards.scryfall.io/art_crop/front/2/2/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c.jpg?1562875845
   color: '#E8D36A'
-  defunct: true
 
 - name: Rally The Peasants
   owner: Allison
-  category: cube
+  category: rare-cube
   description: Peasant cube with the addition of rare lands.
   link: https://cubecobra.com/cube/overview/RallyThePeasants
   imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d33e2f5-c2f5-4e69-924f-c8c9ed1ae1a7.jpg?1562636844
@@ -156,7 +155,7 @@
   description:
     A graveyard themed cube centered around discard, self-mill and sacrifice
     that examines how we get value from the things we throw away.
-  category: cube
+  category: rare-cube
   link: https://cubecobra.com/cube/overview/ldri
   imageURL: https://cards.scryfall.io/art_crop/front/a/e/ae984b86-ac6d-45e2-9c8d-0b7ac50021a1.jpg?1562055926
   imagePosition: left
@@ -164,7 +163,7 @@
 
 - name: Dimir Cube
   owner: Yitzi
-  category: cube
+  category: rare-cube
   description:
     A cube stripped down to only blue and black cards full of classic Dimir
     Themes.
@@ -223,10 +222,11 @@
   description:
     Vintage cube, but where the fast mana comes at a cost. Designed by Ryan
     Saxe.
-  category: cube
+  category: rare-cube
   link: https://cubecobra.com/cube/overview/5e4f
   imageURL: https://cards.scryfall.io/art_crop/front/e/b/eb28b35c-28a5-4042-b21d-6d43658a16eb.jpg?1591196097
   color: '#5A7F25'
+  defunct: true
 
 - name: Tupelo Honey
   owner: Patrick
@@ -305,6 +305,7 @@
   link: https://www.cubecobra.com/cube/overview/thestartercube
   imageURL: https://cards.scryfall.io/art_crop/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349
   color: '#7B896B'
+  defunct: true
 
 - name: Ligma Cube
   owner: Alex W
@@ -382,7 +383,7 @@
 
 - name: Khans of Tarkir Set Cube
   owner: Nate
-  category: cube
+  category: rare-cube
   description:
     Redraft a classic limited format. The draft includes collated packs with
     some modifications to improve the experience.
@@ -413,7 +414,7 @@
 
 - name: Unstable P.L.U.S.
   owner: Nate
-  category: cube
+  category: rare-cube
   description: Set cube to replicate Unstable retail draft with a little extra!
   link: https://cubecobra.com/cube/overview/unstableplus
   imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1690725283
@@ -460,7 +461,7 @@
 
 - name: Unnamed Power Cube
   owner: Justin
-  category: cube
+  category: rare-cube
   description:
     Full-powered vintage cube. Influenced by the MODO Vintage Cube and others.
   link: https://cubecobra.com/cube/overview/c1567f9b-e0b7-49da-9528-97f416666006
@@ -496,6 +497,7 @@
   link: https://cubecobra.com/cube/overview/1ebea7ea-235c-44b5-9be0-eacaaca47cea
   imageURL: https://cards.scryfall.io/art_crop/front/7/4/74881c8f-f21d-4901-90cf-2ae8d0f46c3d.jpg?1696636926
   color: '#A5167A'
+  defunct: true
 
 - name: Micro Pauper Cube
   owner: James
@@ -555,7 +557,7 @@
 
 - name: RoboRosewater Masters
   owner: Brendan
-  category: cube
+  category: rare-cube
   description:
     This is the fan-made "Spiral Chaos" cube built using AI-generated cards!
   link: https://cubecobra.com/cube/overview/2kweb
@@ -564,7 +566,7 @@
 
 - name: Two Card Monty Hall
   owner: Brendan
-  category: cube
+  category: rare-cube
   description: All combos all the time, but not the one's you're familiar with.
   link: https://cubecobra.com/cube/overview/a16b2d9a-4dc0-4bff-b83d-af9c2a034ac3
   imageURL: https://cards.scryfall.io/art_crop/front/5/9/59418766-5567-4ec4-af1f-1cb2db2958d0.jpg?1562760146
