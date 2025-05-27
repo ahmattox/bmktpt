@@ -610,5 +610,17 @@
   category: cube
   description: Completely foiled out peasant cube.
   link: https://cubecobra.com/cube/overview/OopsAllFoils
-  imageURL: https://cards.scryfall.io/art_crop/front/c/3/c39d94fb-a092-4307-b99b-73fb97998cc2.jpg?1562936321
+  imageURL: https://cards.scryfall.io/art_crop/front/7/1/71396bc0-a0e4-41c1-a26f-c4b8f8752891.jpg?1562270236
+  imagePosition: 25%
+  color: '#D9692D'
+
+- name: 50 Cent Budget Cube
+  owner: Adam
+  category: cube
+  description:
+    Medium power level, Archetype focused Budget Cube. All cards are less than
+    50 cents.
+  link: https://cubecobra.com/cube/overview/xnq
+  imageURL: https://cards.scryfall.io/art_crop/front/4/b/4b51b23a-d67d-4ede-a1b2-1ba6dad9883e.jpg?1675830288
+  imagePosition: 35%
   color: '#D9692D'
