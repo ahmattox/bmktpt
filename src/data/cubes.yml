@@ -666,3 +666,13 @@
   imageURL: https://cards.scryfall.io/art_crop/front/b/d/bd0d8fc5-5841-403f-96db-2259048ff424.jpg?1580954572
   imagePosition: 60%
   color: '#82B446'
+
+- name: The Nutritious Cube
+  owner: Michael
+  category: cube
+  description:
+    'Welcome to the Nutritious Cube—my personal take on a Magic: The Gathering
+    cube, themed around the aspects of nutrition.'
+  link: https://cubecobra.com/cube/overview/nutritiouscube
+  imageURL: https://cards.scryfall.io/art_crop/front/6/5/65b9a718-01b9-46b2-85eb-55f6206ee5e4.jpg?1592517358
+  color: '#3F967E'
