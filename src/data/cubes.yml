@@ -401,6 +401,7 @@
   link: https://cubecobra.com/cube/overview/protectionfromwordy
   imageURL: https://cards.scryfall.io/art_crop/front/8/e/8ed908d6-6d06-4ccb-9577-37ef2d01c1a5.jpg?1562921516
   color: '#62B84C'
+  defunct: true
 
 - name: Wizard Poker
   owner: Nate
