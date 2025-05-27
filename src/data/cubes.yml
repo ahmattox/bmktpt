@@ -612,15 +612,56 @@
   link: https://cubecobra.com/cube/overview/OopsAllFoils
   imageURL: https://cards.scryfall.io/art_crop/front/7/1/71396bc0-a0e4-41c1-a26f-c4b8f8752891.jpg?1562270236
   imagePosition: 25%
-  color: '#D9692D'
+  color: '#5F7FA8'
+
+- name: Super Magic Fun Times
+  owner: Adam
+  category: cube
+  description:
+    High Power with High Interaction. More Gold Cards, Less Planeswalkers. More
+    Mana Fixing, Less Mana Ramp.
+  link: https://cubecobra.com/cube/overview/xnq
+  imageURL: https://cards.scryfall.io/art_crop/front/f/5/f5e0713c-8358-46fc-9618-66a986d681cb.jpg?1562946860
+  color: '#2C8D8D'
 
 - name: 50 Cent Budget Cube
   owner: Adam
   category: cube
   description:
-    Medium power level, Archetype focused Budget Cube. All cards are less than
-    50 cents.
+    Archetype Driven & Unsleeved. All cards were worth $0.50 or less at some
+    point. Synergy focused gameplay.
   link: https://cubecobra.com/cube/overview/xnq
   imageURL: https://cards.scryfall.io/art_crop/front/4/b/4b51b23a-d67d-4ede-a1b2-1ba6dad9883e.jpg?1675830288
   imagePosition: 35%
-  color: '#D9692D'
+  color: '#CDA95A'
+
+- name: ChaotiCube
+  owner: Adam
+  category: rare-cube
+  description:
+    A Community Designed Cube variant where cards in your hand can be played
+    faced down as lands that tap for any color. (Work in Progress)
+  link: https://cubecobra.com/cube/overview/f4857a70-c0e2-4757-a6e7-8ef230c574c4
+  imageURL: https://cards.scryfall.io/art_crop/front/4/1/41bd9465-abfb-4fbc-b0cf-11682e6d8a5e.jpg?1730165185
+  color: '#32BCAA'
+
+- name: Decisions Decisions
+  owner: Adam
+  category: cube
+  description:
+    A draft environment built around flexibility over power level. All cards are
+    modal or involve some level of choice.
+  link: https://cubecobra.com/cube/overview/xbe
+  imageURL: https://cards.scryfall.io/art_crop/front/1/2/12359f11-1758-4005-ada4-5e4cfccee2c3.jpg?1562639684
+  imagePosition: 80%
+  color: '#9A321D'
+
+- name: Unstable Cube
+  owner: Adam
+  category: cube
+  description:
+    A faithful reconstruction of the Unstable draft environment with multiples
+    of select commons and uncommons.
+  imageURL: https://cards.scryfall.io/art_crop/front/b/d/bd0d8fc5-5841-403f-96db-2259048ff424.jpg?1580954572
+  imagePosition: 60%
+  color: '#82B446'
