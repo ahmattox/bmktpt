@@ -248,7 +248,7 @@
 
 - name: Lyserg's Artifact 180 Cube
   owner: Julien
-  category: cube
+  category: rare-cube
   description:
     Designed to be played with 2 or 4 players. High powered, very synergistic,
     and full of  infinite combos.
@@ -256,19 +256,19 @@
   imageURL: https://cards.scryfall.io/art_crop/front/c/3/c32b5b2e-dabf-4672-b476-4873781f636e.jpg?1626096405
   color: '#D9322C'
 
-- name: Clone of May's Fae Cube
+- name: May's Fae Cube
   owner: Julien
-  category: cube
+  category: rare-cube
   description:
     Once upon a time, there was happy little cube that had all the cute things
-    from draft's past.
+    from draft's past. Designed by May a.k.a. Myagic
   link: https://cubecobra.com/cube/overview/7e7e1cec-b9de-424d-a95c-db2f418dc649
   imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1739662006
   color: '#4073A5'
 
 - name: Out of the Dead Land
   owner: Julien
-  category: cube
+  category: rare-cube
   description:
     Out of the Dead Land is an attempt to push the Desert Cube genre to its
     conceptual limit and embrace the spiritual nature of the journey into the
@@ -339,6 +339,7 @@
   link: https://cubecobra.com/cube/overview/TheArk
   imageURL: https://cards.scryfall.io/art_crop/front/9/5/9598b346-a47d-4c4c-9571-156824e86b9c.jpg?1562922771
   color: '#4B7DAA'
+  defunct: true
 
 - name: The Campaign
   owner: Alex W

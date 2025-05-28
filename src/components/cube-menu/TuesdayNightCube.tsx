@@ -10,6 +10,14 @@ export const TuesdayNightCube: React.FC = () => {
 
   return (
     <div className={styles.container}>
+      <div className={styles.notice}>
+        <h3>Temporary Location Change</h3>
+        <p>
+          We&rsquo;ll be organizing in a nearby location while NLB is relocating
+          to their new space. Check the discord for updates!
+        </p>
+      </div>
+
       <p>
         We draft{' '}
         <a href="http://luckypaper.co/what-is-a-cube/">

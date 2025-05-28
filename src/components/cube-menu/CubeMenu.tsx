@@ -34,22 +34,22 @@ export const CubeMenu: React.FC<Props> = (props) => {
 
       <div className={styles.list}>
         <MenuHeading>
-          Cube Menu: The Regulars - {groups.cubes.length} Lists
+          Cube Menu: The Regulars ({groups.cubes.length})
         </MenuHeading>
 
         <CubeList cubes={groups.cubes} />
       </div>
 
       <div className={styles.list}>
-        <MenuHeading>Specials: Available Occasionally</MenuHeading>
+        <MenuHeading>
+          Specials: Available Occasionally ({groups.moreCubes.length})
+        </MenuHeading>
 
         <CubeList cubes={groups.moreCubes} />
       </div>
 
       <div className={styles.list}>
-        <MenuHeading>
-          Other Cuboid Formats - {groups.other.length} Lists
-        </MenuHeading>
+        <MenuHeading>Other Cuboid Formats ({groups.other.length})</MenuHeading>
 
         <CubeList cubes={groups.other} />
       </div>
