@@ -432,6 +432,16 @@
   imageURL: https://cards.scryfall.io/art_crop/front/2/6/265d3d67-37de-4461-86d0-0f398b5e4169.jpg?1562636768
   color: '#828282'
 
+- name: Collective Bargaining
+  owner: Nate
+  category: cube
+  description:
+    "Let's all come together and enjoy the best mechanic ever: Bargain from
+    Wilds of Eldraine."
+  link: https://cubecobra.com/cube/overview/collectivebargaining
+  imageURL: https://cards.scryfall.io/art_crop/front/b/3/b3d6027c-813f-46df-95b4-e2e305a67620.jpg?1692938564
+  color: '#AB5596'
+
 - name: Between Two Dunes
   owner: Nate
   category: cube
@@ -441,6 +451,7 @@
   link: https://cubecobra.com/cube/overview/betweentwodunes
   imageURL: https://cards.scryfall.io/art_crop/front/e/4/e47bd2c5-e3db-4fde-a695-9e67a7e937be.jpg?1543675951
   color: '#B3874D'
+  defunct: true
 
 - name: Sounds Tempting
   owner: Chris
@@ -676,4 +687,5 @@
     cube, themed around the aspects of nutrition.'
   link: https://cubecobra.com/cube/overview/nutritiouscube
   imageURL: https://cards.scryfall.io/art_crop/front/6/5/65b9a718-01b9-46b2-85eb-55f6206ee5e4.jpg?1592517358
+  imagePosition: 20%
   color: '#3F967E'
