@@ -689,3 +689,40 @@
   imageURL: https://cards.scryfall.io/art_crop/front/6/5/65b9a718-01b9-46b2-85eb-55f6206ee5e4.jpg?1592517358
   imagePosition: 20%
   color: '#3F967E'
+
+- name: Number Crunchers
+  owner: Daerrik
+  category: cube
+  description:
+    This is a cube of numbers, numbers, and numbers some more. Every single card
+    in the cube cares in some way about numbers!
+  link: https://cubecobra.com/cube/overview/numbercrunchers
+  imageURL: https://cards.scryfall.io/art_crop/front/1/9/19d31d5c-6d4d-4bd8-b69c-b44c5b7f089f.jpg?1562900416
+  color: '#7F2F3C'
+
+- name: 'Bloodburrow: Critters and Creeps'
+  owner: Celaena
+  category: cube
+  description:
+    Critters face off versus the creeps! And also big things... Will the might
+    of the meek prevail?
+  link: https://cubecobra.com/cube/overview/44c38caf-9209-4ca8-84fb-2ea6ca4cba66
+  imageURL: https://cards.scryfall.io/art_crop/front/5/0/509bf254-8a2b-4dfa-9ae5-386321b35e8b.jpg?1721426663
+  color: '#92AC51'
+
+- name: Esper Bouncy Castle
+  owner: Mateo
+  category: cube
+  description:
+    Inspired by the play patterns of pixie decks in standard and glint hawk
+    decks in pauper.
+  link: https://cubecobra.com/cube/overview/bouncy
+  imageURL: https://cards.scryfall.io/art_crop/front/b/1/b1c1d05b-92be-40d7-859f-75293a531a84.jpg?1562155044
+  color: '#1A60A7'
+# - name:
+#   owner:
+#   category: cube
+#   description:
+#   link:
+#   imageURL:
+#   color:
