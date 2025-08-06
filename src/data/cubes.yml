@@ -111,7 +111,7 @@
   category: rare-cube
   description: Everyone’s playing storm.
   link: https://cubecobra.com/cube/overview/2pmbe
-  imageURL: https://cards.scryfall.io/art_crop/front/f/3/f3d62dbd-63db-4ac9-950f-9852627f23f2.jpg?1562946525
+  imageURL: https://cards.scryfall.io/art_crop/front/a/6/a654b30c-4af3-48af-b436-d177b53e9c71.jpg?1723226572
   color: '#63A1AF'
   defunct: true
 
@@ -168,7 +168,7 @@
     A cube stripped down to only blue and black cards full of classic Dimir
     Themes.
   link: https://cubecobra.com/cube/overview/dimir
-  imageURL: https://cards.scryfall.io/art_crop/front/9/a/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf.jpg?1738105908
+  imageURL: https://cards.scryfall.io/art_crop/front/9/a/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf.jpg?1753108669
   color: '#3B3A8F'
 
 - name: Kitchen Table Cube
@@ -442,17 +442,6 @@
   imageURL: https://cards.scryfall.io/art_crop/front/b/3/b3d6027c-813f-46df-95b4-e2e305a67620.jpg?1692938564
   color: '#AB5596'
 
-- name: Between Two Dunes
-  owner: Nate
-  category: cube
-  description:
-    This un/common cube blends together 10 of 12 consecutive draft sets from NEO
-    to DSK.
-  link: https://cubecobra.com/cube/overview/betweentwodunes
-  imageURL: https://cards.scryfall.io/art_crop/front/e/4/e47bd2c5-e3db-4fde-a695-9e67a7e937be.jpg?1543675951
-  color: '#B3874D'
-  defunct: true
-
 - name: Sounds Tempting
   owner: Chris
   category: cube
@@ -482,13 +471,14 @@
   imagePosition: 65%
   color: '#448E3A'
 
-- name: Mono Decent
+- name: Double Black Diamonds
   owner: Morgan
   category: cube
   description: Here we do bad things, powerfully.
   link: https://cubecobra.com/cube/overview/monodece
-  imageURL: https://cards.scryfall.io/art_crop/front/e/a/eac8649b-b892-4854-8422-fd117ccac39a.jpg?1562867353
-  color: '#E2A05B'
+  imageURL: https://cards.scryfall.io/art_crop/front/f/d/fde1c8b5-1e01-4920-8d02-bf80d5b238c5.jpg?1562942854
+  imagePosition: left
+  color: '#7C94B6'
 
 - name: Jank Rare
   owner: Andrew
@@ -634,8 +624,9 @@
     High Power with High Interaction. More Gold Cards, Less Planeswalkers. More
     Mana Fixing, Less Mana Ramp.
   link: https://cubecobra.com/cube/overview/xnq
-  imageURL: https://cards.scryfall.io/art_crop/front/f/5/f5e0713c-8358-46fc-9618-66a986d681cb.jpg?1562946860
-  color: '#2C8D8D'
+  imageURL: https://cards.scryfall.io/art_crop/front/4/b/4b51b23a-d67d-4ede-a1b2-1ba6dad9883e.jpg?1675830288
+  imagePosition: 35%
+  color: '#CDA95A'
 
 - name: 50 Cent Budget Cube
   owner: Adam
@@ -719,10 +710,3 @@
   link: https://cubecobra.com/cube/overview/bouncy
   imageURL: https://cards.scryfall.io/art_crop/front/b/1/b1c1d05b-92be-40d7-859f-75293a531a84.jpg?1562155044
   color: '#1A60A7'
-# - name:
-#   owner:
-#   category: cube
-#   description:
-#   link:
-#   imageURL:
-#   color:
