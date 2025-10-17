@@ -9,6 +9,7 @@ async function main() {
   const cubesPath = path.resolve(__dirname, '../src/data/cubes.yml')
 
   const cubes: {
+    name: string
     link: string
   }[] = yaml.parse(fs.readFileSync(cubesPath).toString())
 
@@ -21,12 +22,17 @@ async function main() {
     const id = cubeIDFromLink(cube.link)
 
     if (id != null) {
-      const ccCube = await fetchCube(id)
+      try {
+        const ccCube = await fetchCube(id)
 
-      cubesWithImages.push({
-        ...cube,
-        imageURL: ccCube.image?.uri
-      })
+        cubesWithImages.push({
+          ...cube,
+          imageURL: ccCube.image?.uri
+        })
+      } catch {
+        console.log(`ERROR: failed to fetch cube "${cube.name}"`)
+        cubesWithImages.push(cube)
+      }
     } else {
       cubesWithImages.push(cube)
     }

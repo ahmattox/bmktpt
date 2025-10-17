@@ -491,17 +491,6 @@
   imagePosition: right
   color: '#863974'
 
-- name: Bruh Dimension
-  owner: Will
-  category: cube
-  description:
-    A Cube built around cast-from-exile synergies such as suspend, foretell,
-    madness, adventures, impulse draw, cascade, discover, and plot.
-  link: https://cubecobra.com/cube/overview/1ebea7ea-235c-44b5-9be0-eacaaca47cea
-  imageURL: https://cards.scryfall.io/art_crop/front/7/4/74881c8f-f21d-4901-90cf-2ae8d0f46c3d.jpg?1696636926
-  color: '#A5167A'
-  defunct: true
-
 - name: Micro Pauper Cube
   owner: James
   category: cube
@@ -526,7 +515,7 @@
   category: cube
   description: A Classic, powerful pauper cube with fast fixing lands.
   link: https://cubecobra.com/cube/overview/de033bbd-7184-4212-b1da-0f6277283b81
-  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1562546549
+  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
   color: '#D1AC5D'
 
 - name: The Red Terror
@@ -536,18 +525,6 @@
   link: https://cubecobra.com/cube/overview/42e16b6b-3c37-484d-a50c-cf21087d97fd
   imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab0ba385-1f68-4add-a5e6-9df53d84b66f.jpg?1674059119
   color: '#CE403B'
-
-- name: Discount Human Companionship Cube
-  owner: Andrew
-  category: cube
-  description:
-    What some companionship but don't want to pay top dollar? Well come on down
-    and try out our discount mostly human companions! All creatures have the
-    companion mechanic.
-  link: https://cubecobra.com/cube/overview/PennyCompanion
-  imageURL: https://cards.scryfall.io/art_crop/front/b/0/b05031dc-f99c-49d3-9a20-3453587d8dea.jpg?1616400462
-  imagePosition: 75%
-  color: '#C8602D'
 
 - name: Ice Cube
   owner: Brendan
@@ -617,28 +594,6 @@
   imagePosition: 25%
   color: '#5F7FA8'
 
-- name: Super Magic Fun Times
-  owner: Adam
-  category: cube
-  description:
-    High Power with High Interaction. More Gold Cards, Less Planeswalkers. More
-    Mana Fixing, Less Mana Ramp.
-  link: https://cubecobra.com/cube/overview/xnq
-  imageURL: https://cards.scryfall.io/art_crop/front/4/b/4b51b23a-d67d-4ede-a1b2-1ba6dad9883e.jpg?1675830288
-  imagePosition: 35%
-  color: '#CDA95A'
-
-- name: 50 Cent Budget Cube
-  owner: Adam
-  category: cube
-  description:
-    Archetype Driven & Unsleeved. All cards were worth $0.50 or less at some
-    point. Synergy focused gameplay.
-  link: https://cubecobra.com/cube/overview/xnq
-  imageURL: https://cards.scryfall.io/art_crop/front/4/b/4b51b23a-d67d-4ede-a1b2-1ba6dad9883e.jpg?1675830288
-  imagePosition: 35%
-  color: '#CDA95A'
-
 - name: ChaotiCube
   owner: Adam
   category: rare-cube
@@ -646,19 +601,8 @@
     A Community Designed Cube variant where cards in your hand can be played
     faced down as lands that tap for any color. (Work in Progress)
   link: https://cubecobra.com/cube/overview/f4857a70-c0e2-4757-a6e7-8ef230c574c4
-  imageURL: https://cards.scryfall.io/art_crop/front/4/1/41bd9465-abfb-4fbc-b0cf-11682e6d8a5e.jpg?1730165185
+  imageURL: https://cards.scryfall.io/art_crop/front/6/b/6b76b7a4-f398-4bb4-833e-97ec0d4e581a.jpg?1726236906
   color: '#32BCAA'
-
-- name: Decisions Decisions
-  owner: Adam
-  category: cube
-  description:
-    A draft environment built around flexibility over power level. All cards are
-    modal or involve some level of choice.
-  link: https://cubecobra.com/cube/overview/xbe
-  imageURL: https://cards.scryfall.io/art_crop/front/1/2/12359f11-1758-4005-ada4-5e4cfccee2c3.jpg?1562639684
-  imagePosition: 80%
-  color: '#9A321D'
 
 - name: Unstable Cube
   owner: Adam
@@ -691,15 +635,16 @@
   imageURL: https://cards.scryfall.io/art_crop/front/1/9/19d31d5c-6d4d-4bd8-b69c-b44c5b7f089f.jpg?1562900416
   color: '#7F2F3C'
 
-- name: 'Bloodburrow: Critters and Creeps'
+- name: 'The Menagerie: Critters and Creepers'
   owner: Celaena
   category: cube
   description:
     Critters face off versus the creeps! And also big things... Will the might
     of the meek prevail?
   link: https://cubecobra.com/cube/overview/44c38caf-9209-4ca8-84fb-2ea6ca4cba66
-  imageURL: https://cards.scryfall.io/art_crop/front/5/0/509bf254-8a2b-4dfa-9ae5-386321b35e8b.jpg?1721426663
-  color: '#92AC51'
+  imageURL: https://cards.scryfall.io/art_crop/front/5/c/5c974c68-1a9f-457a-8bcb-265d29fee8e4.jpg?1604781284
+  imagePosition: 30%
+  color: '#925886'
 
 - name: Esper Bouncy Castle
   owner: Mateo
@@ -710,3 +655,12 @@
   link: https://cubecobra.com/cube/overview/bouncy
   imageURL: https://cards.scryfall.io/art_crop/front/b/1/b1c1d05b-92be-40d7-859f-75293a531a84.jpg?1562155044
   color: '#1A60A7'
+
+- name: '"Pet" Cards'
+  owner: Bridget
+  category: cube
+  description:
+    My collection of pet cards, built around modified Bloomburrow archetypes.
+  link: https://cubecobra.com/cube/overview/a3fbec6d-3565-47de-ad86-c2a3bf804019
+  imageURL: https://cards.scryfall.io/art_crop/front/0/3/032ee0fd-9eb3-4d81-9972-9e7f4c4d64e4.jpg?1559600443
+  color: '#8DB0C9'
