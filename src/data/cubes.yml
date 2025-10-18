@@ -594,25 +594,43 @@
   imagePosition: 25%
   color: '#5F7FA8'
 
-- name: ChaotiCube
+- name: Two Headed Giant
   owner: Adam
-  category: rare-cube
-  description:
-    A Community Designed Cube variant where cards in your hand can be played
-    faced down as lands that tap for any color. (Work in Progress)
-  link: https://cubecobra.com/cube/overview/f4857a70-c0e2-4757-a6e7-8ef230c574c4
-  imageURL: https://cards.scryfall.io/art_crop/front/6/b/6b76b7a4-f398-4bb4-833e-97ec0d4e581a.jpg?1726236906
-  color: '#32BCAA'
+  category: cube
+  description: Players draft and play in teams of two.
+  link: https://cubecobra.com/cube/overview/TwoHeadedFun
+  imageURL: https://cards.scryfall.io/art_crop/front/7/0/70c12e75-7e65-4706-b976-e47835910928.jpg?1692938593
+  color: '#BDB956'
 
-- name: Unstable Cube
+- name: Everything Everywhere
   owner: Adam
   category: cube
   description:
-    A faithful reconstruction of the Unstable draft environment with multiples
-    of select commons and uncommons.
-  imageURL: https://cards.scryfall.io/art_crop/front/b/d/bd0d8fc5-5841-403f-96db-2259048ff424.jpg?1580954572
-  imagePosition: 60%
-  color: '#82B446'
+    Play powerful magic without color restrictions from a constantly evolving
+    card pool. All cards can be played face down as a rainbow land.
+  link: https://cubecobra.com/cube/overview/Everything
+  imageURL: https://cards.scryfall.io/art_crop/front/6/b/6b76b7a4-f398-4bb4-833e-97ec0d4e581a.jpg?1726236906
+  color: '#A4BABB'
+
+- name: Super Magic Fun Times
+  owner: Adam
+  category: cube
+  description:
+    High Power with High Interaction. More Gold Cards, Less Planeswalkers. More
+    Mana Fixing, Less Mana Ramp.
+  link: https://cubecobra.com/cube/overview/smft
+  imageURL: https://cards.scryfall.io/art_crop/front/6/4/644f2e7a-354f-4338-9d4f-5a06a1ad412d.jpg?1717015558
+  color: '#92512C'
+
+- name: The Bargain Bin
+  owner: Adam
+  category: cube
+  description:
+    Synergistic environment with only cards worth less than 50 cents and splashy
+    rares.
+  link: https://cubecobra.com/cube/overview/50Cent
+  imageURL: https://cards.scryfall.io/art_crop/front/0/7/076b4810-8e92-4d8f-be82-fc799ec47ee3.jpg?1723444211
+  color: '#E8BF1D'
 
 - name: The Nutritious Cube
   owner: Michael
