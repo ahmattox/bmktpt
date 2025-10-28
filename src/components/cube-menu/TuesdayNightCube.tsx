@@ -16,25 +16,25 @@ export const TuesdayNightCube: React.FC = () => {
           Cube
           <OffsiteIcon />
         </a>{' '}
-        every Tuesday night at 6:30pm at{' '}
+        every Tuesday night at 6:15pm at{' '}
         <a href="https://www.nolandbaltimore.com">
           No Land Beyond
           <OffsiteIcon />
         </a>{' '}
-        (recently moved to 108 W North Avenue) . All players are welcome.
+        (recently moved to 108 W North Avenue). All players are welcome.
       </p>
 
       {showDetails ? (
         <>
           <p>
-            Drafts start promptly at 6:30. No sign ups are required. Arrive a
-            little early so we can organize pods according to the number of
-            players.
+            Drafts start promptly at 6:30. No sign ups are required. Arrive
+            before start time so we can organize into pods.
           </p>
 
           <p>
             Be sure to support our great LGS! NLB charges a $5 cover for table
-            space. They also have a bar and serve food.
+            space. They serve{' '}
+            <a href="https://www.nolandbaltimore.com/menu">food and drinks</a>.
           </p>
 
           <p>
