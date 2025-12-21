@@ -45,6 +45,7 @@
   imageURL: https://cards.scryfall.io/art_crop/front/7/2/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9.jpg?1562778128
   imagePosition: 65%
   color: '#AF4977'
+  defunct: true
 
 - name: Neoclassical Cube
   owner: Andy Mangold
@@ -79,7 +80,7 @@
 
 - name: Reading Rainbow
   owner: Daniel
-  category: cube
+  category: rare-cube
   description:
     Only multicolored spells. Players begin the game with a Pillar of the Paruns
     in play.
@@ -127,7 +128,7 @@
 
 - name: Broadband Waterpark
   owner: Sal
-  category: cube
+  category: rare-cube
   description: |
     Broadband waterpark is splashy and has a wide power band. have fun!
   link: https://cubecobra.com/cube/overview/bindercube
@@ -258,10 +259,11 @@
 
 - name: May's Fae Cube
   owner: Julien
-  category: rare-cube
+  category: cube
   description:
     Once upon a time, there was happy little cube that had all the cute things
-    from draft's past. Designed by May a.k.a. Myagic
+    from draft's past. Designed by May a.k.a. Myagic. Available in the NLB game
+    library!
   link: https://cubecobra.com/cube/overview/7e7e1cec-b9de-424d-a95c-db2f418dc649
   imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1739662006
   color: '#4073A5'
@@ -444,7 +446,7 @@
 
 - name: Sounds Tempting
   owner: Chris
-  category: cube
+  category: rare-cube
   description:
     Lord of the Rings set Cube with added fixing and some light curation.
   link: https://cubecobra.com/cube/overview/004ff185-8e29-47cb-9668-a0dddeb97f96
@@ -482,7 +484,7 @@
 
 - name: Jank Rare
   owner: Andrew
-  category: cube
+  category: rare-cube
   description:
     Budget, multicolor forward jank. Most cards are rares or mythics under a
     dollar.
@@ -493,7 +495,7 @@
 
 - name: Micro Pauper Cube
   owner: James
-  category: cube
+  category: rare-cube
   description:
     A vintage legality, pauper cube designed to be approachable to new players
     and interesting to seasoned veterans.
@@ -512,7 +514,7 @@
 
 - name: Matt's Pauper Cube
   owner: Matt
-  category: cube
+  category: rare-cube
   description: A Classic, powerful pauper cube with fast fixing lands.
   link: https://cubecobra.com/cube/overview/de033bbd-7184-4212-b1da-0f6277283b81
   imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
@@ -528,7 +530,7 @@
 
 - name: Ice Cube
   owner: Brendan
-  category: cube
+  category: rare-cube
   description: Replicates the play of casual Magic around the Stronghold era.
   link: https://cubecobra.com/cube/overview/w3tr
   imageURL: https://cards.scryfall.io/art_crop/front/8/1/81b87a58-b20c-4f38-afa3-59d398195740.jpg?1562919062
@@ -544,7 +546,7 @@
   imageURL: https://cards.scryfall.io/art_crop/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1559591491
   color: '#C55845'
 
-- name: Two Card Monty Hall
+- name: Strategic Inevitability Cube
   owner: Brendan
   category: rare-cube
   description: All combos all the time, but not the one's you're familiar with.
@@ -555,7 +557,7 @@
 
 - name: Orzhov Cube
   owner: Kyle
-  category: cube
+  category: rare-cube
   description:
     A cube featuring all of the best black, white, and black white cards! No
     other colors included. I guess you could call this a gray area!
@@ -565,7 +567,7 @@
 
 - name: Nooria's Cube
   owner: Nooria
-  category: cube
+  category: rare-cube
   description:
     A pile of my favorite cards circa 2019-2020. High power band, plenty of
     undersupported archetypes that might be traps or might work. Everything from
@@ -584,27 +586,30 @@
   link: https://cubecobra.com/cube/overview/misfittoys
   imageURL: https://cards.scryfall.io/art_crop/front/0/4/04d0e3f2-04cb-4775-947e-3c92e61b8fac.jpg?1698988435
   color: '#A3CEE8'
+  defunct: true
 
 - name: Oops, All Foils
   owner: Vinny
-  category: cube
+  category: rare-cube
   description: Completely foiled out peasant cube.
   link: https://cubecobra.com/cube/overview/OopsAllFoils
   imageURL: https://cards.scryfall.io/art_crop/front/7/1/71396bc0-a0e4-41c1-a26f-c4b8f8752891.jpg?1562270236
   imagePosition: 25%
   color: '#5F7FA8'
 
-- name: Two Headed Giant
+- name: Jolly Cooperation
   owner: Adam
-  category: cube
-  description: Players draft and play in teams of two.
-  link: https://cubecobra.com/cube/overview/TwoHeadedFun
-  imageURL: https://cards.scryfall.io/art_crop/front/7/0/70c12e75-7e65-4706-b976-e47835910928.jpg?1692938593
-  color: '#BDB956'
+  category: rare-cube
+  description:
+    Two headed giant cube. 8 players draft in four teams of two, making picks
+    together and building two decks from a shared pool.
+  link: https://cubecobra.com/cube/overview/JollyCoop
+  imageURL: https://cards.scryfall.io/art_crop/front/d/e/de4f53fc-69d7-49fb-885b-4cc02bf5facc.jpg?1562594477
+  color: '#825269'
 
 - name: Everything Everywhere
   owner: Adam
-  category: cube
+  category: rare-cube
   description:
     Play powerful magic without color restrictions from a constantly evolving
     card pool. All cards can be played face down as a rainbow land.
@@ -682,3 +687,12 @@
   link: https://cubecobra.com/cube/overview/a3fbec6d-3565-47de-ad86-c2a3bf804019
   imageURL: https://cards.scryfall.io/art_crop/front/0/3/032ee0fd-9eb3-4d81-9972-9e7f4c4d64e4.jpg?1559600443
   color: '#8DB0C9'
+
+- name: Mystery Booster 2002
+  owner: Natalie
+  category: rare-cube
+  description: They should print more prison pieces.
+  link: https://cubecobra.com/cube/overview/mysterybooster2002
+  imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab3cec7e-513e-400d-a1a8-2c71cdde02c6.jpg?1580015285
+  imagePosition: left
+  color: '#868CE4'
