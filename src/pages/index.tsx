@@ -20,7 +20,18 @@ const IndexPage: React.FC = () => {
         </p>
 
         <p>
-          We play regularly at{' '}
+          We play at{' '}
+          <a
+            href="https://peabodyheightsbrewery.com"
+            className={classNames(
+              styles.bigLink,
+              styles.link2,
+              styles.external
+            )}
+          >
+            Peabody Heights Brewery
+          </a>{' '}
+          and{' '}
           <a
             href="https://www.nolandbaltimore.com"
             className={classNames(
@@ -48,12 +59,12 @@ const IndexPage: React.FC = () => {
             Cube
             <OffsiteIcon />
           </a>
-          . Check out the menu of{' '}
+          . Check out the{' '}
           <Link
             to="/cubes/"
             className={classNames(styles.bigLink, styles.link4)}
           >
-            local Cubes
+            local Cube Menu
           </Link>
           . Join us any{' '}
           <Link
@@ -62,16 +73,16 @@ const IndexPage: React.FC = () => {
           >
             Tuesday
           </Link>{' '}
-          night at 6:30 at{' '}
+          night at 6:15pm at{' '}
           <a
-            href="https://www.nolandbaltimore.com"
+            href="https://peabodyheightsbrewery.com"
             className={classNames(
               styles.bigLink,
               styles.link2,
               styles.external
             )}
           >
-            NLB
+            Peabody Heights
             <OffsiteIcon />
           </a>{' '}
           for a draft!

@@ -17,24 +17,23 @@ export const TuesdayNightCube: React.FC = () => {
           <OffsiteIcon />
         </a>{' '}
         every Tuesday night at 6:15pm at{' '}
-        <a href="https://www.nolandbaltimore.com">
-          No Land Beyond
+        <a href="https://peabodyheightsbrewery.com">
+          Peabody Heights Brewery
           <OffsiteIcon />
         </a>{' '}
-        (recently moved to 108 W North Avenue). All players are welcome.
+        401 East 30th Street. All players are welcome.
       </p>
 
       {showDetails ? (
         <>
           <p>
-            Drafts start promptly at 6:30. No sign ups are required. Arrive
-            before start time so we can organize into pods.
+            Drafts start promptly at 6:30. No sign ups are required. Arrive 15
+            minutes in advance so we can organize into pods.
           </p>
 
           <p>
-            Be sure to support our great LGS! NLB charges a $5 cover for table
-            space. They serve{' '}
-            <a href="https://www.nolandbaltimore.com/menu">food and drinks</a>.
+            There&rsquo;s no entry fee but support the brewery and food trucks
+            while you&rsquo;re here.
           </p>
 
           <p>
@@ -48,7 +47,7 @@ export const TuesdayNightCube: React.FC = () => {
               The Discord
               <OffsiteIcon />
             </a>{' '}
-            (message me or ask someone at cube night for an invite) to stay in
+            (message me or ask someone at Cube night for an invite) to stay in
             touch. We informally organize which Cubes we&rsquo;ll draft there,
             share deck lists, and talk about Magic and more.
           </p>
