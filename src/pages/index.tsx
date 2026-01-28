@@ -30,8 +30,8 @@ const IndexPage: React.FC = () => {
             )}
           >
             Peabody Heights Brewery
-          </a>{' '}
-          and{' '}
+          </a>
+          ,{' '}
           <a
             href="https://www.nolandbaltimore.com"
             className={classNames(
@@ -43,7 +43,18 @@ const IndexPage: React.FC = () => {
             No Land Beyond
             <OffsiteIcon />
           </a>
-          , a fantastic local game store and board game bar.
+          , a fantastic local game store and board game bar, and{' '}
+          <a
+            href="https://r.housebaltimore.com"
+            className={classNames(
+              styles.bigLink,
+              styles.link2,
+              styles.external
+            )}
+          >
+            R. House <OffsiteIcon />
+          </a>{' '}
+          food hall.
         </p>
 
         <p>
@@ -85,7 +96,17 @@ const IndexPage: React.FC = () => {
             Peabody Heights
             <OffsiteIcon />
           </a>{' '}
-          for a draft!
+          for a draft, or Friday mornings at{' '}
+          <a
+            href="https://r.housebaltimore.com"
+            className={classNames(
+              styles.bigLink,
+              styles.link2,
+              styles.external
+            )}
+          >
+            R. House. <OffsiteIcon />
+          </a>
         </p>
 
         <p>

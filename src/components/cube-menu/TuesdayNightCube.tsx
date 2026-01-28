@@ -20,15 +20,18 @@ export const TuesdayNightCube: React.FC = () => {
         <a href="https://peabodyheightsbrewery.com">
           Peabody Heights Brewery
           <OffsiteIcon />
-        </a>{' '}
-        401 East 30th Street. All players are welcome.
+        </a>
+        , and play casual games early Friday mornings at{' '}
+        <a href="https://r.housebaltimore.com">R. House</a>. All players are
+        welcome.
       </p>
 
       {showDetails ? (
         <>
           <p>
-            Drafts start promptly at 6:30. No sign ups are required. Arrive 15
-            minutes in advance so we can organize into pods.
+            <strong>Tuesday drafts</strong> start promptly at 6:30pm. No sign
+            ups are required. Arrive 15 minutes in advance so we can organize
+            into pods.
           </p>
 
           <p>
@@ -39,6 +42,11 @@ export const TuesdayNightCube: React.FC = () => {
           <p>
             We have <em>a lot</em> of cubes in the group, so be prepared to
             tackle something different every week.
+          </p>
+
+          <p>
+            <strong>Friday mornings</strong> start around 7:00am. Join us for
+            small group cube drafts and other casual Magic.
           </p>
 
           <p>
