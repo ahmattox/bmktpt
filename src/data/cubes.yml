@@ -454,13 +454,21 @@
   color: '#BD6338'
 
 - name: Sram's Cabin Cube
-  owner: Dave
+  owner: Perry
   category: cube
   description:
     An interactive, synergy driven environment based around Sram's key
     principal; vehicles, Equipment, and Auras.
   link: https://cubecobra.com/cube/list/fa4c6d1f-ea49-4dfd-b249-c6e97cf65cf5
   imageURL: https://cards.scryfall.io/art_crop/front/3/e/3e565e38-43d5-482e-a911-ce525dfee74f.jpg?1624739675
+  color: '#763726'
+
+- name: Soups On!
+  owner: Perry
+  category: cube
+  description:
+  link: https://cubecobra.com/cube/list/Soup
+  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
   color: '#763726'
 
 - name: Unnamed Power Cube
@@ -644,7 +652,7 @@
     'Welcome to the Nutritious Cube—my personal take on a Magic: The Gathering
     cube, themed around the aspects of nutrition.'
   link: https://cubecobra.com/cube/overview/nutritiouscube
-  imageURL: https://cards.scryfall.io/art_crop/front/6/5/65b9a718-01b9-46b2-85eb-55f6206ee5e4.jpg?1592517358
+  imageURL: https://cards.scryfall.io/art_crop/front/7/a/7aa37f85-5336-4372-97a2-9c8b00798c7a.jpg?1692939153
   imagePosition: 20%
   color: '#3F967E'
 
@@ -696,3 +704,45 @@
   imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab3cec7e-513e-400d-a1a8-2c71cdde02c6.jpg?1580015285
   imagePosition: left
   color: '#868CE4'
+
+- name: The Post-Anthropocene
+  owner: Bobby
+  category: cube
+  description:
+    Low-power graveyard focused Cube  including no cards with the creature type
+    human, and, where possible, no cards depicting humans.
+  link: hhttps://cubecobra.com/cube/list/10749bd4-90cc-4775-bcfb-ed2589fd8dba
+  imageURL: https://cards.scryfall.io/art_crop/front/d/9/d9327905-a254-4885-8310-69fc153ec52f.jpg?1562793988
+  imagePosition: 40%
+  color: '#727422'
+
+- name: The Tarkube
+  owner: Bobby
+  category: cube
+  description:
+    The Tarkube takes cards from the these four main Tarkir sets, supplemented
+    by other Tarkiri cards, and puts them together into one big draft
+    environment
+  link: https://cubecobra.com/cube/about/TheTarkube?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/0/2/02bc2415-b1d1-467a-9578-3948dda166cf.jpg?1562781854
+  color: '#8A2E20'
+
+- name: 'Kamigawa: Neon Dynasty Remastered Cube'
+  owner: Nick
+  category: cube
+  description:
+    'Play sneaky Ninjas, powerful Mechs, and aesthetic Shrines. Find balance
+    between enchantments and artifacts. Kamigawa: Neon Dynasty like you never
+    played before'
+  link: https://cubecobra.com/cube/about/c0f5d926-6545-46ac-9b64-d59f3761d474?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/f/6/f66aaba3-4a28-4fcf-926a-34bbbf0dbeb4.jpg?1654569538
+  color: '#17181A'
+
+- name: Dune Cube Prime
+  owner: Marisa
+  category: cube
+  description:
+  link: https://www.cubecobra.com/cube/about/35eb9022-21ed-4329-9719-1b53301ff543?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
+  color: '#868CE4'
+  defunct: true
