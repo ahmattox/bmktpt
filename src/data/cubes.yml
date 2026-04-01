@@ -466,7 +466,7 @@
 - name: Soups On!
   owner: Perry
   category: cube
-  description:
+  description: null
   link: https://cubecobra.com/cube/list/Soup
   imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
   color: '#763726'
@@ -585,6 +585,17 @@
   imagePosition: 30%
   color: '#5D2E5D'
 
+- name: Not Mono-Black Cube
+  owner: Nooria
+  category: cube
+  description:
+    A focusing on the most iconic cards and strategies that are concentrated in
+    black.
+  link: https://cubecobra.com/cube/about/notmonoblack?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/0/a/0a5df970-c6ba-4824-b8ba-67244aec2b82.jpg?1562628587
+  imagePosition: 30%
+  color: '#552741'
+
 - name: Island of Misfit Toys
   owner: Michael
   category: cube
@@ -653,7 +664,6 @@
     cube, themed around the aspects of nutrition.'
   link: https://cubecobra.com/cube/overview/nutritiouscube
   imageURL: https://cards.scryfall.io/art_crop/front/7/a/7aa37f85-5336-4372-97a2-9c8b00798c7a.jpg?1692939153
-  imagePosition: 20%
   color: '#3F967E'
 
 - name: Number Crunchers
@@ -665,6 +675,16 @@
   link: https://cubecobra.com/cube/overview/numbercrunchers
   imageURL: https://cards.scryfall.io/art_crop/front/1/9/19d31d5c-6d4d-4bd8-b69c-b44c5b7f089f.jpg?1562900416
   color: '#7F2F3C'
+
+- name: Protean
+  owner: Daerrik
+  category: cube
+  description:
+    Whenever a player casts a spell each nonland permanent they control becomes
+    it's colors until their next turn.
+  link: https://cubecobra.com/cube/about/protean?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/b/f/bf6e59be-f959-4f4a-8c2d-b7c441e88135.jpg?1706242205
+  color: '#11B1E4'
 
 - name: 'The Menagerie: Critters and Creepers'
   owner: Celaena
@@ -741,8 +761,26 @@
 - name: Dune Cube Prime
   owner: Marisa
   category: cube
-  description:
+  description: null
   link: https://www.cubecobra.com/cube/about/35eb9022-21ed-4329-9719-1b53301ff543?view=primer
   imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
   color: '#868CE4'
   defunct: true
+
+- name: The Modal Cube
+  owner: Rohan
+  category: cube
+  description: A cube full of modal spells and effects.
+  link: https://cubecobra.com/cube/list/decisions-decisions
+  imageURL: https://cards.scryfall.io/art_crop/front/c/8/c8eb8d39-9eb8-4592-ab74-54cdc2460e62.jpg?1543674937
+  color: '#437EBC'
+
+- name: The Library of Babel
+  owner: Niall
+  category: cube
+  description:
+    A mostly peasant cubes with lots of synergistic build-arounds and
+    interaction.
+  link: https://cubecobra.com/cube/about/lob?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/5/0/502d77d6-c5c9-4def-80cb-7905fbbdefcb.jpg?1559592234
+  color: '#713A2F'
