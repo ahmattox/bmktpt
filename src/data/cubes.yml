@@ -265,7 +265,7 @@
     from draft's past. Designed by May a.k.a. Myagic. Available in the NLB game
     library!
   link: https://cubecobra.com/cube/overview/7e7e1cec-b9de-424d-a95c-db2f418dc649
-  imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1739662006
+  imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1776203263
   color: '#4073A5'
 
 - name: Out of the Dead Land
@@ -643,8 +643,9 @@
     High Power with High Interaction. More Gold Cards, Less Planeswalkers. More
     Mana Fixing, Less Mana Ramp.
   link: https://cubecobra.com/cube/overview/smft
-  imageURL: https://cards.scryfall.io/art_crop/front/6/4/644f2e7a-354f-4338-9d4f-5a06a1ad412d.jpg?1717015558
-  color: '#92512C'
+  imageURL: https://cards.scryfall.io/art_crop/front/b/9/b9f71c3b-0840-475f-9c17-fdacbc7f3213.jpg?1767658560
+  imagePosition: 20%
+  color: '#8AC693'
 
 - name: The Bargain Bin
   owner: Adam
@@ -774,6 +775,16 @@
   link: https://cubecobra.com/cube/list/decisions-decisions
   imageURL: https://cards.scryfall.io/art_crop/front/c/8/c8eb8d39-9eb8-4592-ab74-54cdc2460e62.jpg?1543674937
   color: '#437EBC'
+
+- name: Shaved Ice
+  owner: Rohan
+  category: cube
+  description:
+    A cube that's entirely base white, with a little splash of other colors on
+    top. Do you get it?
+  link: https://cubecobra.com/cube/about/shaved-ice?view=primer
+  imageURL: https://cards.scryfall.io/art_crop/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1562477599
+  color: '#D5B561'
 
 - name: The Library of Babel
   owner: Niall
