@@ -246,6 +246,7 @@
   link: https://cubecobra.com/cube/list/compost
   imageURL: https://cards.scryfall.io/art_crop/front/1/3/13c5a1ce-932a-4b3d-8b86-ed920e646afc.jpg?1593092623
   color: '#7C9432'
+  defunct: true
 
 - name: Lyserg's Artifact 180 Cube
   owner: Julien
@@ -256,9 +257,10 @@
   link: https://cubecobra.com/cube/overview/arto
   imageURL: https://cards.scryfall.io/art_crop/front/c/3/c32b5b2e-dabf-4672-b476-4873781f636e.jpg?1626096405
   color: '#D9322C'
+  defunct: true
 
 - name: May's Fae Cube
-  owner: Julien
+  owner: No Land Beyond Game Library
   category: cube
   description:
     Once upon a time, there was happy little cube that had all the cute things
@@ -278,6 +280,7 @@
   link: https://cubecobra.com/cube/overview/Deadland2
   imageURL: https://cards.scryfall.io/art_crop/front/c/9/c9dbfc7c-164d-47b8-8f05-987864fca89b.jpg?1562721899
   color: '#6C7B86'
+  defunct: true
 
 - name: Recruited Revelry
   owner: Max
@@ -394,6 +397,7 @@
   imageURL: https://cards.scryfall.io/art_crop/front/2/5/25f0f6a2-b392-45e6-97c4-4f00016144d3.jpg?1562783827
   imagePosition: 80%
   color: '#AC7A4E'
+  defunct: true
 
 - name: The Simple Cube
   owner: Nate
@@ -415,6 +419,7 @@
   link: https://cubecobra.com/cube/overview/wizardpoker
   imageURL: https://cards.scryfall.io/art_crop/front/1/0/1016a750-2a18-4443-a600-957eb4026d3a.jpg?1712355556
   color: '#ED8B44'
+  defunct: true
 
 - name: Unstable P.L.U.S.
   owner: Nate
@@ -423,6 +428,7 @@
   link: https://cubecobra.com/cube/overview/unstableplus
   imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1690725283
   color: '#B2B07A'
+  defunct: true
 
 - name: Giver Cube
   owner: Nate
@@ -433,6 +439,7 @@
   link: https://cubecobra.com/cube/overview/taker
   imageURL: https://cards.scryfall.io/art_crop/front/2/6/265d3d67-37de-4461-86d0-0f398b5e4169.jpg?1562636768
   color: '#828282'
+  defunct: true
 
 - name: Between Two Dunes
   owner: Nate
@@ -443,6 +450,7 @@
   link: https://cubecobra.com/cube/about/betweentwodunes?view=primer
   imageURL: https://cards.scryfall.io/art_crop/front/9/5/95a96eb1-f87c-4b1d-82c7-f239bcbc62b8.jpg?1562201796
   color: '#AB5596'
+  defunct: true
 
 - name: Sounds Tempting
   owner: Chris
@@ -785,6 +793,15 @@
   link: https://cubecobra.com/cube/about/shaved-ice?view=primer
   imageURL: https://cards.scryfall.io/art_crop/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1562477599
   color: '#D5B561'
+
+- name: The Barrens
+  owner: Rohan
+  category: cube
+  description:
+    What happens when the only mana fixing is an abundance of Ash Barrens?
+  link: https://cubecobra.com/cube/about/ash-barrens
+  imageURL: https://cards.scryfall.io/art_crop/front/9/d/9d7ac112-bb20-4ea4-b797-5d21f6b7c121.jpg?1562412343
+  color: '#776E6D'
 
 - name: The Library of Babel
   owner: Niall
