@@ -5,7 +5,7 @@
     This cube plays similar to a masters set with combat focused gameplay and
     many small, overlapping themes.
   link: https://cubecobra.com/cube/overview/regular
-  imageURL: https://cards.scryfall.io/art_crop/front/a/d/ad8b8518-c09e-4cb7-95b2-08e4e370d89c.jpg?1562803091
+  imageURL: https://assets.cubecobra.com/cardimages/ad8b8518-c09e-4cb7-95b2-08e4e370d89c/art_crop.webp
   imagePosition: 15%
   color: '#5391A4'
 
@@ -15,7 +15,7 @@
   description:
     All spells and activated abilities cost {2} less to cast. Go nuts.
   link: https://cubecobra.com/cube/overview/turbo
-  imageURL: https://cards.scryfall.io/art_crop/front/f/b/fb988572-1e1d-4b1d-8dc7-78bda966554e.jpg?1562942414
+  imageURL: https://assets.cubecobra.com/cardimages/fb988572-1e1d-4b1d-8dc7-78bda966554e/art_crop.webp
   color: '#0B2B3D'
 
 - name: Irregular Cube
@@ -24,7 +24,7 @@
   description:
     Low powered cube with time-spiral like themes and a module of ‘rare’ cards.
   link: https://cubecobra.com/cube/overview/irregular-cube
-  imageURL: https://cards.scryfall.io/art_crop/front/c/3/c35aa7a8-5579-46b7-83ef-f5ecc2b31847.jpg?1562936285
+  imageURL: https://assets.cubecobra.com/cardimages/c35aa7a8-5579-46b7-83ef-f5ecc2b31847/art_crop.webp
   color: '#7D9667'
 
 - name: Bun Magic Cube
@@ -33,7 +33,7 @@
   description:
     High powered fair cube, pushing aggro, midrange, and control strategies.
   link: https://cubecobra.com/cube/overview/andymangold
-  imageURL: https://cards.scryfall.io/art_crop/front/b/a/ba69864e-aee2-4b9f-821c-8b4a1c05c2ac.jpg?1562271905
+  imageURL: https://assets.cubecobra.com/cardimages/ba69864e-aee2-4b9f-821c-8b4a1c05c2ac/art_crop.webp
   color: '#906946'
 
 - name: Degenerate Micro Cube
@@ -42,7 +42,7 @@
   description:
     15 card decks, no loss to mill, feature Magic’s most broken archetypes.
   link: https://cubecobra.com/cube/overview/degenerate-micro-cube
-  imageURL: https://cards.scryfall.io/art_crop/front/7/2/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9.jpg?1562778128
+  imageURL: https://assets.cubecobra.com/cardimages/726ce95b-bc4d-4c34-a8e1-b4c6c28accc9/art_crop.webp
   imagePosition: 65%
   color: '#AF4977'
   defunct: true
@@ -55,7 +55,7 @@
     power band environment that pursues the archetypes and play patterns of
     pre-modern.
   link: https://cubecobra.com/cube/overview/neoclassical
-  imageURL: https://cards.scryfall.io/art_crop/front/5/2/52bf69ca-b974-4620-8483-b0ba33db26a5.jpg?1562911827
+  imageURL: https://assets.cubecobra.com/cardimages/52bf69ca-b974-4620-8483-b0ba33db26a5/art_crop.webp
   color: '#DE965C'
 
 - name: 100 Ornithopters
@@ -63,7 +63,7 @@
   category: cube
   description: What if the only creatures were Ornithopters?
   link: https://cubecobra.com/cube/overview/100-ornithopters
-  imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d784214-dc69-42d4-b897-995ca5751e13.jpg?1562551442
+  imageURL: https://assets.cubecobra.com/cardimages/8d784214-dc69-42d4-b897-995ca5751e13/art_crop.webp
   imagePosition: left
   color: '#FEBF00'
 
@@ -75,7 +75,7 @@
     are driven primarily by sophistication of design, resulting in a broad power
     level band and emergent archetypes and synergies.
   link: https://cubecobra.com/cube/overview/sacred-geometry
-  imageURL: https://cards.scryfall.io/art_crop/front/1/a/1a2e41e3-919c-4bd3-9eea-adc0291f5f8a.jpg?1562544422
+  imageURL: https://assets.cubecobra.com/cardimages/1a2e41e3-919c-4bd3-9eea-adc0291f5f8a/art_crop.webp
   color: '#97CDCF'
 
 - name: Reading Rainbow
@@ -85,7 +85,7 @@
     Only multicolored spells. Players begin the game with a Pillar of the Paruns
     in play.
   link: https://cubecobra.com/cube/overview/allgoldcube
-  imageURL: https://cards.scryfall.io/art_crop/front/2/3/236dcb39-b81e-4ae2-b153-01be0577ed93.jpg?1593274108
+  imageURL: https://assets.cubecobra.com/cardimages/236dcb39-b81e-4ae2-b153-01be0577ed93/art_crop.webp
   color: '#944B15'
 
 - name: Breya Cube
@@ -93,7 +93,7 @@
   category: rare-cube
   description: Artifact and enchantment focused with no green cards.
   link: https://cubecobra.com/cube/overview/breyacube
-  imageURL: https://cards.scryfall.io/art_crop/front/d/e/dec79304-65fb-4064-ba39-85d04fd91574.jpg?1561758238
+  imageURL: https://assets.cubecobra.com/cardimages/dec79304-65fb-4064-ba39-85d04fd91574/art_crop.webp
   color: '#AB63AF'
 
 - name: Forgiveness Cube
@@ -103,7 +103,7 @@
     explore the intersection of its "pillars".
   category: rare-cube
   link: https://cubecobra.com/cube/overview/forgiveness
-  imageURL: https://cards.scryfall.io/art_crop/front/f/4/f406d477-720b-498c-9f45-1b687e555bcd.jpg?1631235164
+  imageURL: https://assets.cubecobra.com/cardimages/f406d477-720b-498c-9f45-1b687e555bcd/art_crop.webp
   imagePosition: 60%
   color: '#447848'
 
@@ -112,7 +112,7 @@
   category: rare-cube
   description: Everyone’s playing storm.
   link: https://cubecobra.com/cube/overview/2pmbe
-  imageURL: https://cards.scryfall.io/art_crop/front/a/6/a654b30c-4af3-48af-b436-d177b53e9c71.jpg?1723226572
+  imageURL: https://assets.cubecobra.com/cardimages/a654b30c-4af3-48af-b436-d177b53e9c71/art_crop.webp
   color: '#63A1AF'
   defunct: true
 
@@ -123,7 +123,7 @@
     A mid power level Cube aimed at being accessible and full of bad-ass
     bitches.
   link: https://cubecobra.com/cube/overview/1p4o7
-  imageURL: https://cards.scryfall.io/art_crop/front/5/a/5a3df85a-21c8-45fc-a7fc-f9fed1e735f0.jpg?1562274065
+  imageURL: https://assets.cubecobra.com/cardimages/5a3df85a-21c8-45fc-a7fc-f9fed1e735f0/art_crop.webp
   color: '#096D65'
 
 - name: Broadband Waterpark
@@ -132,7 +132,7 @@
   description: |
     Broadband waterpark is splashy and has a wide power band. have fun!
   link: https://cubecobra.com/cube/overview/bindercube
-  imageURL: https://cards.scryfall.io/art_crop/front/d/2/d25b13a4-6282-4426-8b01-9550f7d52d16.jpg?1562945077
+  imageURL: https://assets.cubecobra.com/cardimages/d25b13a4-6282-4426-8b01-9550f7d52d16/art_crop.webp
   color: '#606A6A'
 
 - name: Vintage Cube (No p9)
@@ -140,7 +140,7 @@
   category: rare-cube
   description: Classic vintage cube in the MTGO style, but without the power 9.
   link: https://cubecobra.com/cube/overview/12o6
-  imageURL: https://cards.scryfall.io/art_crop/front/2/2/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c.jpg?1562875845
+  imageURL: https://assets.cubecobra.com/cardimages/220d3a38-10f8-4d4a-84b8-f17b10a2cd6c/art_crop.webp
   color: '#E8D36A'
 
 - name: Rally The Peasants
@@ -148,7 +148,7 @@
   category: rare-cube
   description: Peasant cube with the addition of rare lands.
   link: https://cubecobra.com/cube/overview/RallyThePeasants
-  imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d33e2f5-c2f5-4e69-924f-c8c9ed1ae1a7.jpg?1562636844
+  imageURL: https://assets.cubecobra.com/cardimages/8d33e2f5-c2f5-4e69-924f-c8c9ed1ae1a7/art_crop.webp
   color: '#3D3F54'
 
 - name: Reduce, Reuse, Recycle
@@ -158,7 +158,7 @@
     that examines how we get value from the things we throw away.
   category: rare-cube
   link: https://cubecobra.com/cube/overview/ldri
-  imageURL: https://cards.scryfall.io/art_crop/front/a/e/ae984b86-ac6d-45e2-9c8d-0b7ac50021a1.jpg?1562055926
+  imageURL: https://assets.cubecobra.com/cardimages/ae984b86-ac6d-45e2-9c8d-0b7ac50021a1/art_crop.webp
   imagePosition: left
   color: '#4468A8'
 
@@ -169,7 +169,7 @@
     A cube stripped down to only blue and black cards full of classic Dimir
     Themes.
   link: https://cubecobra.com/cube/overview/dimir
-  imageURL: https://cards.scryfall.io/art_crop/front/9/a/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf.jpg?1753108669
+  imageURL: https://assets.cubecobra.com/cardimages/9a9a1df5-a4e8-49a4-aebe-ca93894ccfcf/art_crop.webp
   color: '#3B3A8F'
 
 - name: Kitchen Table Cube
@@ -179,7 +179,7 @@
     A somewhat-polished draft experience that still evokes the feeling of
     building decks by spreading out your box of cards on the kitchen table.
   link: https://cubecobra.com/cube/overview/kitchen-table-cube
-  imageURL: https://cards.scryfall.io/art_crop/front/3/4/34044cf5-79ed-479c-abdc-3718ec193dd3.jpg?1562784678
+  imageURL: https://assets.cubecobra.com/cardimages/34044cf5-79ed-479c-abdc-3718ec193dd3/art_crop.webp
   color: '#AB824F'
   defunct: true
 
@@ -190,7 +190,7 @@
     A "remastered" Kamigawa experience mixing cards from every visit to the plan
     with rebalanced themes.
   link: https://cubecobra.com/cube/overview/kamigawa-remastered
-  imageURL: https://cards.scryfall.io/art_crop/back/c/f/cfcc7dd5-c6ac-4e66-b197-c010dcfdb397.jpg?1657724823
+  imageURL: https://assets.cubecobra.com/cardimages/cfcc7dd5-c6ac-4e66-b197-c010dcfdb397/art_crop_back.webp
   color: '#C29F3F'
   defunct: true
 
@@ -199,7 +199,7 @@
   category: other
   description: A set of 5 mono-color decks.
   link: https://cubecobra.com/cube/overview/mono-color-beginner-decks
-  imageURL: https://cards.scryfall.io/art_crop/front/b/1/b1d0beb4-c3dd-4bb1-b49b-a48b2d4ad38d.jpg?1562932521
+  imageURL: https://assets.cubecobra.com/cardimages/b1d0beb4-c3dd-4bb1-b49b-a48b2d4ad38d/art_crop.webp
   color: '#5F312B'
 
 - name: Battle Box
@@ -207,7 +207,7 @@
   category: other
   description: Players draw from a shared deck and have free lands.
   link: https://cubecobra.com/cube/overview/60f5fab79e954b050e0ae497
-  imageURL: https://cards.scryfall.io/art_crop/front/3/1/31a500e6-01f5-4a3a-8839-68b9b515e919.jpg?1594735061
+  imageURL: https://assets.cubecobra.com/cardimages/31a500e6-01f5-4a3a-8839-68b9b515e919/art_crop.webp
   color: '#C1BFD2'
 
 - name: Jeskai Control Battle Box
@@ -215,7 +215,7 @@
   category: other
   description: A color restricted Battle Box replicating an iconic mirror match.
   link: https://cubecobra.com/cube/overview/jeskai-control-bb
-  imageURL: https://cards.scryfall.io/art_crop/front/e/2/e2915763-2b63-4408-b014-49d52e3d65f6.jpg?1561758302
+  imageURL: https://assets.cubecobra.com/cardimages/e2915763-2b63-4408-b014-49d52e3d65f6/art_crop.webp
   color: '#77BBD2'
 
 - name: Ryan Saxe's Classic Cube
@@ -225,7 +225,7 @@
     Saxe.
   category: rare-cube
   link: https://cubecobra.com/cube/overview/5e4f
-  imageURL: https://cards.scryfall.io/art_crop/front/e/b/eb28b35c-28a5-4042-b21d-6d43658a16eb.jpg?1591196097
+  imageURL: https://assets.cubecobra.com/cardimages/eb28b35c-28a5-4042-b21d-6d43658a16eb/art_crop.webp
   color: '#5A7F25'
   defunct: true
 
@@ -233,7 +233,7 @@
   owner: Patrick
   category: cube
   link: https://cubecobra.com/cube/overview/tupelohoney
-  imageURL: https://cards.scryfall.io/art_crop/front/2/6/26e090d4-e7fe-403c-9aca-05c1b45ed238.jpg?1562902230
+  imageURL: https://assets.cubecobra.com/cardimages/26e090d4-e7fe-403c-9aca-05c1b45ed238/art_crop.webp
   color: '#C9644A'
   description: All spells cost 2 mana or less.
 
@@ -244,7 +244,7 @@
     A cube that leans in significantly into graveyard synergies, is slightly
     powered down, and contains only a handful of artifacts.
   link: https://cubecobra.com/cube/list/compost
-  imageURL: https://cards.scryfall.io/art_crop/front/1/3/13c5a1ce-932a-4b3d-8b86-ed920e646afc.jpg?1593092623
+  imageURL: https://assets.cubecobra.com/cardimages/13c5a1ce-932a-4b3d-8b86-ed920e646afc/art_crop.webp
   color: '#7C9432'
   defunct: true
 
@@ -255,7 +255,7 @@
     Designed to be played with 2 or 4 players. High powered, very synergistic,
     and full of  infinite combos.
   link: https://cubecobra.com/cube/overview/arto
-  imageURL: https://cards.scryfall.io/art_crop/front/c/3/c32b5b2e-dabf-4672-b476-4873781f636e.jpg?1626096405
+  imageURL: https://assets.cubecobra.com/cardimages/c32b5b2e-dabf-4672-b476-4873781f636e/art_crop.webp
   color: '#D9322C'
   defunct: true
 
@@ -267,7 +267,7 @@
     from draft's past. Designed by May a.k.a. Myagic. Available in the NLB game
     library!
   link: https://cubecobra.com/cube/overview/7e7e1cec-b9de-424d-a95c-db2f418dc649
-  imageURL: https://cards.scryfall.io/art_crop/back/c/a/caa57b63-bb11-45e8-8795-de92ca61f4f1.jpg?1776203263
+  imageURL: https://assets.cubecobra.com/cardimages/caa57b63-bb11-45e8-8795-de92ca61f4f1/art_crop_back.webp
   color: '#4073A5'
 
 - name: Out of the Dead Land
@@ -278,7 +278,7 @@
     conceptual limit and embrace the spiritual nature of the journey into the
     wasteland.
   link: https://cubecobra.com/cube/overview/Deadland2
-  imageURL: https://cards.scryfall.io/art_crop/front/c/9/c9dbfc7c-164d-47b8-8f05-987864fca89b.jpg?1562721899
+  imageURL: https://assets.cubecobra.com/cardimages/c9dbfc7c-164d-47b8-8f05-987864fca89b/art_crop.webp
   color: '#6C7B86'
   defunct: true
 
@@ -289,7 +289,7 @@
     All creatures have power or toughness 2 or less in this synergy forward,
     long game environment.
   link: https://cubecobra.com/cube/overview/1bcan
-  imageURL: https://cards.scryfall.io/art_crop/front/b/b/bb9ad57f-cca2-4717-a951-cbe3c7782efe.jpg?1576381637
+  imageURL: https://assets.cubecobra.com/cardimages/bb9ad57f-cca2-4717-a951-cbe3c7782efe/art_crop.webp
   imagePosition: 35%
   color: '#B0422B'
   defunct: true
@@ -300,7 +300,7 @@
   description:
     The core gameplay of magic is just already great, lets celebrate the basics.
   link: https://cubecobra.com/cube/overview/honhonhon
-  imageURL: https://cards.scryfall.io/art_crop/front/4/0/409f9b88-f03e-40b6-9883-68c14c37c0de.jpg?1562546736
+  imageURL: https://assets.cubecobra.com/cardimages/409f9b88-f03e-40b6-9883-68c14c37c0de/art_crop.webp
   color: '#B0422B'
 
 - name: The Starter Cube
@@ -308,7 +308,7 @@
   category: cube
   description: Budget Cube designed by Solely Singleton.
   link: https://www.cubecobra.com/cube/overview/thestartercube
-  imageURL: https://cards.scryfall.io/art_crop/front/9/1/919cd266-b796-4a1c-937f-76b565c82495.jpg?1562202349
+  imageURL: https://assets.cubecobra.com/cardimages/919cd266-b796-4a1c-937f-76b565c82495/art_crop.webp
   color: '#7B896B'
   defunct: true
 
@@ -319,7 +319,7 @@
     Mid power cube (compared to a powered one and a peasant one) focused on
     interaction, mildly flexible archetypes, and play decisions.
   link: https://cubecobra.com/cube/overview/42d61463-7431-4b0d-a315-87b6496abc91
-  imageURL: https://cards.scryfall.io/art_crop/front/3/9/3941e799-a254-423e-90bb-091dbe56ca6a.jpg?1562053745
+  imageURL: https://assets.cubecobra.com/cardimages/3941e799-a254-423e-90bb-091dbe56ca6a/art_crop.webp
   color: '#E8D36A'
   defunct: true
 
@@ -331,7 +331,7 @@
     playable and powerful. The cube does stay away from certain old school
     tropes though.
   link: https://cubecobra.com/cube/overview/oldestschool
-  imageURL: https://cards.scryfall.io/art_crop/front/a/5/a594299e-fc3a-4d46-bd58-1a9cf7ddbdd7.jpg?1559591747
+  imageURL: https://assets.cubecobra.com/cardimages/a594299e-fc3a-4d46-bd58-1a9cf7ddbdd7/art_crop.webp
   imagePosition: 30%
   color: '#50793C'
 
@@ -342,7 +342,7 @@
     A cube in development with two cards from every* set, plus a land from each
     expansion.
   link: https://cubecobra.com/cube/overview/TheArk
-  imageURL: https://cards.scryfall.io/art_crop/front/9/5/9598b346-a47d-4c4c-9571-156824e86b9c.jpg?1562922771
+  imageURL: https://assets.cubecobra.com/cardimages/9598b346-a47d-4c4c-9571-156824e86b9c/art_crop.webp
   color: '#4B7DAA'
   defunct: true
 
@@ -351,7 +351,7 @@
   category: cube
   description: A high fantasy themed cube full of knights and dragons.
   link: https://cubecobra.com/cube/overview/Campaign
-  imageURL: https://cards.scryfall.io/art_crop/front/1/1/1183d4d7-094b-4024-ab1d-23c458cb7e71.jpg?1726868808
+  imageURL: https://assets.cubecobra.com/cardimages/1183d4d7-094b-4024-ab1d-23c458cb7e71/art_crop.webp
   imagePosition: 15%
   color: '#DB4529'
 
@@ -360,7 +360,7 @@
   category: cube
   description: 👈 look at that little freak
   link: https://cubecobra.com/cube/overview/itjusttakessometime
-  imageURL: https://cards.scryfall.io/art_crop/front/f/1/f1b45f8f-8f41-426d-b773-1e8cdfbff6f8.jpg?1562943588
+  imageURL: https://assets.cubecobra.com/cardimages/ca6f13a2-9243-4ce9-9f71-bed74355b781/art_crop.webp
   color: '#4C6045'
 
 - name: Standard Peasant Cube
@@ -370,7 +370,7 @@
     Peasant standard cube including only common and uncommon cards from standard
     legal sets. Originally designed "Zac the Crafter".
   link: http://cubecobra.com/cube/overview/078ff41e-593c-4aed-809e-4f8efdf63cf8
-  imageURL: https://cards.scryfall.io/art_crop/front/d/a/dad34ae5-56b4-4394-be02-e043dc1cc23d.jpg?1739658148
+  imageURL: https://assets.cubecobra.com/cardimages/dad34ae5-56b4-4394-be02-e043dc1cc23d/art_crop.webp
   imagePosition: 40%
   color: '#C1405D'
   defunct: true
@@ -383,7 +383,7 @@
     sucks at drafting his own cube. Sundial of the infinite is one of my
     favorite cards and I never made it work in modern.
   link: http://cubecobra.com/cube/overview/synergyfunhouse
-  imageURL: https://cards.scryfall.io/art_crop/front/c/9/c973bce5-77d7-43f7-a559-25acb80d876a.jpg?1673917454
+  imageURL: https://assets.cubecobra.com/cardimages/c973bce5-77d7-43f7-a559-25acb80d876a/art_crop.webp
   color: '#C1405D'
   defunct: true
 
@@ -394,7 +394,7 @@
     Redraft a classic limited format. The draft includes collated packs with
     some modifications to improve the experience.
   link: https://cubecobra.com/cube/overview/nofetchnonexus
-  imageURL: https://cards.scryfall.io/art_crop/front/2/5/25f0f6a2-b392-45e6-97c4-4f00016144d3.jpg?1562783827
+  imageURL: https://assets.cubecobra.com/cardimages/25f0f6a2-b392-45e6-97c4-4f00016144d3/art_crop.webp
   imagePosition: 80%
   color: '#AC7A4E'
   defunct: true
@@ -406,7 +406,7 @@
     Magic with no counters, tokens, double faced cards or shuffling. Designed by
     @TheOinkinator.
   link: https://cubecobra.com/cube/overview/protectionfromwordy
-  imageURL: https://cards.scryfall.io/art_crop/front/8/e/8ed908d6-6d06-4ccb-9577-37ef2d01c1a5.jpg?1562921516
+  imageURL: https://assets.cubecobra.com/cardimages/8ed908d6-6d06-4ccb-9577-37ef2d01c1a5/art_crop.webp
   color: '#62B84C'
   defunct: true
 
@@ -417,7 +417,7 @@
     A clone of the MTGO Vintage Cube with some small changes. Printed on playing
     cards.
   link: https://cubecobra.com/cube/overview/wizardpoker
-  imageURL: https://cards.scryfall.io/art_crop/front/1/0/1016a750-2a18-4443-a600-957eb4026d3a.jpg?1712355556
+  imageURL: https://assets.cubecobra.com/cardimages/1016a750-2a18-4443-a600-957eb4026d3a/art_crop.webp
   color: '#ED8B44'
   defunct: true
 
@@ -426,7 +426,7 @@
   category: rare-cube
   description: Set cube to replicate Unstable retail draft with a little extra!
   link: https://cubecobra.com/cube/overview/unstableplus
-  imageURL: https://cards.scryfall.io/art_crop/front/0/0/007ce039-def1-4039-a0a0-ba72e8872dc5.jpg?1690725283
+  imageURL: https://assets.cubecobra.com/cardimages/007ce039-def1-4039-a0a0-ba72e8872dc5/art_crop.webp
   color: '#B2B07A'
   defunct: true
 
@@ -437,7 +437,7 @@
     A harsh environment where colored mana, something you typically take for
     granted, is a scarce resource. Designed by @TheOinkinator.
   link: https://cubecobra.com/cube/overview/taker
-  imageURL: https://cards.scryfall.io/art_crop/front/2/6/265d3d67-37de-4461-86d0-0f398b5e4169.jpg?1562636768
+  imageURL: https://assets.cubecobra.com/cardimages/265d3d67-37de-4461-86d0-0f398b5e4169/art_crop.webp
   color: '#828282'
   defunct: true
 
@@ -448,7 +448,7 @@
     "Let's all come together and enjoy the best mechanic ever: Bargain from
     Wilds of Eldraine."
   link: https://cubecobra.com/cube/about/betweentwodunes?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/9/5/95a96eb1-f87c-4b1d-82c7-f239bcbc62b8.jpg?1562201796
+  imageURL: https://assets.cubecobra.com/cardimages/95a96eb1-f87c-4b1d-82c7-f239bcbc62b8/art_crop.webp
   color: '#AB5596'
   defunct: true
 
@@ -458,7 +458,7 @@
   description:
     Lord of the Rings set Cube with added fixing and some light curation.
   link: https://cubecobra.com/cube/overview/004ff185-8e29-47cb-9668-a0dddeb97f96
-  imageURL: https://cards.scryfall.io/art_crop/front/4/2/4218b57c-111d-478c-af38-fd6f971bd2d0.jpg?1695448759
+  imageURL: https://assets.cubecobra.com/cardimages/4218b57c-111d-478c-af38-fd6f971bd2d0/art_crop.webp
   color: '#BD6338'
 
 - name: Sram's Cabin Cube
@@ -468,7 +468,7 @@
     An interactive, synergy driven environment based around Sram's key
     principal; vehicles, Equipment, and Auras.
   link: https://cubecobra.com/cube/list/fa4c6d1f-ea49-4dfd-b249-c6e97cf65cf5
-  imageURL: https://cards.scryfall.io/art_crop/front/3/e/3e565e38-43d5-482e-a911-ce525dfee74f.jpg?1624739675
+  imageURL: https://assets.cubecobra.com/cardimages/3e565e38-43d5-482e-a911-ce525dfee74f/art_crop.webp
   color: '#763726'
 
 - name: Soups On!
@@ -476,7 +476,7 @@
   category: cube
   description: null
   link: https://cubecobra.com/cube/list/Soup
-  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
+  imageURL: https://assets.cubecobra.com/cardimages/3d946df5-f206-4241-bb55-97db67dc793c/art_crop.webp
   color: '#763726'
 
 - name: Unnamed Power Cube
@@ -485,7 +485,7 @@
   description:
     Full-powered vintage cube. Influenced by the MODO Vintage Cube and others.
   link: https://cubecobra.com/cube/overview/c1567f9b-e0b7-49da-9528-97f416666006
-  imageURL: https://cards.scryfall.io/art_crop/front/b/0/b0faa7f2-b547-42c4-a810-839da50dadfe.jpg?1559591477
+  imageURL: https://assets.cubecobra.com/cardimages/b0faa7f2-b547-42c4-a810-839da50dadfe/art_crop.webp
   imagePosition: 65%
   color: '#448E3A'
 
@@ -494,7 +494,7 @@
   category: cube
   description: Here we do bad things, powerfully.
   link: https://cubecobra.com/cube/overview/monodece
-  imageURL: https://cards.scryfall.io/art_crop/front/f/d/fde1c8b5-1e01-4920-8d02-bf80d5b238c5.jpg?1562942854
+  imageURL: https://assets.cubecobra.com/cardimages/fde1c8b5-1e01-4920-8d02-bf80d5b238c5/art_crop.webp
   imagePosition: left
   color: '#7C94B6'
 
@@ -505,7 +505,7 @@
     Budget, multicolor forward jank. Most cards are rares or mythics under a
     dollar.
   link: https://www.cubecobra.com/cube/overview/jankrare
-  imageURL: https://cards.scryfall.io/art_crop/front/8/d/8d171b46-69e7-4e39-b3b2-97ed022cd933.jpg?1593092710
+  imageURL: https://assets.cubecobra.com/cardimages/8d171b46-69e7-4e39-b3b2-97ed022cd933/art_crop.webp
   imagePosition: right
   color: '#863974'
 
@@ -516,7 +516,7 @@
     A vintage legality, pauper cube designed to be approachable to new players
     and interesting to seasoned veterans.
   link: https://cubecobra.com/cube/overview/62b5653883be610fb3f9f5cc
-  imageURL: https://cards.scryfall.io/art_crop/front/c/0/c0c8057f-b45b-4f67-90cd-c808b5e9cbfa.jpg?1562933718
+  imageURL: https://assets.cubecobra.com/cardimages/c0c8057f-b45b-4f67-90cd-c808b5e9cbfa/art_crop.webp
   color: '#71A055'
 
 - name: EDH Grixis Chaos
@@ -524,7 +524,7 @@
   category: cube
   description: 3 color, multiplayer commander Cube showcasing Grixis themes.
   link: https://cubecobra.com/cube/overview/GrixChaos
-  imageURL: https://cards.scryfall.io/art_crop/front/0/8/087c3a0d-c710-4451-989e-596b55352184.jpg?1670031740
+  imageURL: https://assets.cubecobra.com/cardimages/087c3a0d-c710-4451-989e-596b55352184/art_crop.webp
   color: '#4F97AB'
   defunct: true
 
@@ -533,7 +533,7 @@
   category: rare-cube
   description: A Classic, powerful pauper cube with fast fixing lands.
   link: https://cubecobra.com/cube/overview/de033bbd-7184-4212-b1da-0f6277283b81
-  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
+  imageURL: https://assets.cubecobra.com/cardimages/3d946df5-f206-4241-bb55-97db67dc793c/art_crop.webp
   color: '#D1AC5D'
 
 - name: The Red Terror
@@ -541,7 +541,7 @@
   category: cube
   description: WUBRG Ice-cream with extra Raspberry Swirl.
   link: https://cubecobra.com/cube/overview/42e16b6b-3c37-484d-a50c-cf21087d97fd
-  imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab0ba385-1f68-4add-a5e6-9df53d84b66f.jpg?1674059119
+  imageURL: https://assets.cubecobra.com/cardimages/ab0ba385-1f68-4add-a5e6-9df53d84b66f/art_crop.webp
   color: '#CE403B'
 
 - name: Ice Cube
@@ -549,7 +549,7 @@
   category: rare-cube
   description: Replicates the play of casual Magic around the Stronghold era.
   link: https://cubecobra.com/cube/overview/w3tr
-  imageURL: https://cards.scryfall.io/art_crop/front/8/1/81b87a58-b20c-4f38-afa3-59d398195740.jpg?1562919062
+  imageURL: https://assets.cubecobra.com/cardimages/81b87a58-b20c-4f38-afa3-59d398195740/art_crop.webp
   imagePosition: 35%
   color: '#617BAC'
 
@@ -559,7 +559,7 @@
   description:
     This is the fan-made "Spiral Chaos" cube built using AI-generated cards!
   link: https://cubecobra.com/cube/overview/2kweb
-  imageURL: https://cards.scryfall.io/art_crop/front/9/2/92274971-7c4a-4326-b0fe-75e2d124f718.jpg?1559591491
+  imageURL: https://assets.cubecobra.com/cardimages/92274971-7c4a-4326-b0fe-75e2d124f718/art_crop.webp
   color: '#C55845'
 
 - name: Strategic Inevitability Cube
@@ -567,7 +567,7 @@
   category: rare-cube
   description: All combos all the time, but not the one's you're familiar with.
   link: https://cubecobra.com/cube/overview/a16b2d9a-4dc0-4bff-b83d-af9c2a034ac3
-  imageURL: https://cards.scryfall.io/art_crop/front/5/9/59418766-5567-4ec4-af1f-1cb2db2958d0.jpg?1562760146
+  imageURL: https://assets.cubecobra.com/cardimages/59418766-5567-4ec4-af1f-1cb2db2958d0/art_crop.webp
   imagePosition: 70%
   color: '#D1762D'
 
@@ -578,7 +578,7 @@
     A cube featuring all of the best black, white, and black white cards! No
     other colors included. I guess you could call this a gray area!
   link: https://cubecobra.com/cube/overview/2ymq9
-  imageURL: https://cards.scryfall.io/art_crop/front/5/e/5e07f522-df4d-4090-b53a-1934bd8542fb.jpg?1562609869
+  imageURL: https://assets.cubecobra.com/cardimages/5e07f522-df4d-4090-b53a-1934bd8542fb/art_crop.webp
   color: '#D7742D'
 
 - name: Nooria's Cube
@@ -589,7 +589,7 @@
     undersupported archetypes that might be traps or might work. Everything from
     Doomsday + Oracle to Multani Yavimaya's Avatar + Ayala's influence.
   link: https://cubecobra.com/cube/overview/ff0
-  imageURL: https://cards.scryfall.io/art_crop/front/f/8/f802ee1b-14d4-4ef3-84be-d9d959ec42d3.jpg?1562640140
+  imageURL: https://assets.cubecobra.com/cardimages/f802ee1b-14d4-4ef3-84be-d9d959ec42d3/art_crop.webp
   imagePosition: 30%
   color: '#5D2E5D'
 
@@ -600,7 +600,7 @@
     A focusing on the most iconic cards and strategies that are concentrated in
     black.
   link: https://cubecobra.com/cube/about/notmonoblack?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/0/a/0a5df970-c6ba-4824-b8ba-67244aec2b82.jpg?1562628587
+  imageURL: https://assets.cubecobra.com/cardimages/0a5df970-c6ba-4824-b8ba-67244aec2b82/art_crop.webp
   imagePosition: 30%
   color: '#552741'
 
@@ -620,7 +620,7 @@
   category: rare-cube
   description: Completely foiled out peasant cube.
   link: https://cubecobra.com/cube/overview/OopsAllFoils
-  imageURL: https://cards.scryfall.io/art_crop/front/7/1/71396bc0-a0e4-41c1-a26f-c4b8f8752891.jpg?1562270236
+  imageURL: https://assets.cubecobra.com/cardimages/820390d7-fabb-4556-8d30-99f0a58b2da5/art_crop.webp
   imagePosition: 25%
   color: '#5F7FA8'
 
@@ -631,7 +631,7 @@
     Two headed giant cube. 8 players draft in four teams of two, making picks
     together and building two decks from a shared pool.
   link: https://cubecobra.com/cube/overview/JollyCoop
-  imageURL: https://cards.scryfall.io/art_crop/front/d/e/de4f53fc-69d7-49fb-885b-4cc02bf5facc.jpg?1562594477
+  imageURL: https://assets.cubecobra.com/cardimages/de4f53fc-69d7-49fb-885b-4cc02bf5facc/art_crop.webp
   color: '#825269'
 
 - name: Everything Everywhere
@@ -641,7 +641,7 @@
     Play powerful magic without color restrictions from a constantly evolving
     card pool. All cards can be played face down as a rainbow land.
   link: https://cubecobra.com/cube/overview/Everything
-  imageURL: https://cards.scryfall.io/art_crop/front/6/b/6b76b7a4-f398-4bb4-833e-97ec0d4e581a.jpg?1726236906
+  imageURL: https://assets.cubecobra.com/cardimages/6b76b7a4-f398-4bb4-833e-97ec0d4e581a/art_crop.webp
   color: '#A4BABB'
 
 - name: Super Magic Fun Times
@@ -651,7 +651,7 @@
     High Power with High Interaction. More Gold Cards, Less Planeswalkers. More
     Mana Fixing, Less Mana Ramp.
   link: https://cubecobra.com/cube/overview/smft
-  imageURL: https://cards.scryfall.io/art_crop/front/b/9/b9f71c3b-0840-475f-9c17-fdacbc7f3213.jpg?1767658560
+  imageURL: https://assets.cubecobra.com/cardimages/b9f71c3b-0840-475f-9c17-fdacbc7f3213/art_crop.webp
   imagePosition: 20%
   color: '#8AC693'
 
@@ -662,7 +662,7 @@
     Synergistic environment with only cards worth less than 50 cents and splashy
     rares.
   link: https://cubecobra.com/cube/overview/50Cent
-  imageURL: https://cards.scryfall.io/art_crop/front/0/7/076b4810-8e92-4d8f-be82-fc799ec47ee3.jpg?1723444211
+  imageURL: https://assets.cubecobra.com/cardimages/076b4810-8e92-4d8f-be82-fc799ec47ee3/art_crop.webp
   color: '#E8BF1D'
 
 - name: The Nutritious Cube
@@ -682,7 +682,7 @@
     This is a cube of numbers, numbers, and numbers some more. Every single card
     in the cube cares in some way about numbers!
   link: https://cubecobra.com/cube/overview/numbercrunchers
-  imageURL: https://cards.scryfall.io/art_crop/front/1/9/19d31d5c-6d4d-4bd8-b69c-b44c5b7f089f.jpg?1562900416
+  imageURL: https://assets.cubecobra.com/cardimages/19d31d5c-6d4d-4bd8-b69c-b44c5b7f089f/art_crop.webp
   color: '#7F2F3C'
 
 - name: Protean
@@ -692,7 +692,7 @@
     Whenever a player casts a spell each nonland permanent they control becomes
     it's colors until their next turn.
   link: https://cubecobra.com/cube/about/protean?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/b/f/bf6e59be-f959-4f4a-8c2d-b7c441e88135.jpg?1706242205
+  imageURL: https://assets.cubecobra.com/cardimages/bf6e59be-f959-4f4a-8c2d-b7c441e88135/art_crop.webp
   color: '#11B1E4'
 
 - name: 'The Menagerie: Critters and Creepers'
@@ -702,7 +702,7 @@
     Critters face off versus the creeps! And also big things... Will the might
     of the meek prevail?
   link: https://cubecobra.com/cube/overview/44c38caf-9209-4ca8-84fb-2ea6ca4cba66
-  imageURL: https://cards.scryfall.io/art_crop/front/5/c/5c974c68-1a9f-457a-8bcb-265d29fee8e4.jpg?1604781284
+  imageURL: https://assets.cubecobra.com/cardimages/5c974c68-1a9f-457a-8bcb-265d29fee8e4/art_crop.webp
   imagePosition: 30%
   color: '#925886'
 
@@ -713,7 +713,7 @@
     Inspired by the play patterns of pixie decks in standard and glint hawk
     decks in pauper.
   link: https://cubecobra.com/cube/overview/bouncy
-  imageURL: https://cards.scryfall.io/art_crop/front/b/1/b1c1d05b-92be-40d7-859f-75293a531a84.jpg?1562155044
+  imageURL: https://assets.cubecobra.com/cardimages/b1c1d05b-92be-40d7-859f-75293a531a84/art_crop.webp
   color: '#1A60A7'
 
 - name: '"Pet" Cards'
@@ -722,7 +722,7 @@
   description:
     My collection of pet cards, built around modified Bloomburrow archetypes.
   link: https://cubecobra.com/cube/overview/a3fbec6d-3565-47de-ad86-c2a3bf804019
-  imageURL: https://cards.scryfall.io/art_crop/front/0/3/032ee0fd-9eb3-4d81-9972-9e7f4c4d64e4.jpg?1559600443
+  imageURL: https://assets.cubecobra.com/cardimages/032ee0fd-9eb3-4d81-9972-9e7f4c4d64e4/art_crop.webp
   color: '#8DB0C9'
 
 - name: Mystery Booster 2002
@@ -730,7 +730,7 @@
   category: rare-cube
   description: They should print more prison pieces.
   link: https://cubecobra.com/cube/overview/mysterybooster2002
-  imageURL: https://cards.scryfall.io/art_crop/front/a/b/ab3cec7e-513e-400d-a1a8-2c71cdde02c6.jpg?1580015285
+  imageURL: https://assets.cubecobra.com/cardimages/3d946df5-f206-4241-bb55-97db67dc793c/art_crop.webp
   imagePosition: left
   color: '#868CE4'
 
@@ -741,7 +741,7 @@
     Low-power graveyard focused Cube  including no cards with the creature type
     human, and, where possible, no cards depicting humans.
   link: https://cubecobra.com/cube/about/postanthro?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/d/9/d9327905-a254-4885-8310-69fc153ec52f.jpg?1562793988
+  imageURL: https://assets.cubecobra.com/cardimages/d9327905-a254-4885-8310-69fc153ec52f/art_crop.webp
   imagePosition: 40%
   color: '#727422'
 
@@ -753,7 +753,7 @@
     by other Tarkiri cards, and puts them together into one big draft
     environment
   link: https://cubecobra.com/cube/about/TheTarkube?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/0/2/02bc2415-b1d1-467a-9578-3948dda166cf.jpg?1562781854
+  imageURL: https://assets.cubecobra.com/cardimages/02bc2415-b1d1-467a-9578-3948dda166cf/art_crop.webp
   color: '#8A2E20'
 
 - name: 'Kamigawa: Neon Dynasty Remastered Cube'
@@ -764,15 +764,27 @@
     between enchantments and artifacts. Kamigawa: Neon Dynasty like you never
     played before'
   link: https://cubecobra.com/cube/about/c0f5d926-6545-46ac-9b64-d59f3761d474?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/f/6/f66aaba3-4a28-4fcf-926a-34bbbf0dbeb4.jpg?1654569538
+  imageURL: https://assets.cubecobra.com/cardimages/f66aaba3-4a28-4fcf-926a-34bbbf0dbeb4/art_crop.webp
   color: '#17181A'
+
+- name: Seventeen Samurai (A Companion Cube)
+  owner: Nick
+  category: cube
+  description:
+    Seventeen Samurai explores the companion mechanic. With slight rules
+    modifications—7 new companions and 0 cost to place in your hand—Seventeen
+    Samurai is a low skill floor, high skill ceiling draft environment.
+  link: https://cubecobra.com/cube/about/089b959d-b679-4dd8-a816-ab03dc553111?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/097ff232-477b-4b50-a8ea-4391b4ae9efe/art_crop.webp
+  imagePosition: 70%
+  color: '#6D3B92'
 
 - name: Dune Cube Prime
   owner: Marisa
   category: cube
   description: null
   link: https://www.cubecobra.com/cube/about/35eb9022-21ed-4329-9719-1b53301ff543?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/3/d/3d946df5-f206-4241-bb55-97db67dc793c.jpg?1759225442
+  imageURL: https://assets.cubecobra.com/cardimages/3d946df5-f206-4241-bb55-97db67dc793c/art_crop.webp
   color: '#868CE4'
   defunct: true
 
@@ -781,7 +793,7 @@
   category: cube
   description: A cube full of modal spells and effects.
   link: https://cubecobra.com/cube/list/decisions-decisions
-  imageURL: https://cards.scryfall.io/art_crop/front/c/8/c8eb8d39-9eb8-4592-ab74-54cdc2460e62.jpg?1543674937
+  imageURL: https://assets.cubecobra.com/cardimages/c8eb8d39-9eb8-4592-ab74-54cdc2460e62/art_crop.webp
   color: '#437EBC'
 
 - name: Shaved Ice
@@ -791,7 +803,7 @@
     A cube that's entirely base white, with a little splash of other colors on
     top. Do you get it?
   link: https://cubecobra.com/cube/about/shaved-ice?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/d/8/d8db2b8e-dce9-49b7-833f-381ee55288cb.jpg?1562477599
+  imageURL: https://assets.cubecobra.com/cardimages/d8db2b8e-dce9-49b7-833f-381ee55288cb/art_crop.webp
   color: '#D5B561'
 
 - name: The Barrens
@@ -800,7 +812,7 @@
   description:
     What happens when the only mana fixing is an abundance of Ash Barrens?
   link: https://cubecobra.com/cube/about/ash-barrens
-  imageURL: https://cards.scryfall.io/art_crop/front/9/d/9d7ac112-bb20-4ea4-b797-5d21f6b7c121.jpg?1562412343
+  imageURL: https://assets.cubecobra.com/cardimages/9d7ac112-bb20-4ea4-b797-5d21f6b7c121/art_crop.webp
   color: '#776E6D'
 
 - name: The Library of Babel
@@ -810,5 +822,5 @@
     A mostly peasant cubes with lots of synergistic build-arounds and
     interaction.
   link: https://cubecobra.com/cube/about/lob?view=primer
-  imageURL: https://cards.scryfall.io/art_crop/front/5/0/502d77d6-c5c9-4def-80cb-7905fbbdefcb.jpg?1559592234
+  imageURL: https://assets.cubecobra.com/cardimages/502d77d6-c5c9-4def-80cb-7905fbbdefcb/art_crop.webp
   color: '#713A2F'
