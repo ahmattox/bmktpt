@@ -231,7 +231,7 @@
 
 - name: Tupelo Honey
   owner: Patrick
-  category: cube
+  category: rare-cube
   link: https://cubecobra.com/cube/overview/tupelohoney
   imageURL: https://assets.cubecobra.com/cardimages/26e090d4-e7fe-403c-9aca-05c1b45ed238/art_crop.webp
   color: '#C9644A'
@@ -261,7 +261,7 @@
 
 - name: May's Fae Cube
   owner: No Land Beyond Game Library
-  category: cube
+  category: rare-cube
   description:
     Once upon a time, there was happy little cube that had all the cute things
     from draft's past. Designed by May a.k.a. Myagic. Available in the NLB game
@@ -488,6 +488,7 @@
   imageURL: https://assets.cubecobra.com/cardimages/b0faa7f2-b547-42c4-a810-839da50dadfe/art_crop.webp
   imagePosition: 65%
   color: '#448E3A'
+  defunct: true
 
 - name: Double Black Diamonds
   owner: Morgan
@@ -496,6 +497,16 @@
   link: https://cubecobra.com/cube/overview/monodece
   imageURL: https://assets.cubecobra.com/cardimages/fde1c8b5-1e01-4920-8d02-bf80d5b238c5/art_crop.webp
   imagePosition: left
+  color: '#7C94B6'
+
+- name: The Terrain Park
+  owner: Morgan
+  category: cube
+  description:
+    Some days you just want to head to the Terrain Park so you can hang around
+    and try something funky.
+  link: https://cubecobra.com/cube/about/TerrainPark?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/6827594e-3912-44f2-bd84-bf7ef69276de/art_crop.webp
   color: '#7C94B6'
 
 - name: Jank Rare
@@ -544,6 +555,14 @@
   imageURL: https://assets.cubecobra.com/cardimages/ab0ba385-1f68-4add-a5e6-9df53d84b66f/art_crop.webp
   color: '#CE403B'
 
+- name: Resplendent
+  owner: Andrew
+  category: cube
+  description: Draft Shuffle Play
+  link: https://cubecobra.com/cube/about/resplendent?view=primer&s2=Color+Identity+Full&s3=Mana+Value
+  imageURL: https://assets.cubecobra.com/cardimages/df93ab68-3560-4482-9b86-1c8aa7ec2be6/art_crop.webp
+  color: '#C97152'
+
 - name: Ice Cube
   owner: Brendan
   category: rare-cube
@@ -564,8 +583,10 @@
 
 - name: Strategic Inevitability Cube
   owner: Brendan
-  category: rare-cube
-  description: All combos all the time, but not the one's you're familiar with.
+  category: cube
+  description:
+    A combo-heavy cube that focuses on having interlocking plans for what to do
+    after you both "go off" if the game still doesn't end.
   link: https://cubecobra.com/cube/overview/a16b2d9a-4dc0-4bff-b83d-af9c2a034ac3
   imageURL: https://assets.cubecobra.com/cardimages/59418766-5567-4ec4-af1f-1cb2db2958d0/art_crop.webp
   imagePosition: 70%
@@ -603,17 +624,6 @@
   imageURL: https://assets.cubecobra.com/cardimages/0a5df970-c6ba-4824-b8ba-67244aec2b82/art_crop.webp
   imagePosition: 30%
   color: '#552741'
-
-- name: Island of Misfit Toys
-  owner: Michael
-  category: cube
-  description:
-    Powerful cards that aren't quite good enough for the "vintage cube" any
-    more.
-  link: https://cubecobra.com/cube/overview/misfittoys
-  imageURL: https://cards.scryfall.io/art_crop/front/0/4/04d0e3f2-04cb-4775-947e-3c92e61b8fac.jpg?1698988435
-  color: '#A3CEE8'
-  defunct: true
 
 - name: Oops, All Foils
   owner: Vinny
@@ -665,15 +675,36 @@
   imageURL: https://assets.cubecobra.com/cardimages/076b4810-8e92-4d8f-be82-fc799ec47ee3/art_crop.webp
   color: '#E8BF1D'
 
-- name: The Nutritious Cube
+- name: Metabolic Machine
   owner: Michael
   category: cube
   description:
     'Welcome to the Nutritious Cube—my personal take on a Magic: The Gathering
     cube, themed around the aspects of nutrition.'
-  link: https://cubecobra.com/cube/overview/nutritiouscube
-  imageURL: https://cards.scryfall.io/art_crop/front/7/a/7aa37f85-5336-4372-97a2-9c8b00798c7a.jpg?1692939153
+  link: https://cubecobra.com/cube/about/Metabolic?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/4224747e-1dbc-4a29-b5da-5916d8ca2768/art_crop.webp
   color: '#3F967E'
+
+- name: Island of Misfit Toys
+  owner: Michael
+  category: cube
+  description:
+    Powerful cards that aren't quite good enough for the "vintage cube" any
+    more.
+  link: https://cubecobra.com/cube/overview/misfittoys
+  imageURL: https://cards.scryfall.io/art_crop/front/0/4/04d0e3f2-04cb-4775-947e-3c92e61b8fac.jpg?1698988435
+  color: '#A3CEE8'
+  defunct: true
+
+- name: Where the Wild Things Are
+  owner: Michael
+  category: cube
+  description:
+    Everyone starts with a Pillar of Paruns in play. Then we go on an
+    adventure:)
+  link: https://cubecobra.com/cube/about/wildthings?view=primer&s1=Color+Category+Full
+  imageURL: https://assets.cubecobra.com/cardimages/59fb9591-399a-4196-a52d-f2954d287a10/art_crop.webp
+  color: '#638542'
 
 - name: Number Crunchers
   owner: Daerrik
