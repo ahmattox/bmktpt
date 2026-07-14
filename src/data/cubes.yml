@@ -726,6 +726,17 @@
   imageURL: https://assets.cubecobra.com/cardimages/bf6e59be-f959-4f4a-8c2d-b7c441e88135/art_crop.webp
   color: '#11B1E4'
 
+- name: The Cube of Theseus
+  owner: Daerrik
+  category: cube
+  description:
+    At the end of every draft, the top two players may each give me up to two
+    cards that I must add to the cube.
+  link: https://cubecobra.com/cube/about/theseuscube?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/3af0b9ce-0a9c-4619-95c1-bbbfffa7fcec/art_crop.webp
+  imagePosition: left
+  color: '#444647'
+
 - name: 'The Menagerie: Critters and Creepers'
   owner: Celaena
   category: cube
