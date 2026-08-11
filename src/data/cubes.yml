@@ -519,6 +519,7 @@
     and try something funky.
   link: https://cubecobra.com/cube/about/TerrainPark?view=primer
   imageURL: https://assets.cubecobra.com/cardimages/6827594e-3912-44f2-bd84-bf7ef69276de/art_crop.webp
+  imagePosition: left
   color: '#7C94B6'
 
 - name: Jank Rare
@@ -784,9 +785,8 @@
   category: rare-cube
   description: They should print more prison pieces.
   link: https://cubecobra.com/cube/overview/mysterybooster2002
-  imageURL: https://assets.cubecobra.com/cardimages/3d946df5-f206-4241-bb55-97db67dc793c/art_crop.webp
-  imagePosition: left
-  color: '#868CE4'
+  imageURL: https://assets.cubecobra.com/cardimages/ee9eb598-d2ef-4b3d-8038-bc33dc5e123e/art_crop.webp
+  color: '#3388B5'
 
 - name: The Post-Anthropocene
   owner: Bobby
@@ -878,3 +878,22 @@
   link: https://cubecobra.com/cube/about/lob?view=primer
   imageURL: https://assets.cubecobra.com/cardimages/502d77d6-c5c9-4def-80cb-7905fbbdefcb/art_crop.webp
   color: '#713A2F'
+
+- name: Kerosene
+  owner: Ian
+  category: cube
+  description: null
+  link: https://cubecobra.com/cube/about/d0074a13-dd6c-4c05-a401-6165f178049a?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/3c17e350-44f7-4413-ad24-7c5d6616effd/art_crop.webp
+  imagePosition: 60%
+  color: '#404286'
+
+- name: Legacy+ Unpowered
+  owner: Zack
+  category: cube
+  description:
+    Fairly typical legacy cube with some flavorful and experimental inclusions.
+  link: https://cubecobra.com/cube/about/zacklegacy?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/9e5b279e-4670-4a1e-87d0-3cab7e4f9e58/art_crop.webp
+  imagePosition: 80%
+  color: '#508BB0'
