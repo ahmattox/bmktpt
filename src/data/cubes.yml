@@ -27,6 +27,17 @@
   imageURL: https://assets.cubecobra.com/cardimages/c35aa7a8-5579-46b7-83ef-f5ecc2b31847/art_crop.webp
   color: '#7D9667'
 
+- name: Anti-war
+  owner: Anthony Mattox
+  category: cube
+  description:
+    A brutal color skewed environment full of damaging removal and resource
+    exploiting mechanics.
+  link: https://cubecobra.com/cube/about/anti-war?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/11dca9ba-b27f-4af8-9962-3794e743886f/art_crop.webp
+  imagePosition: 90%
+  color: '#B01C2E'
+
 - name: Bun Magic Cube
   owner: Andy Mangold
   category: cube
@@ -373,7 +384,18 @@
   description: 👈 look at that little freak
   link: https://cubecobra.com/cube/overview/itjusttakessometime
   imageURL: https://assets.cubecobra.com/cardimages/ca6f13a2-9243-4ce9-9f71-bed74355b781/art_crop.webp
+  imagePosition: 65%
   color: '#4C6045'
+
+- name: ZoSo
+  owner: Alex W
+  category: cube
+  description:
+    Old border dessert cube exploring the tension between multi color and high
+    devotion cards and old school nonsense.
+  link: https://cubecobra.com/cube/about/ZoSo?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/e46d0c10-ec09-48ba-9e93-1392dca8111a/art_crop.webp
+  color: '#C85938'
 
 - name: Standard Peasant Cube
   owner: Dean
@@ -520,7 +542,7 @@
   link: https://cubecobra.com/cube/about/TerrainPark?view=primer
   imageURL: https://assets.cubecobra.com/cardimages/6827594e-3912-44f2-bd84-bf7ef69276de/art_crop.webp
   imagePosition: left
-  color: '#7C94B6'
+  color: '#A58E5D'
 
 - name: Jank Rare
   owner: Andrew
@@ -571,10 +593,12 @@
 - name: Resplendent
   owner: Andrew
   category: cube
-  description: Draft Shuffle Play
+  description:
+    Draft. Shuffle. Play. A desert cube where players must play every card they
+    draft.
   link: https://cubecobra.com/cube/about/resplendent?view=primer&s2=Color+Identity+Full&s3=Mana+Value
   imageURL: https://assets.cubecobra.com/cardimages/df93ab68-3560-4482-9b86-1c8aa7ec2be6/art_crop.webp
-  color: '#C97152'
+  color: '#C06F27'
 
 - name: Ice Cube
   owner: Brendan
@@ -644,8 +668,7 @@
   description: Completely foiled out peasant cube.
   link: https://cubecobra.com/cube/overview/OopsAllFoils
   imageURL: https://assets.cubecobra.com/cardimages/820390d7-fabb-4556-8d30-99f0a58b2da5/art_crop.webp
-  imagePosition: 25%
-  color: '#5F7FA8'
+  color: '#98B2D2'
 
 - name: Jolly Cooperation
   owner: Adam
@@ -717,6 +740,16 @@
     adventure:)
   link: https://cubecobra.com/cube/about/wildthings?view=primer&s1=Color+Category+Full
   imageURL: https://assets.cubecobra.com/cardimages/59fb9591-399a-4196-a52d-f2954d287a10/art_crop.webp
+  color: '#638542'
+
+- name: Recent Relics
+  owner: Michael
+  category: cube
+  description:
+    A celebration of sets Amonkhet to Guilds of Ravnica, featuring the core
+    limited themes of the time.
+  link: https://cubecobra.com/cube/about/Relics?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/306ebfe1-428d-4f38-950e-b72a44262c25/art_crop.webp
   color: '#638542'
 
 - name: Number Crunchers
@@ -882,7 +915,9 @@
 - name: Kerosene
   owner: Ian
   category: cube
-  description: null
+  description:
+    Good 'ole midrange. Baneslayers are more fun than Mulldrifters, so let's
+    play with Baneslayers.
   link: https://cubecobra.com/cube/about/d0074a13-dd6c-4c05-a401-6165f178049a?view=primer
   imageURL: https://assets.cubecobra.com/cardimages/3c17e350-44f7-4413-ad24-7c5d6616effd/art_crop.webp
   imagePosition: 60%
@@ -894,6 +929,34 @@
   description:
     Fairly typical legacy cube with some flavorful and experimental inclusions.
   link: https://cubecobra.com/cube/about/zacklegacy?view=primer
-  imageURL: https://assets.cubecobra.com/cardimages/9e5b279e-4670-4a1e-87d0-3cab7e4f9e58/art_crop.webp
-  imagePosition: 80%
-  color: '#508BB0'
+  imageURL: https://assets.cubecobra.com/cardimages/d3ca43a4-d194-440f-8099-f1fa103a108d/art_crop.webp
+  color: '#62412C'
+
+- name: Revelry Cube
+  owner: Reprieve
+  category: cube
+  description:
+    Celebrating the beauties of nature, community, and revelry with plenty of
+    mana fixing and removal.
+  link: https://cubecobra.com/cube/about/revelry_cube?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/6f1bc3bb-46da-492a-850c-f1f588ad8d18/art_crop.webp
+  color: '#376FAC'
+
+- name: Modern-Day Peasant Cube
+  owner: Rusty K
+  category: cube
+  description: Peasant cubes feature classic mono and two color archetypes.
+  link: https://cubecobra.com/cube/about/2coan?view=primer
+  imageURL: https://assets.cubecobra.com/cardimages/64de7b1f-a03e-4407-91f1-e108a2f26735/art_crop.webp
+  color: '#3B84C0'
+
+- name: The Common Good
+  owner: Josh
+  category: cube
+  description:
+    A pauper cube aimed at highlighting some of Magic's most iconic commons
+    featuring popular play patterns from it's constructed precedent.
+  link: https://cubecobra.com/cube/about/bbe03af3-4b68-4423-ba5d-c4d29cfe05e6
+  imageURL: https://assets.cubecobra.com/cardimages/dacdd380-71cf-4832-bd02-3697501325f3/art_crop.webp
+  imagePosition: left
+  color: '#DD2C21'
