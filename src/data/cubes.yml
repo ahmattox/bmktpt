@@ -540,9 +540,8 @@
     Some days you just want to head to the Terrain Park so you can hang around
     and try something funky.
   link: https://cubecobra.com/cube/about/TerrainPark?view=primer
-  imageURL: https://assets.cubecobra.com/cardimages/6827594e-3912-44f2-bd84-bf7ef69276de/art_crop.webp
-  imagePosition: left
-  color: '#A58E5D'
+  imageURL: https://assets.cubecobra.com/cardimages/0254a437-5240-40ca-bf7b-d30b95942bf5/art_crop.webp
+  color: '#3B94B6'
 
 - name: Jank Rare
   owner: Andrew
