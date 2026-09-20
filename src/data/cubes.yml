@@ -877,7 +877,7 @@
 - name: The Modal Cube
   owner: Rohan
   category: cube
-  description: A cube full of modal spells and effects.
+  description: Flexible spells and the cards that love them.
   link: https://cubecobra.com/cube/list/decisions-decisions
   imageURL: https://assets.cubecobra.com/cardimages/c8eb8d39-9eb8-4592-ab74-54cdc2460e62/art_crop.webp
   color: '#437EBC'
@@ -886,13 +886,14 @@
   owner: Rohan
   category: cube
   description:
-    A cube that's entirely base white, with a little splash of other colors on
-    top. Do you get it?
+    A semi-desert cube that's mostly white, with other colors splashed on
+    top.  Get it?
   link: https://cubecobra.com/cube/about/shaved-ice?view=primer
-  imageURL: https://assets.cubecobra.com/cardimages/d8db2b8e-dce9-49b7-833f-381ee55288cb/art_crop.webp
+  imageURL: https://assets.cubecobra.com/cardimages/5b364f40-c3c0-4e3a-8556-73f6fcc19eec/art_crop.webp
+  imagePosition: 30%
   color: '#D5B561'
 
-- name: The Barrens
+- name: From the Ashes
   owner: Rohan
   category: cube
   description:
